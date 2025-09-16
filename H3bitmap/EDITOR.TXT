@@ -1,0 +1,1000 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+General
+Heroes of Might and Magic® III Map Editor
+"© 2000 Ubisoft Entertainment. All Rights Reserved. Heroes of Might and Magic, Heroes, Armageddon's Blade, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries. All other trademarks belong to their respective owners."
+Verze %s
+Heroes 3 soubory map (*.h3m)
+Heroes 3 Mapa
+Specifikace mapy
+%s Vlastnosti
+Edit Èasové události
+(Nic)
+Náhodnı
+Neznámı
+Zavazadlo
+Zkušenosti
+Magická energie
+Morálka
+Štìstí
+Surovina
+Suroviny
+Základní schopnost
+Základní schopnosti
+Artefakt
+Artefakty
+Kouzlo
+Kouzla
+Bojovník
+Bojovníci
+Druhotná schopnost
+Druhotné schopnosti
+Hráè %d (%s)
+ádnı hráè
+Nikdy
+Kadı den
+Kadé 2 dny
+Kadé 3 dny
+Kadé 4 dny
+Kadıch 5 dnù
+Kadıch 6 dnù
+Kadıch 7 dnù
+Kadıch 14 dní
+Kadıch 21 dní
+Kadıch 28 dní
+"Máš maximum z %d objektù typu ""%s"" na mapì!!"
+Z tohoto rodu ji není více pøístupnıch hrdinù!
+"Nejdøív musíš zvolit hráèe v menu ""Hráè"" a a potom umístit hrdinu na mapu!"
+Máš maximum z %d hrdinù pro jednoho hráèe!
+Grál ji byl na mapu umístìn!
+Grál musí bıt umístìn nejménì %d políèek od okraje mapy!
+Nemáš místo, kam bys vloil tento objekt!
+Debug Build
+Release Build
+Display musí bıt nastaven nejménì na 16bitové barvy, abys mohl spustit editor map!
+"Nesprávná verze mapy.
+
+Verze souboru = %d
+Souèasná verze = %d"
+Nesprávnı nebo poškozenı soubor s mapou.
+2 dny
+3 dny
+4 dny
+5 dnù
+6 dnù
+1 tıden
+2 tıdny
+3 tıdny
+4 tıdny
+5 tıdnù
+6 tıdnù
+7 tıdnù
+2 mìsíce
+3 mìsíce
+4 mìsíce
+5 mìsícù
+6 mìsícù
+7 mìsícù
+8 mìsícù
+9 mìsícù
+10 mìsícù
+11 mìsícù
+12 mìsícù
+(Kterékoliv mìsto)
+"%s na (%d, %d, %d)"
+%s  %s
+Náhodnı bojovník
+Náhodní bojovníci
+Váleèník
+Stavitel
+Prùzkumník
+Varování
+Kadı hrdina musí patøit nìkterému hráèi.
+Tento hráè ji má maximální poèet hrdinù.
+"%s  Pokraèování bude mít za následek ztrátu hrdiny ve mìstì.
+Pøeješ si pokraèovat?"
+Více hrdinù není pøístupno!
+Na mapì není ádnı hráè
+Náhodné mìsto
+Tım %d
+"""Na mapì není ádnı hráè.""
+Na mapì musí bıt nejménì jeden hrdina nebo mìsto náleící nìkterému hráèi, jinak bude mapa nehratelná.
+"
+"""Na mapì není ádné mìsto.""
+Mapa sice bude hratelná, ale hráèùv hrdina bez mìsta nemùe existovat déle ne sedm dní. Pak hráè hrdinu ztratí.
+"
+"""Mapa není pojmenována.""
+Pokud mapa nemá jméno, objeví se v seznamu map úplnì nahoøe s názvem Nepojmenovaná.
+"
+"""Mapa je bez popisu.""
+To je pouze upozornìní.  Mapa by mìla mít alespoò základní popis scénáøe a úkolu.
+"
+"""Na mapì je umístìn Grál, ale není umístìn ádnı obelisk.""
+Pokud na mapu umístíš Grál, mìl bys rozmístit i nìjaké obelisky, aby hráè mohl Grál najít.
+"
+"""%s vlastní na mapì jeden nebo více objektù, ale sám na mapì není.""
+Typickım pøíkladem této chyby je, e hráè vlastní dùl, obydlí bojovníkù, posádku, atd., ale hráè samotnı nemá na mapì ádné mìsto ani hrdinu.
+"
+""" %s má pøístav, ale je pøíliš daleko od moøe.""
+Pokud je mìsto s pøístavem pøíliš daleko od moøe, hráè sice bude schopen koupit loï, ale loï se na mapì neobjeví. Mìsto musí bıt umístìno tak, aby se základna jednoho ze ètvercù umístìnıch vedle ètverce pøed vchodem do mìsta, dotıkala vody.
+"
+"""Na mapì je umístìn pouze jeden %s obousmìrnı monolit.""
+‘Obousmìrné’ monolity fungují jako ‘teleporty’. Pokud bude na mapì pouze jeden obousmìrnı monolit, neexistuje z nìho ádnı vıchod.
+"
+"""Na mapì je umístìn jednou nebo vícekrát %s jednosmìrnı monolit - vstup, ale ádnı %s jednosmìrnı monolit - vıstup.""
+Tato chyba se tıká jednosmìrnıch monolitù. Pokud na mapu umístíš jednosmìrnı monolit - vstup, musíš také umístit nejménì jeden jemu odpovídající vıstup.
+"
+"""Na mapì je umístìn jednou nebo vícekrát %s jednosmìrnı monolit - vıstup, ale ádnı %s jednosmìrnı monolit - vstup.""
+Tato chyba se tıká jednosmìrnıch monolitù. Pokud na mapu umístíš jednosmìrnı monolit - vıstup, musíš také umístit nejménì jeden jemu odpovídající vstup.
+"
+"""Na mapì je umístìna jedna nebo více bran do podzemí, ale mapa ádné podzemí nemá.""
+Brány do podzemí se obyèejnì pouívají pro vstup hrdiny do další vrstvy mapy. Pokud na mapì není ádná další vrstva (podzemí), hrdina, kterı do brány vejde, se nikam nedostane.
+"
+"""Na mapì je víc bran do podzemí na povrchu ne v podzemí.""
+Pøi spuštìní hry je kadá brána do podzemí ‘spárovaná’ s nejbliší bránou v další vrstvì. Pokud je nahoøe víc bran ne dole, nemohou se vytvoøit ádné dvojice.
+"
+"""Na mapì je víc bran do podzemí v podzemí ne na povrchu.""
+Pøi spuštìní hry je kadá brána do podzemí ‘spárovaná’ s nejbliší bránou v další vrstvì. Pokud je dole víc bran ne nahoøe, nemohou se vytvoøit ádné dvojice.
+"
+"""Artefakt, kterı je úkolem %s, je %s, ale není umístìn na mapì.""
+Aby hráè splnil úkol zadanı v chatì vìštce, objekt úkolu (poadovanı artefakt) se musí nacházet na mapì, u hrdiny, potulného bojovníka, v události, v Pandoøinì skøíòce nebo jako odmìna v jiné chatì vìštce.
+"
+"""Na mapì je pouze jeden hráè a není vybrána ádná speciální podmínka vítìzství.""
+Pokud na mapì bude pouze jeden hráè a nebude zvolena ádná speciální podmínka vítìzství, hráè vyhraje hru okamitì.
+"
+"""Na mapì je pouze jeden hráè, ale normální vítìzství není zakázané.""
+Pokud bude na mapì pouze jeden hráè a normální vítìzství nebude zakázané, hráè vyhraje hru okamitì.
+"
+"""Na mapì nebyl nalezen ádnı problém."""
+"""Speciální podmínkou vítìzství je získat %s, ale artefakt není na mapì umístìn.""
+Aby bylo moné splnit speciální podmínku vítìzství ‘Získání urèitého artefaktu’, specifikovanı artefakt se musí nacházet na mapì, u hrdiny, potulného bojovníka, v události, v Pandoøinì skøíòce nebo jako odmìna v chatì vìštce.
+"
+"""Speciální podmínkou vítìzství je získat %s, ale %s ji tento artefakt má.""
+Pokud hráèùv hrdina zaène hru s artefaktem, potøebnım pro splnìní speciální podmínky vítìzství ‘Získání urèitého artefaktu’, hráè okamitì hru vyhraje.
+"
+"""Speciální podmínkou vítìzství je získat %d %s, ale %s ji má %d %s.""
+Pokud hráè zaène hru s poadovanım poètem bojovníkù potøebnıch pro splnìní speciální podmínky vítìzství, hru okamitì vyhraje.
+"
+"""Speciální podmínkou vítìzství je postavit %s a %s ve mìstì %s, ale obì tyto budovy jsou ji postavené.""
+Pøi spuštìní hry s podmínkou vítìzství ‘Provést upgrade mìsta’ hráè vyhraje okamitì, pokud bude vlastnit mìsto s radnicí a hradem postavenımi na tuto úroveò.
+"
+"""Speciální podmínkou vítìzství je postavit %s a %s ve mìstì %s, ale obì tyto budovy jsou ve mìstì zakázané.""
+Hráè v takovém pøípadì nemùe hru vyhrát.  Budovy, které jsou podmínkou speciálního vítìzství, nesmí bıt v daném mìstì zakázané.
+"
+"""Speciální podmínkou vítìzství je postavit svatostánek Grálu ve mìstì %s, ale v daném mìstì je ji tento objekt postaven.""
+Pokud je svatostánek Grálu v urèeném mìstì ji postaven, speciální podmínka vítìzství bude splnìna okamitì a hráè hru ihned vyhraje.
+"
+"""Speciální podmínkou vítìzství je postavit svatostánek Grálu ve mìstì %s, ale v daném mìstì je tento objekt zakázanı.""
+Pokud je v daném mìstì svatostánek Grálu zakázanı, hráè nemùe splnit podmínku vítìzství ‘Postavit svatostánek Grálu’.  Take hráè nebude schopen vyhrát hru splnìním speciální podmínky vítìzství.
+"
+"""Speciální podmínkou vítìzství je postavit svatostánek Grálu, ale na mapì není ádné mìsto, kde by mohl bıt vybudován.""
+Toto hlášení se objeví, kdy zvolíte jako speciální podmínku vítìzství ‘Postavit svatostánek Grálu’, ale na mapì není ádné mìsto, nebo je ve všech existujících mìstech svatostánek Grálu zakázanı.
+"
+"""Speciální podmínkou vítìzství je porazit %s, co je %s, kterého mùe hrát i lidskı hráè nebo mùe bıt v tımu s lidskım hráèem.""
+Pokud èlovìk nebo lidskı tım bude vlastnit daného hrdinu na zaèátku hry, podmínka vítìzství ‘Porazit hrdinu’ bude splnìna okamitì a hra skonèí.
+"
+"""Speciální podmínkou vítìzství je dobıt %s, ale mìsto ji vlastní %s.""
+Pokud hráè nebo tım bude na zaèátku hry vlastnit dané mìsto, podmínka vítìzství ‘Dobıt mìsto’ bude splnìna okamitì a hra skonèí.
+"
+"""Speciální podmínkou vítìzství je dobıt %s, ale mìsto ji vlastní %s, kterım mùe bıt èlovìk nebo mùe bıt v tımu s lidskım hráèem.""
+Pokud èlovìk nebo lidskı tım bude vlastnit dané mìsto na zaèátku hry, podmínka vítìzství ‘Dobıt mìsto’ bude splnìna okamitì a hra skonèí.
+"
+"""Speciální podmínkou vítìzství je obsadit všechna obydlí bojovníkù, ale na mapì ádná nejsou.""
+"
+"""Speciální podmínkou vítìzství je obsadit všechna obydlí bojovníkù, ale %s ji všechna obydlí vlastní.""
+"
+"""Speciální podmínkou vítìzství je obsadit všechny doly, ale na mapì ádné doly nejsou.""
+"
+"""Speciální podmínkou vítìzství je obsadit všechny doly, ale %s ji všechny doly vlastní.""
+"
+"""Speciální podmínkou vítìzství je dopravit %s, ale tento artefakt není umístìn na mapì.""
+Aby hráè mohl artefakt dopravit, musí se nacházet na mapì, u hrdiny, potulného bojovníka, v události, v Pandoøinì skøíòce nebo jako odmìna v chatì vìštce.
+"
+"""Speciální podmínkou prohry je ztratit mìsto %s, ale toto mìsto nepatøí ádnému hráèi.""
+Speciální podmínka prohry ‘Ztratit mìsto’ musí bıt aplikována na ‘pouze lidského hráèe’.  Jinak pokud nebude dané mìsto na zaèátku hry vlastnit nìkterı èlovìk, hra okamitì skonèí.
+"
+"""Speciální podmínkou prohry je ztratit mìsto %s, které vlastní %s, ale v tomto tımu není ádnı èlovìk.""
+Speciální podmínka prohry ‘Ztratit mìsto’ musí bıt aplikovaná na ‘pouze lidského hráèe’.  Jinak pokud nebude dané mìsto na zaèátku hry vlastnit nìkterı èlovìk, hra okamitì skonèí.
+"
+"""Speciální podmínkou prohry je ztratit mìsto %s, ale existuje víc ne jeden tım, ve kterém mùe bıt èlovìk.""
+Speciální podmínka prohry ‘Ztratit mìsto’ musí bıt aplikovaná pro ‘pouze lidského hráèe’ nebo tım s èlovìkem.  Jinak pokud nebude dané mìsto na zaèátku hry vlastnit nìkterı èlovìk, hra okamitì skonèí.
+"
+"""Speciální podmínkou prohry je ztratit mìsto %s, které vlastní %s, ale za tohoto hráèe nemùe hrát èlovìk.""
+Speciální podmínka prohry ‘Ztratit mìsto’ musí bıt aplikovaná na ‘pouze lidského hráèe’.  Jinak pokud nebude dané mìsto na zaèátku hry vlastnit nìkterı èlovìk, hra okamitì skonèí.
+"
+"Speciální podmínkou prohry je ztratit mìsto %s, ale na mapì je víc ne jeden èlovìk.""
+Jakıkoliv èlovìk, kterı na zaèátku hry nebude vlastnit dané mìsto, okamitì prohraje.
+"
+"""Speciální podmínkou prohry je ztratit %s, ale tohoto hrdinu nevlastní ádnı hráè.""
+Pokud je hrdina uvedenı ve speciální podmínce prohry ‘Ztratit hrdinu’ ve vìzení, všichni hráèi prohrávají okamitì hru.
+"
+"""Speciální podmínkou prohry je ztratit %s, kterého vlastní %s, ale v tomto tımu nemùe hrát ádnı èlovìk.""
+V tımu, kterı vlastní daného hrdinu, musí bıt nejménì jeden èlovìk.  Jinak ostatní existující tımy s lidskımi hráèi okamitì prohrají, protoe daného hrdinu nevlastní.
+"
+"""Speciální podmínkou prohry je ztratit %s, ale existuje víc ne jeden tım, ve kterém mùe bıt èlovìk.""
+Pokud je podmínkou prohry ztráta urèitého hrdiny, tento hrdina musí patøit do jednoho z tımù, ve kterém ‘a pouze v nìm‘ je lidskı hráè.  Pokud existuje víc tımù s lidskımi hráèi, ve kterıch není danı hrdina, automaticky hru prohrají.
+"
+"""Speciální podmínkou prohry je ztratit %s, kterého vlastní %s, ale za tohoto hráèe nemùe hrát èlovìk.""
+Hráè, kterı vlastní specifikovaného hrdinu, musí bıt èlovìk.  Jinak všichni existující lidé okamitì prohrají hru, protoe daného hrdinu nevlastní.
+"
+"""Speciální podmínkou prohry je ztratit %s, ale na mapì je víc ne jeden èlovìk.""
+Pokud je podmínkou prohry ztráta urèitého hrdiny, tento hrdina musí patøit pouze ‘jedinému’ èlovìku na mapì.  Pokud na mapì bude více lidskıch hráèù a nebudou vlastnit daného hrdinu, okamitì prohrají.
+"
+Obnovit automaticky uloenou mapu?
+"Textové soubory (*.txt)
+.txt"
+"Nelze vloit ""%s""."
+"Úspìšnì vloeno ""%s""."
+Název mapy
+Popis mapy
+Povìsti
+Èasové události
+Objekty
+Jméno
+Zpráva
+Text
+Hrdina v hradì %s
+Konec souboru
+Den %d - %s
+Danı objekt nebyl na mapì nalezen.
+Standardní
+Mód
+"""Na mapì je pouze jeden vodní vír.""
+Pokud na mapì zùstane jedinı vodní vír, loï, která do nìho vpluje, se nemá kde objevit.  To bude mít za následek ztrátu poloviny hrdinova nejslabšího oddílu.
+"
+""" %s nelze navštívit.""
+Na ‘vstupní ètverec’ tohoto objektu se nelze dostat ani z jednoho okolního ètverce.
+"
+OK
+Zpìt
+Nápovìda
+Obecné
+Následky
+Suroviny
+Stavby
+Bojovníci
+Druhotné schopnosti
+Speciální podmínky prohry
+Podrobnì o hráèi
+Povìsti
+Tımy
+Èasové události
+Speciální podmínka vıhry
+Poklad
+Posádka
+Kouzla
+Stráci
+Artefakty
+O editoru map
+Uprav artefakt
+Uprav sloení bojovníkù
+Uprav povìst
+Uprav druhotnou schopnost
+Najdi
+Kontrola mapy
+Nová mapa
+Monosti
+Zvol artefakt
+Zvol typ hrdiny
+Zvol kouzlo
+&Vlastní
+Štìtec
+Typ terénu
+Typ øeky
+Typ cesty
+Zvol monı &rádius umístìní:
+Stát na místì
+Dosah 1 ètverec
+Dosah 2 ètverce
+Dosah 3 ètverce
+Dosah 4 ètverce
+Dosah 5 ètvercù
+Dosah 6 ètvercù
+Dosah 7 ètvercù
+Dosah 8 ètvercù
+Dosah 9 ètvercù
+Dosah 10 ètvercù
+&Problémy:
+Tomuto objektu nelze nastavovat ádné parametry.
+"Pokraèování bude mít za následek odstranìní celého podzemí.  Všechny úpravy provedené v podzemí budou ztraceny.
+Pøeješ si pokraèovat?"
+Náhodné obydlí %d
+Náhodné %s obydlí
+ivotopis
+Postup generování mapy
+Generování mapu...
+Nelze vygenerovat náhodnou mapu.
+Hrdinové
+""" %s nemá úkol.""
+Úèelem chaty vìštce a stráce úkolu je zadat hrdinovi úkol, kterı hrdina musí splnit. Pokud chata vìštce nebo stráce úkolu nemají ádnı úkol, pøi pøíchodu hrdiny k nim se nic nedìje.
+"
+"Tento objekt mùe bıt umístìn pouze na mapu pro datadisk ""Meè zkázy (AB)"" nebo ""Stín smrti (SoD)""."
+Nic
+Dosáhnout s hrdinou úroveò %d
+%s úroveò %d
+Dosáhni %s
+Dosáhni následující:
+Porazit %s
+Porazit %s
+Dones mi následující:
+Dones mi %s
+Dones mi %s
+Dones mi %s
+Zadání úkolu
+Pokraèování úkolu
+Zpráva pøi splnìní úkolu
+a
+podzemí
+Nic
+%d bodù zkušeností
+%d bodù magické energie
+Morálka +%d
+Štìstí +%d
+Kouzlo %s
+"""Na mapì se nachází jednou nebo vícekrát %s klíèníkùv stan, ale ádná %s strání vì èi strání brána.""
+Úkolem klíèníkova stanu je umonit odemèení odpovídající strání vìe èi strání brány.  Pokud na mapì není odpovídající strání vì èi brána, je klíèníkùv stan ponìkud zbyteènı.
+"
+"""Na mapì je jednou nebo vícekrát %s strání vì, ale ádnı %s klíèníkùv stan.""
+Úkolem strání vìe je blokovat pøístup do urèité èásti mapy, dokud hrdina nenavštíví odpovídající klíèníkùv stan.  Po navštívení klíèníkova stanu strání vì zmizí, kdy k ní hrdina pøijde. Take pokud na mapì nebude odpovídající klíèníkùv stan, strání vì nemùe bıt odemèena.
+"
+"""Na mapì je jednou nebo vícekrát %s strání brána, ale ádnı %s klíèníkùv stan.""
+Úkolem strání brány je blokovat pøístup do urèité èásti mapy, dokud hrdina nenavštíví odpovídající klíèníkùv stan.  Po navštívení klíèníkova stanu bude strání brána odemèena. Take pokud na mapì nebude odpovídající klíèníkùv stan, strání brána nemùe bıt odemèena.
+"
+"""Na mapì je jednou nebo vícekrát bouda mága, ale ádné oko mága.""
+Bouda mága je urèena k tomu, aby byla pouita ve spojení s okem mága.  Pokud hráè navštíví boudu mága, odkryje na mapì okolí kolem všech oèí mága.  Pokud na mapì není ádné oko mága, bouda mága je zcela zbyteèná.
+"
+"""Na mapì se nachází jednou nebo vícekrát oko mága, ale ádná bouda mága.""
+Oko mága je urèeno k tomu, aby bylo pouito ve spojení s boudou mága.  Pokud hráè navštíví boudu mága, odkryje na mapì okolí kolem všech oèí mága.  Pokud na mapì nebude ádná bouda mága, oko mága je neaktivní.
+"
+"""Na mapì je povolenıch pouze %d hrdinù, ale tato mapa vyaduje nejménì %d pøístupnıch hrdinù.""
+Minimální poèet pøístupnıch hrdinù na mapì je deset pro kadého hráèe, plus jeden pro kadé mìsto.  V dialogu 'Specifikace mapy' na stránce 'Hrdinové' je tøeba zpøístupnit více hrdinù.
+"
+"""Všechny artefakty na mapì jsou zakázané nebo rezervované.""
+Artefakty jsou rezervované v pøípadì, e jsou objektem speciální podmínky vítìzství nebo úkolu.  Také mohou bıt znepøístupnìny v dialogu 'Specifikace mapy' na stránce 'Artefakty'.  Na mapì musí bıt nejménì jeden artefakt, kterı není ani zakázanı, rezervovanı èi znepøístupnìnı.
+"
+"Tento objekt mùe bıt umístìn pouze na mapu ""Stín smrti (SoD)""."
+"Tento objekt mùe bıt umístìn pouze tehdy, kdy máš nainstalovanı datadisk ""Meè zkázy (AB)""!"
+Hrdinové
+Opuštìnı dùl Nastavení vlastností
+Moné suroviny
+&Rtu
+&Kamení
+&Síra
+Kr&ystaly
+Dr&ahokamy
+&Zlato
+Dialog Armáda
+Typ
+Mnoství
+Pozice &%d:
+Posádka Nastavení vlastností
+Vlastník
+&Nikdo
+Hráè %d (%s)
+Bojovníci
+Posádku je moné vyb&rat
+Vlastnosti artefaktu Obecná stránka
+Typ:
+Vlastní &zpráva:
+"Poznámka:  Pokud je zvolena vlastní hlídka, je moné pøidat otázku, která má monost odpovìdi ano/ne. Ano bude bude znamenat, e si hrdina pøeje s hlídkou o artefakt bojovat."
+&Kouzlo:
+Vlastnosti Pandoøiny skøíòky - stránka Obecné
+&Zpráva:
+Vlastnosti Události - stránka Obecné
+Událost mohou dostat hráèi
+Hráè &%d
+Událost mùe dostat i poèí&taè
+Zmizí po &prvním navštívení
+Vlastnosti Pandoøiny skøíòky - stránka Následky
+Kate&gorie
+Pøid&at...
+&Upravit...
+&Odstranit
+O&dstranit všechny
+Ar&tefakty
+&Typ bojovníka
+Mnoství
+Bonus zkuš&eností:
+Bonus štìstí
+ád&nı
++1
++2
++3
+-1
+-2
+-3
+&Body mag. energie:
+Pøi&dat
+Ubra&t
+Bonus Morálka
+Ú&toèná síla:
+&Obranná síla:
+&Síla kouzel:
+&Znalosti:
+D&ruhotné schopnosti
+Úroveò
+&Kouzla
+Dialog - Mnoství surovin
+&Døevo:
+&Rtu:
+&Kamení:
+&Síra:
+Kr&ystaly:
+Dra&hokamy:
+&Zlato:
+Pøidat
+Ubrat
+Dialog - Úprava druhotnıch schopností
+&Typ:
+Úroveò
+&Základní
+&Lepší
+&Expert
+Dialog Úprava bojovníkù
+&Typ:
+&Mnoství:
+Úprava èasové události - stránka Obecné
+&Název události:
+&Zpráva:
+Hráèi, kteøí událost obdrí
+Hráè &%d
+&Aplikovat událost i na poèítaèové hráèe
+Den, kdy se objeví &poprvé:
+&Opakování po:
+Aplikovat událost i na li&dské hráèe
+Úprava události ve mìstì - stránka Stavby
+S&truktura staveb:
+&Postav
+Úprava události ve mìstì - stránka Bojovníci
+Generátor èíslo.
+Mnoství
+Poznámka:  Urèení bojovníci budou pøidání do pøíslušnıch obydlí ve mìstì.  Pokud obydlí není postaveno, bojovníci pøidáni nebudou.
+Dialog - Úprava artefaktu
+&Umístìní:
+&Artefakt:
+Dialog - Úprava povìsti
+&Název:
+&Text:
+Dialog Najít
+Co &najít:
+Najít &další
+Najít &pøedchozí
+Dialog - Vlastnosti oznaèování
+Vlastník
+&Nikdo
+Hráè &%d (%s)
+Vlastnosti hrdiny - stránka Obecné
+Typ:
+&Hráè:
+&Identita:
+Jmé&no:
+&Zkušenosti:
+Portrét:
+Hlídk&a:
+&Vlastní
+V&lastní
+Pohlaví:
+&Pùvodní (%s)
+mu
+ena
+&Mu
+&ena
+Vla&stní
+Vlastnosti hrdiny - stránka Bojovníci
+Formace
+&Rozvinutá
+&Seskupená
+Vlastnosti hrdiny - stránka Druhotné schopnosti
+Typ
+Úroveò
+Schopnost &%d:
+Vlastnosti hrdiny - stránka Artefakty
+&Má knihu kouzel
+Ar&tefakty:
+Název
+Umístìní
+&Pøidat...
+&Upravit...
+&Odstranit
+O&dstranit všechny
+Specifikace mapy - stránka Obecné
+Obtínost
+L&ehká
+N&ormální
+&Tìká
+E&xpert
+&Nehratelná
+&Dvojúrovòová mapa
+&Jméno mapy:
+&Popis:
+Ma&ximální úroveò hrdiny:
+Verze mapy
+Obnova Erathie - &RoE
+Meè zkázy - &AB
+Stín smrti - &SoD
+Specifikace mapy - stránka Podrobnì o hráèi
+&Hráè:
+Vy&generovat hrdinu v domovském mìstì
+Hratelnost
+Èl&ovìk
+&Poèítaè
+&Chování:
+Má do&movské mìsto:
+Moné typy
+V&lastní
+Náho&dné
+H&rad
+&Bašta
+&Vì
+P&eklo
+&Nekropolis
+&Kobka
+&Tvrz
+Pevno&st
+So&utok
+Specifikace mapy - stránka Tımy
+&Povolit tımy
+P&oèet tımù 
+Sloení tımù 
+Tım èíslo:
+Hráè &%d (%s):
+Specifikace mapy - stránka Povìsti
+&Povìsti:
+Pøid&at...
+&Upravit...
+&Odstranit
+O&dstranit všechny
+Specifikace mapy - stránka Èasové události
+Událo&sti:
+Pøid&at...
+&Upravit...
+&Odstranit
+O&dstranit všechny
+Posuò &nahoru
+Posuò do&lù
+Specifikace mapy - stránka Speciální podmínky vıhry
+Zvol speciální podmínku vıhry:
+ád&ná
+Získat &artefakt
+Shromádit &bojovníky
+Nashromádit su&roviny
+Provést &upgrade mìsta
+Vybudovat svatostánek &Grálu
+Porazit &hrdinu
+Dobıt mìs&to
+Porazit bo&jovníka
+Ob&sadit všechna obydlí bojovníkù
+Obsadit všechn&y doly
+Pøe&pravit artefakt
+Umonit také normální &vítìzství
+Speciální podmínku vıhry povolit i pro p&oèítaè
+Art&efakt:
+Typ b&ojovníka:
+&Mnoství:
+Typ sur&ovin:
+&Mìsto
+Úr&oveò radnice
+Mìsteèko
+Mìsto
+Hlavní mìsto
+Úroveò hra&du
+Tvrz
+Citadela
+Hrad
+Hr&dina:
+B&ojovník:
+&Cíl urèení:
+Specifikace mapy - Speciální podmínky prohry
+Zvol speciální podmínku prohry:
+ád&ná
+Ztratit mìs&to
+Ztratit &hrdinu
+Vypršení èaso&vého limitu
+Mìst&o:
+H&rdina:
+Èasovı l&imit:
+Vlastnosti bojovníka - stránka Obecné
+Typ:
+Mnoství
+&Náhodné
+&Vlastní:
+Mnoství se nebude &zvyšovat
+Povaha
+"P&oddajná
+(chtìjí se pøidat k hrdinovi)"
+"&Pøátelská
+(moná se pøidají k hrdinovi)"
+"&Agresivní
+(mohou se pøidat k hrdinovi)"
+"N&epøátelská
+(nechtìjí se pøidat k hrdinovi)"
+"&Divoká
+(nikdy se nepøidají k hrdinovi)"
+&Bojovníci nikdy neuteèou
+Vlastní zp&ráva:
+Vlastnosti bojovníka - stránka Poklad
+Suroviny
+&Døevo:
+&Rtu:
+&Kamení:
+&Síra:
+Kr&ystaly:
+Dra&hokamy:
+&Zlato:
+&Artefakt:
+Dialog - Nová mapa
+Velikost mapy
+&36x36
+&72x72
+&108x108
+1&44x144
+&Dvojúrovòová mapa
+Verze mapy
+Obnova Erathie - &RoE
+Meè zkázy - &AB
+&Generovaní náhodné mapy
+Poèet hráèù
+Èlovìk nebo poèítaè:
+Jenom poèítaè:
+Poèet tımù
+Mnoství vody
+Náhodné
+ádné
+Normální
+Ostrovy
+Síla bojovníkù
+Náhodná
+Slabá
+Normální
+Velká
+Stín smrti - &SoD
+Dialog - monosti
+Hustota dekorace terénu
+ádná
+Velká
+Pøekreslit celou mapu podle nastavení
+Monosti automatického ukládání
+A&utomatické ukládání povolené
+&Automaticky ukládat kadıch:
+minut
+Vlastnosti Suroviny - stránka Obecné
+Typ:
+Mnoství
+&Náhodné
+&Vlastní:
+"Poznámka:  Pokud je surovinou zlato, uvedené mnoství bude násobeno 100."
+Vlastní &zpráva:
+"Poznámka:  Pokud je zvolena vlastní hlídka, je moné pøidat otázku, která má monost odpovìdi ano/ne. Ano znamenat, e hrdina si pøeje s hlídkou o suroviny bojovat."
+Dialog - vlastnosti Uèence
+Odmìna
+&Náhodná
+&Základní schopnost:
+&Druhotná schopnost:
+&Kouzlo:
+Dialog - vlastnosti Chaty vìštce
+Úkol
+&Uprav...
+Má èasovou l&hùtu
+&Mìsíc:
+&Tıden:
+&Den:
+&Vlastní
+Odmìna
+U&prav...
+Buï hrdina %s
+Patøit ke hráèi %s
+Dialog - vlastnosti Kaple
+Kouzlo %d stupnì
+&Náhodné
+&Vlastní:
+Dialog - vlastnosti Ukazatele
+&Zpráva:
+Vlastnosti mìsta - stránka Obecné
+Typ:
+&Hráè:
+&Jméno:
+&Vlastní
+Hrdina ve mìstì
+Jméno:
+Typ hrdiny:
+&Pøidej...
+&Uprav...
+&Odstraò
+Pøí&slušnost:
+Stejnì jako %s
+Stejnì jako vlastník nebo náhodnı
+Vlastnosti mìsta - stránka Posádka
+Formace
+&Rozvinutá
+&Seskupená
+Vlastnosti mìsta - stránka Stavby
+Má tv&rz
+Struktura s&taveb:
+&Pøístupné
+P&ostav
+Po&stav všechno
+&Zbourej všechno
+Vlastnosti mìsta - stránka Kouzla
+Stupeò kouze&l:
+Kouzla, která se MUSÍ objevit ve vìi kouzel:
+Kouzla, která se SMÍ objevit ve vìi kouzel:
+Vlastnosti mìsta Stránka èasovıch události
+U&dálosti:
+&Pøidej...
+&Uprav...
+&Odstraò
+Odstraò &všechny
+Posun na&horu
+Posu&n dolù
+Dialog Úprava úkolu
+Úprava úkolu
+Zvol typ úkolu:
+ád&nı
+D&osaení úrovnì zkušeností
+Dosaení zá&kladní schopnosti
+Poraení urèitého &hrdiny
+Poraení urèitého &bojovníka
+Pøinesení &artefaktu
+Pøivedení bo&jovníkù
+Pøinesení su&rovin
+Úroveò zkušeno&stí:
+Ú&toèná síla - úroveò:
+&Obranná síla - úroveò:
+Sí&la kouzel - úroveò:
+Zna&losti - úroveò:
+Hr&dina:
+Bojo&vník:
+Artefakty
+Pøi&dej...
+U&prav...
+&Odstraò
+Odstraò &všechny
+Typ bojovníka
+Mnoství
+&Døevo:
+R&tu:
+Ka&mení:
+&Síra:
+Kr&ystaly:
+Drah&okamy:
+Z&lato:
+Buï urèitı hrdina
+Patøi k urèitému hráèi
+Typ:
+Identita:
+Hráè:
+Dialog Úprava odmìny
+Úprava odmìny
+Zvol druh odmìny:
+ád&ná
+Z&kušenosti
+Ma&gická energie
+&Morálka
+Štì&stí
+Su&roviny
+Zákla&dní schopnosti
+Dr&uhotné schopnosti
+Arte&fakt
+K&ouzlo
+&Bojovníci
+Zkušenosti - bonus:
+Body magické energie:
+Morálka - bonus:
+Štìstí - bonus:
+Druh surovin:
+Mnoství:
+Základní schopnost:
+Bonus:
+Druhotná schopnost:
+Úroveò:
+Artefakt:
+Kouzlo:
+Typ bojovníka:
+Dialog Vlastnosti cestujícího hrdiny
+&Vlastník:
+Identita
+&Jakıkoliv hrdina:
+&Urèitı hrdina:
+&Síla hrdiny:
+&Typ hrdiny:
+&Identita:
+Vlastnosti hrdiny - stránka ivotopisu
+ivotopis
+&Vlastní
+Specifikace mapy - stránka artefaktù
+Pøípustné &artefakty:
+Specifikace mapy - stránka Dostupní hrdinové
+Dostupní &hrdinové:
+&Vlastnosti…
+Dialog Vlastnosti náhodného obydlí
+&Vlastník:
+Úroveò bojovníkù
+M&inimální:
+M&aximální:
+Pøíslušnost
+Zvo&l jedno z mìst:
+&Stejnì jako:
+&Hrad
+&Bašta
+&Vì
+P&eklo
+&Nekropolis
+&Kobka
+&Tvrz
+&Pevnost
+S&outok
+Dialog - vlastnosti Chaty vìdmy
+Moné schopnosti:
+Vlastnosti hrdiny - stránka Základní schopnosti
+Základní schopnosti
+&Vlastní
+Vlastnosti hrdiny - stránka Kouzla
+Kouzla
+&Vlastní
+Vlastnosti hrdiny - stránka Artefakty
+Artefakty
+Vlastnosti hrdiny - stránka ivotopis
+ivotopis
+Vlastnosti hrdiny - stránka Obecné
+Obecné
+Mùe si ho koupit
+Hráè &%d
+Vlastnosti hrdiny - stránka Základní schopnosti
+Základní schopnosti
+Vlastnosti hrdiny - stránka Druhotné schopnosti
+Druhotné schopnosti
+Vlastnosti hrdiny - list
+Vlastnosti hrdiny
+Vlastnosti hrdiny stránka Kouzla
+Kouzla
+Dialog - základní schopnosti
+Ú&toèná síla:
+&Obranná síla:
+&Síla kouzel:
+&Znalosti:
+Dialog - kouzla
+&Kouzla:
+Specifikace mapy - stránka Druhotné schopnosti
+Druhotné schopnosti
+Pøístupné &druhotné schopnosti:
+Specifikace mapy - stránka Kouzla
+Kouzla
+Pøístupná &kouzla:
+Hlavní menu
+&Soubor
+Úp&ravy	
+U&ka	
+&Nástroje	
+&Hráè	
+Ná&povìda	
+Menu Soubor	
+&Novı...	Ctrl+N
+&Otevøi...	Ctrl+O
+&Ulo	Ctrl+S
+Ulo j&ako...	
+&Export textu...	
+&Vloení textu z...	
+Poslední soubor	
+&Konec	
+Menu Úpravy	
+&Zpìt	Ctrl+Z
+V&rátit Zpìt	Ctrl+Y
+Vys&tøihnout	Ctrl+X
+&Kopírovat	Ctrl+C
+&Vloit	Ctrl+V
+&Smazat	Del
+&Najít...	Ctrl+F
+Najít &další	F3
+Najít pø&edchozí	Ctrl+F3
+Vlastn&osti...	Enter
+Menu Uka	
+Zvetš&it	
+Zme&nšit	
+P&odzemí	Ctrl+U
+&Møíka	Ctrl+G
+&Prùchodnost	Ctrl+P
+&Animace objektù	Ctrl+A
+Animace t&erénu	Ctrl+T
+S&tandardní panel	
+Pane&l nástrojù	
+&Stavovı øádek	
+Menu Nástroje	
+&Terén	
+Ø&eky	
+&Cesty	
+&Guma	
+O&bjekty	
+&Specifikace mapy...	Ctrl+Enter
+&Kontrola mapy	Shift+V
+M&onosti...	
+Pøekáky	
+Nástroje|Terén Menu	
+&1x1	
+&2x2
+&4x4
+&Vyplnit
+&Hlína
+&Písek
+&Tráva
+S&níh
+B&ainy
+Štì&rk
+P&odzemí
+&Láva
+Vo&da
+Prá&zdno
+Nástroje|Øeky Menu
+Èi&sté
+&Zamrzlé
+&Bahnité
+&Lávové
+&Guma na øeky
+Nástroje|Cesty Menu
+&Bahnité
+&Kamenité
+&Dládìné
+&Guma na cesty
+Nástroje|Guma Menu
+&1x1
+&2x2
+&4x4
+&Vyplnit
+Nástroje|Objekty Menu
+Objekty na &Hlínì
+Objekty na &Písku
+Objekty na &Trávì
+Objekty na S&nìhu	
+Objekty v B&ainì	
+Objekty na Štì&rku	
+Objekty v P&odzemí	
+Objekty na &Lávì	
+Objekty na Vo&dì	
+Objekty pro &Všechny terény	
+&Mìsta	
+&Bojovníci	
+&Hrdinové	
+Arte&fakty	
+Poklad&y	
+Hráè Menu	
+&None	Ctrl+0
+Hráè &1 (%s)	Ctrl+1
+Hráè &2 (%s)	Ctrl+2
+Hráè &3 (%s)	Ctrl+3
+Hráè &4 (%s)	Ctrl+4
+Hráè &5 (%s)	Ctrl+5
+Hráè &6 (%s)	Ctrl+6
+Hráè &7 (%s)	Ctrl+7
+Hráè &8 (%s)	Ctrl+8
+Nápovìda Menu	
+&Témata nápovìdy	
+&O editoru map...	
+Menu pro objekty	
+&Co je to?	
+&Zpìt	
+V&rátit zpìt	
+Vys&tøihnout	
+&Kopírovat	
+&Vloit
+&Smazat
+&Najít...
+Najít &další
+Najít pø&edchozí
+Vlastn&osti...
+Umístìní &pøekáek
+Nástroje|Pøekáky Menu
+1x1 ostrı štìtec
+2x2 ostrı štìtec
+4x4 ostrı štìtec
+Ostré plošné vyplòování
+1x1 rozmazanı štìtec
+2x2 rozmazanı štìtec
+4x4 rozmazanı štìtec
+Rozmazané plošné vyplòování
+1x1 ostrá guma	
+2x2 ostrá guma	
+4x4 ostrá guma	
+Ostrá plošná guma	
+1x1 rozmazaná guma	
+2x2 rozmazaná guma	
+4x4 rozmazaná guma	
+Rozmazaná plošná guma	
+Umístìní &pøekáek	Shift+O

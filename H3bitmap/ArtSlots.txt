@@ -1,0 +1,19 @@
+Hlava
+Ramena
+Krk
+Pravá ruka
+Levá ruka
+Hruï 
+Pravý prsten
+Levý prsten
+Nohy
+Kapsa 1
+Kapsa 2
+Kapsa 3
+Kapsa 4
+Bojový stroj 1
+Bojový stroj 2
+Bojový stroj 3
+Bojový stroj 4
+Kniha kouzel
+Kapsa 5

@@ -1,0 +1,23 @@
+Pohyb po souši		Pohyb po moøi		Bonusy z artefaktù 	
+Nejpomal. bojovník	Pohyb	Navigace	Pohyb	Pøedmìt	Bonus
+0	1300	Nic	1500	Jezdecké rukavice	300
+1	1360	Základní 	2250	Prsten poutníka	600
+2	1430	Lepší 	3000	Náhrdelník námoøní navigace	1000
+3	1500	Expert	3750	Andìlská køídla	600
+4	1560	 	 	Stáje	400
+5	1630	 	 	Maják	500
+6	1700				
+7	1760				
+8	1830				
+9	1900				
+10	1960				
+11	2000				
+12	2000				
+13	2000				
+14	2000		
+15	2000		
+16	2000		
+17	2000		
+18	2000		
+19	2000		
+20	2000		

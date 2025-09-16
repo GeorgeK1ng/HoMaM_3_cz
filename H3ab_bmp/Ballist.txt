@@ -1,0 +1,6 @@
+Efekty schopn. Balistika		 Šance zásahu					Zpùsobené škody			
+		Základ	Vìž 	Brána	Hradby	Støely	Nic	1 bod	2 body	Celkem
+Úroveò schopn	Nic	5%	10%	25%	50%	1	10%	60%	30%	100%
+ 	Základní 	7%	15%	30%	60%	1	0%	50%	50%	100%
+ 	Lepší 	7%	15%	30%	60%	2	0%	50%	50%	100%
+ 	Expert	10%	20%	40%	75%	2	0%	0%	100%	100%

@@ -1,0 +1,159 @@
+Bonus	Bonus
+(short)	(long)	Right Click text
+Støelec	Druhotná schopnost bonus: Støelec	Obdrí bonus 5% za kadou úroveò ke schopnosti støelec.
+Lukostøelci	Bojovníci bonus: Lukostøelci	Zvyšuje útoènou a obrannou sílu všech lukostøelcù nebo elitních støelcù za kadou úroveò dosaenou po 2. úrovni.
+Gryfové 	Bojovníci bonus: Gryfové 	Zvyšuje útoènou a obrannou sílu všech gryfù nebo královskıch gryfù za kadou úroveò dosaenou po 3. úrovni.
+Navigace	Druhotná schopnost bonus: Navigace	Obdrí bonus 5% za kadou úroveò ke schopnosti navigace.
+Hospodaøení 	Druhotná schopnost bonus: Hospodaøení 	Obdrí bonus 5% za kadou úroveò ke schopnosti hospodaøení.
+ šermíøi	Bojovníci bonus:  Šermíøi	Zvyšuje útoènou a obrannou sílu všech šermíøù nebo køiákù za kadou úroveò dosaenou po 4. úrovni.
+Balista	Artilerie bonus: Balista	Zvyšuje útoènou a obrannou sílu balisty za kadou úroveò dosaenou po 4. úrovni.
+Jezdci	Bojovníci bonus: Jezdci	Zvyšuje útoènou a obrannou sílu všech jezdcù nebo šampionù za kadou úroveò dosaenou po 6. úrovni.
+První pomoc	Druhotná schopnost bonus: První pomoc	Obdrí bonus 5% za kadou úroveò ke schopnosti první pomoc.
+Poehnání 	Kouzlo bonus: Poehnání 	"Sešle kouzlo poehnání se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Slabost	Kouzlo bonus: Slabost	"Sešle kouzlo slabost se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Mrazící kruh	Kouzlo bonus: Mrazící kruh	"Sešle kouzlo mrazící kruh se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Mniši	Bojovníci bonus: Mniši	Zvyšuje útoènou a obrannou sílu všech mnichù nebo fanatikù za kadou úroveò dosaenou po 5. úrovni.
+Orlí oko	Druhotná schopnost bonus: Orlí oko	Obdrí bonus 5% za kadou úroveò ke schopnosti orlí oko.
+Modlitba	Kouzlo bonus: Modlitba	"Sešle kouzlo modlitba se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
+Brnìní 	Druhotná schopnost bonus: Brnìní 	Obdrí bonus 5% za kadou úroveò ke schopnosti brnìní.
+Trpaslíci	Bojovníci bonus: Trpaslíci	Zvyšuje útoènou a obrannou sílu všech trpaslíkù nebo bojovıch trpaslíkù za kadou úroveò dosaenou po 3. úrovni.
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
+Stromy	Bojovníci bonus: Stromy	Zvyšuje útoènou a obrannou sílu všech stromovıch strácù nebo stromovıch vojákù za kadou úroveò dosaenou po 5. úrovni.
+Odolnost	Druhotná schopnost bonus: Odolnost	Obdrí bonus 5% za kadou úroveò ke schopnosti odolnost.
+Elfové 	Bojovníci bonus: Elfové 	Zvyšuje útoènou a obrannou sílu všech lesních elfù nebo velkıch elfù za kadou úroveò dosaenou po 3. úrovni.
+Jednoroci	Bojovníci bonus: Jednoroci	Zvyšuje útoènou a obrannou sílu všech jednorocù nebo bojovıch jednorocù za kadou úroveò dosaenou po 6. úrovni.
+Logistika	Druhotná schopnost bonus: Logistika	Obdrí bonus 5% za kadou úroveò ke schopnosti logistika.
+Zabiják	Kouzlo bonus: Zabiják	"Sešle kouzlo zabiják se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Léèba	Kouzlo bonus: Léèba	"Sešle kouzlo léèba se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi seslání kouzla na více oslabenou jednotku)."
+Inteligence	Druhotná schopnost bonus: Inteligence	Obdrí bonus 5% za kadou úroveò ke schopnosti inteligence.
+První pomoc	Druhotná schopnost bonus: První pomoc	Obdrí bonus 5% za kadou úroveò ke schopnosti první pomoc.
+Orlí oko	Druhotná schopnost bonus: Orlí oko	Obdrí bonus 5% za kadou úroveò ke schopnosti orlí oko.
+ štìstí 	Kouzlo bonus:  Štìstí 	"Sešle kouzlo štìstí se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Ledovı šíp	Kouzlo bonus: Ledovı šíp	"Sešle kouzlo ledovı šíp se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Pegasové 	Bojovníci bonus: Pegasové 	Zvyšuje útoènou a obrannou sílu všech pegasù nebo støíbrnıch pegasù za kadou úroveò dosaenou po 4. úrovni.
+Chrlièi	Bojovníci bonus: Chrlièi	Zvyšuje útoènou a obrannou sílu všech kamennıch nebo obsidiánovıch chrlièù za kadou úroveò dosaenou po 2. úrovni.
+Dinové 	Bojovníci bonus: Dinové 	Zvyšuje útoènou a obrannou sílu všech dinù nebo mistrù dinù za kadou úroveò dosaenou po 5. úrovni.
+Golemové 	Bojovníci bonus: Golemové 	Zvyšuje útoènou a obrannou sílu všech kamennıch nebo eleznıch golemù za kadou úroveò dosaenou po 3. úrovni.
+Brnìní 	Druhotná schopnost bonus: Brnìní 	Obdrí bonus 5% za kadou úroveò ke schopnosti brnìní.
+Balista	Artilerie bonus: Balista	Zvyšuje útoènou a obrannou sílu balisty za kadou úroveò dosaenou po 4. úrovni.
+Nagy	Bojovníci bonus: Nagy	Zvyšuje útoènou a obrannou sílu všech nag nebo královen nag za kadou úroveò dosaenou po 6. úrovni.
++1 rtu 	+1 rtu dennì.	Pøidává království 1 rtu dennì.
+Dinové 	Bojovníci bonus: Dinové 	Zvyšuje útoènou a obrannou sílu všech dinù nebo mistrù dinù za kadou úroveò dosaenou po 5. úrovni.
+Hypnóza	Kouzlo bonus: Hypnóza	"Sešle kouzlo hypnóza se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Mystika	Druhotná schopnost bonus: Mystika	Obdrí bonus 5% za kadou úroveò ke schopnosti mystika.
+Orlí oko	Druhotná schopnost bonus: Orlí oko	Obdrí bonus 5% za kadou úroveò ke schopnosti orlí oko.
+ štìstí 	Kouzlo bonus:  Štìstí 	"Sešle kouzlo štìstí se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Mágové 	Bojovníci bonus: Mágové 	Zvyšuje útoènou a obrannou sílu všech mágù nebo arcimágù za kadou úroveò dosaenou po 4. úrovni.
+Kulovı blesk	Kouzlo bonus: Kulovı blesk	"Sešle kouzlo kulovı blesk se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Zrychlení 	Kouzlo bonus: Zrychlení 	"Sešle kouzlo zrychlení se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
+Pekelní psi	Bojovníci bonus: Pekelní psi	Zvyšuje útoènou a obrannou sílu všech pekelnıch psù nebo kerberù za kadou úroveò dosaenou po 3. úrovni.
+Efríti	Bojovníci bonus: Efríti	Zvyšuje útoènou a obrannou sílu všech efrítù nebo sultánù efrítù za kadou úroveò dosaenou po 6. úrovni.
+Démoni	Bojovníci bonus: Démoni	Zvyšuje útoènou a obrannou sílu všech démonù nebo rohatıch démonù za kadou úroveò dosaenou po 4. úrovni.
+ Ïáblíci	Bojovníci bonus:  Ïáblíci	Zvyšuje útoènou a obrannou sílu všech ïáblíkù nebo raráškù za kadou úroveò dosaenou po 1. úrovni.
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
+Gogové 	Bojovníci bonus: Gogové 	Zvyšuje útoènou a obrannou sílu všech gogù nebo magogù za kadou úroveò dosaenou po 2. úrovni.
+Balista	Artilerie bonus: Balista	Zvyšuje útoènou a obrannou sílu balisty za kadou úroveò dosaenou po 4. úrovni.
+Satani	Bojovníci bonus: Satani	Zvyšuje útoènou a obrannou sílu všech satanù nebo pekelnıch pánù za kadou úroveò dosaenou po 5. úrovni.
+Inteligence	Druhotná schopnost bonus: Inteligence	Obdrí bonus 5% za kadou úroveò ke schopnosti inteligence.
+Peklo	Kouzlo bonus: Peklo	"Sešle kouzlo peklo se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Mystika	Druhotná schopnost bonus: Mystika	Obdrí bonus 5% za kadou úroveò ke schopnosti mystika.
+Slabost	Kouzlo bonus: Slabost	"Sešle kouzlo slabost se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
++1 síra	+1 síra dennì.	Zvyšuje pøíjem království o 1 jednotku síry dennì.
+Krveíznivost	Kouzlo bonus: Krveíznivost	"Sešle kouzlo krveíznivost se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Kouzelnictví 	Druhotná schopnost bonus: Kouzelnictví 	Obdrí bonus 5% za kadou úroveò ke schopnosti kouzelnictví.
+Ohnivá koule	Kouzlo bonus: Ohnivá koule	"Sešle kouzlo ohnivá koule se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Chod. mrtvoly	Bojovníci bonus: Chodící mrtvoly	Zvyšuje útoènou a obrannou sílu všech chodících mrtvol nebo zombií za kadou úroveò dosaenou po 2. úrovni.
+Upíøi	Bojovníci bonus: Upíøi	Zvyšuje útoènou a obrannou sílu všech upírù nebo pánù upírù za kadou úroveò dosaenou po 4. úrovni.
+Lichové 	Bojovníci bonus: Lichové 	Zvyšuje útoènou a obrannou sílu všech lichù nebo mocnıch lichù za kadou úroveò dosaenou po 5. úrovni.
+Duchové 	Bojovníci bonus: Duchové 	Zvyšuje útoènou a obrannou sílu všech duchù nebo pøízrakù za kadou úroveò dosaenou po 3. úrovni.
+ Èerní rytíøi	Bojovníci bonus:  Èerní rytíøi	Zvyšuje útoènou a obrannou sílu všech èernıch rytíøù nebo hrozivıch rytíøù za kadou úroveò dosaenou po 6. úrovni.
+Nekromancie	Druhotná schopnost bonus: Nekromancie	Obdrí bonus 5% za kadou úroveò ke schopnosti nekromancie.
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
+Kostlivci	Bojovníci bonus: Kostlivci	Zvyšuje útoènou a obrannou sílu všech kostlivcù nebo váleènıch kostlivcù za kadou úroveò dosaenou po 1. úrovni.
+Vlna smrti	Kouzlo bonus: Vlna smrti	"Sešle kouzlo vlna smrti se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Pád meteoritù 	Kouzlo bonus: Pád meteoritù 	"Sešle kouzlo pád meteoritù se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Kouzelnictví 	Druhotná schopnost bonus: Kouzelnictví 	Obdrí bonus 5% za kadou úroveò ke schopnosti kouzelnictví.
+Orlí oko	Druhotná schopnost bonus: Orlí oko	Obdrí bonus 5% za kadou úroveò ke schopnosti orlí oko.
+Oiv mrtvé 	Kouzlo bonus: Oiv mrtvé 	"Sešle kouzlo oiv mrtvé se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Kamenná kùe	Kouzlo bonus: Kamenná kùe	"Sešle kouzlo kamenná kùe se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Nekromancie	Druhotná schopnost bonus: Nekromancie	Obdrí bonus 5% za kadou úroveò ke schopnosti nekromancie.
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
+Harpyje	Bojovníci bonus: Harpyje	Zvyšuje útoènou a obrannou sílu všech harpyjí nebo starıch harpyjí za kadou úroveò dosaenou po 2. úrovni.
+Balista	Artilerie bonus: Balista	Zvyšuje útoènou a obrannou sílu balisty za kadou úroveò dosaenou po 4. úrovni.
+Minotauøi	Bojovníci bonus: Minotauøi	Zvyšuje útoènou a obrannou sílu všech minotaurù nebo králù minotaurù za kadou úroveò dosaenou po 5. úrovni.
+Pozorovatelé 	Bojovníci bonus: Pozorovatelé 	Zvyšuje útoènou a obrannou sílu všech pozorovatelù nebo oèí zla za kadou úroveò dosaenou po 2. úrovni.
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
+Logistika	Druhotná schopnost bonus: Logistika	Obdrí bonus 5% za kadou úroveò ke schopnosti logistika.
+Mantikory	Bojovníci bonus: Mantikory	Zvyšuje útoènou a obrannou sílu všech mantikor nebo škorpikor za kadou úroveò dosaenou po 6. úrovni.
+Troglodyti	Bojovníci bonus: Troglodyti	Zvyšuje útoènou a obrannou sílu všech troglodytù nebo pekelnıch troglodytù za kadou úroveò dosaenou po 1. úrovni.
+Vzkøíšení 	Kouzlo bonus: Vzkøíšení 	"Sešle kouzlo vzkøíšení se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Mystika	Druhotná schopnost bonus: Mystika	Obdrí bonus 5% za kadou úroveò ke schopnosti mystika.
+Kouzelnictví 	Druhotná schopnost bonus: Kouzelnictví 	Obdrí bonus 5% za kadou úroveò ke schopnosti kouzelnictví.
+Vzkøíšení 	Kouzlo bonus: Vzkøíšení 	"Sešle kouzlo vzkøíšení se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Orlí oko	Druhotná schopnost bonus: Orlí oko	Obdrí bonus 5% za kadou úroveò ke schopnosti orlí oko.
+Pád meteoritù 	Kouzlo bonus: Pád meteoritù 	"Sešle kouzlo pád meteoritù se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
++1 krystal	+1 krystal dennì.	Zvyšuje pøíjem království o 1 krystal dennì.
+Kamenná kùe	Kouzlo bonus: Kamenná kùe	"Sešle kouzlo kamenná kùe se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Kyklopové 	Bojovníci bonus: Kyklopové 	Zvyšuje útoènou a obrannou sílu všech kyklopù nebo králù kyklopù za kadou úroveò dosaenou po 6. úrovni.
+Balista	Artilerie bonus: Balista	Zvyšuje útoènou a obrannou sílu balisty za kadou úroveò dosaenou po 4. úrovni.
+Skøeti	Bojovníci bonus: Skøeti	Zvyšuje útoènou a obrannou sílu všech skøetù nebo skøetích náèelníkù za kadou úroveò dosaenou po 3. úrovni.
+Rochové 	Bojovníci bonus: Rochové 	Zvyšuje útoènou a obrannou sílu všech rochù nebo hromovıch ptákù za kadou úroveò dosaenou po 5. úrovni.
+Goblini	Bojovníci bonus: Goblini	Zvyšuje útoènou a obrannou sílu všech goblinù nebo hobgoblinù za kadou úroveò dosaenou po 1. úrovni.
+Zlobøi	Bojovníci bonus: Zlobøi	Zvyšuje útoènou a obrannou sílu všech zlobrù nebo zlobøích mágù za kadou úroveò dosaenou po 4. úrovni.
+ útoènost	Druhotná schopnost bonus:  Útoènost	Obdrí bonus 5% za kadou úroveò ke schopnosti útoènost.
+Vlèí jezdci	Bojovníci bonus: Vlèí jezdci	Zvyšuje útoènou a obrannou sílu všech vlèích jezdcù nebo vlèích nájezdníkù za kadou úroveò dosaenou po 2. úrovni.
+Kouzelnictví 	Druhotná schopnost bonus: Kouzelnictví 	Obdrí bonus 5% za kadou úroveò ke schopnosti kouzelnictví.
+Zlobøi	Bojovníci bonus: Zlobøi	Zvyšuje útoènou a obrannou sílu všech zlobrù nebo zlobøích mágù za kadou úroveò dosaenou po 4. úrovni.
+Logistika	Druhotná schopnost bonus: Logistika	Obdrí bonus 5% za kadou úroveò ke schopnosti logistika.
+Zrychlení 	Kouzlo bonus: Zrychlení 	"Sešle kouzlo zrychlení se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Pøesnost	Kouzlo bonus: Pøesnost	"Sešle kouzlo pøesnost se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+ útoènost	Druhotná schopnost bonus:  Útoènost	Obdrí bonus 5% za kadou úroveò ke schopnosti útoènost.
+Orlí oko	Druhotná schopnost bonus: Orlí oko	Obdrí bonus 5% za kadou úroveò ke schopnosti orlí oko.
++1 drahokam	+1 drahokam dennì.	Zvyšuje pøíjem království o 1 drahokam dennì.
+Bazilišci	Bojovníci bonus: Bazilišci	Zvyšuje útoènou a obrannou sílu všech baziliškù nebo velkıch baziliškù za kadou úroveò dosaenou po 4. úrovni.
+Gnolové 	Bojovníci bonus: Gnolové 	Zvyšuje útoènou a obrannou sílu všech gnolù nebo gnolích nájezdníkù za kadou úroveò dosaenou po 1. úrovni.
+Ještìrèí mui	Bojovníci bonus: Ještìrèí mui	Zvyšuje útoènou a obrannou sílu všech ještìrèích muù nebo ještìrèích vojákù za kadou úroveò dosaenou po 2. úrovni.
+Brnìní 	Druhotná schopnost bonus: Brnìní 	Tazar obdrí bonus 5% za kadou úroveò ke své schopnosti brnìní.
+Gorgony	Bojovníci bonus: Gorgony	Zvyšuje útoènou a obrannou sílu všech gorgon nebo mocnıch gorgon za kadou úroveò dosaenou po 5. úrovni.
+Hadí váky	Bojovníci bonus: Hadí váky	Zvyšuje útoènou a obrannou sílu všech hadích nebo draèích váek za kadou úroveò dosaenou po 3. úrovni.
+Balista	Artilerie bonus: Balista	Zvyšuje útoènou a obrannou sílu balisty za kadou úroveò dosaenou po 4. úrovni.
+Ještìøi	Bojovníci bonus: Ještìøi	Zvyšuje útoènou a obrannou sílu všech ještìrù nebo ještìøích vládcù za kadou úroveò dosaenou po 6. úrovni.
+Slabost	Kouzlo bonus: Slabost	"Sešle kouzlo slabost se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Mystika	Druhotná schopnost bonus: Mystika	Obdrí bonus 5% za kadou úroveò ke schopnosti mystika.
+Navigace	Druhotná schopnost bonus: Navigace	Obdrí bonus 5% za kadou úroveò ke schopnosti navigace.
+První pomoc	Druhotná schopnost bonus: První pomoc	Obdrí bonus 5% za kadou úroveò ke schopnosti první pomoc.
+Kamenná kùe	Kouzlo bonus: Kamenná kùe	"Sešle kouzlo kamenná kùe se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Kouzelnictví 	Druhotná schopnost bonus: Kouzelnictví 	Obdrí bonus 5% za kadou úroveò ke schopnosti kouzelnictví.
+Inteligence	Druhotná schopnost bonus: Inteligence	Obdrí bonus 5% za kadou úroveò ke schopnosti inteligence.
+Orlí oko	Druhotná schopnost bonus: Orlí oko	Obdrí bonus 5% za kadou úroveò ke schopnosti orlí oko.
+Psych. elem.	Bojovníci bonus: Psychiètí elementálové 	Psychiètí/magiètí elementálové obdrí bonus +3 k útoku a +3 k obranì.
+Zemští elem.	Bojovníci bonus: Zemští elementálové 	"Zemští/magmatiètí elementálové obdrí bonus +2 k útoku, +1 k obranì a +5 ke zpùs. škodám."
+Ohniví elem.	Bojovníci bonus: Ohniví elementálové 	"Ohniví/energetiètí elementálové obdrí bonus +1 k útoku, +2 k obranì a +2 ke zpùs. škodám."
+Vodní elem.	Bojovníci bonus: Vodní elementálové 	Vodní/ledoví elementálové obdrí bonus +2 k útoku.
+Psych. elem.	Bojovníci bonus: Psychiètí elementálové 	Psychiètí/magiètí elementálové obdrí bonus +3 k útoku a +3 k obranì.
+Zemští elem.	Bojovníci bonus: Zemští elementálové 	"Zemští/magmatiètí elementálové obdrí bonus +2 k útoku, +1 k obranì a +5 ke zpùs. škodám."
+Ohniví elem.	Bojovníci bonus: Ohniví elementálové 	"Ohniví/energetiètí elementálové obdrí bonus +1 k útoku, +2 k obranì a +2 ke zpùs. škodám."
+Vodní elem.	Bojovníci bonus: Vodní elementálové 	Vodní/ledoví elementálové obdrí bonus +2 k útoku.
+Ohnivá zeï 	Kouzlo bonus: Ohnivá zeï 	 Škody zpùsobené ohnivou zdi se zdvojnásobují.
+Zrychlení 	Kouzlo bonus: Zrychlení 	"Sešle kouzlo zrychlení se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Magickı šíp	Kouzlo bonus: Magickı šíp	"Kouzlo magickı šíp zpùsobuje o 50% vyšší škody."
+Kamenná kùe	Kouzlo bonus: Kamenná kùe	"Seslání kamenné kùe zvyšuje obranu o další 3 body."
+Krveíznivost	Kouzlo bonus: Krveíznivost	"Sešle kouzlo krveíznivost se zvıšenım efektem, zaloenım na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi pouití na slabší jednotku)."
+Rušící paprsek	Kouzlo bonus: Rušící paprsek	"Pøi seslání kouzla rušící paprsek se obrana sniuje ještì o 2."
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlatıch dennì.
++350 zlata	+350 zlata dennì. 	Zvyšuje pøíjem království o 350 zlata zlatıch .
+Rychlost	Bojovníci bonus: Rychlost	Všem bojovníkùm se zvıší rychlost o +2.
+Ohnivá magie	Druhotná schopnost bonus: Exp. škola ohnivé magie	Zaèíná se školou ohnivé magie na expertním stupni.
+ Šermíøi	Bojovníci bonus:  Šermíøi	Zvyšuje útoènou a obrannou sílu všech šermíøù nebo køiákù za kadou úroveò dosaenou po 4. úrovni.
+Kouzelníci	Bojovníci bonus: Kouzelníci	Mùe vytrénovat mnichy nebo fanatiky a mágy nebo arcimágy na kouzelníky.
+Ostrostøelci	Bojovníci bonus: Ostrostøelci	Mùe vytrénovat lukostøelce nebo elitní støelce a lesní elfy nebo velké elfy na ostrostøelce.
+Behemoti	Bojovníci bonus: Behemoti	"Behemoti nebo starovìcí behemoti obdrí bonus +5 k útoku, +5 k obranì a +10 ke zpùs. škodám."
+ Èerní rytíøi	Bojovníci bonus:  Èerní rytíøi	" Èerní rytíøi nebo hroziví rytíøi obdrí bonus +5 k útoku, +5 k obranì a +10 ke zpùs. škodám."
+Draci	Bojovníci bonus: Draci	"Všichni draci obdrí bonus +5 k útoku a +5 k obranì."
+ Šermíøi	Bojovníci bonus:  Šermíøi	Zvyšuje útoènou a obrannou sílu všech šermíøù nebo køiákù za kadou úroveò dosaenou po 4. úrovni.
+Draci	Bojovníci bonus: Draci	"Všichni draci obdrí bonus +5 k útoku a +5 k obranì."
+Zlobøi	Bojovníci bonus: Zlobøi	Zvyšuje útoènou a obrannou sílu všech zlobrù nebo zlobøích mágù za kadou úroveò dosaenou po 4. úrovni.
+ Ïáblové 	Bojovníci bonus:  Ïáblové 	" Ïáblové a arciïáblové obdrí bonus +4 k útoku, +2 k obranì a +1 k rychlosti."
+

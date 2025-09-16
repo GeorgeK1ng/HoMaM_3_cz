@@ -1,0 +1,198 @@
+	Popis		
+Název	Základní 	Lepší 	Expert
+Hledání cest	"{Základní hledání cest}
+
+Základní hledání cest sniuje o 25% zpomalení rychlosti pohybu hrdiny po obtíném terénu."	"{Lepší hledání cest}
+
+Lepší hledání cest sniuje o 50% zpomalení rychlosti pohybu hrdiny po obtíném terénu."	"{Expert hledání cest}
+
+Expert hledání cest sniuje o 75% zpomalení rychlosti pohybu hrdiny po obtíném terénu."
+Støelec	"{Základní støelec}
+
+Schopnost základní støelec zvyšuje o 10% škody, které zpùsobí støelecké oddíly."	"{Lepší støelec}
+
+Schopnost lepší støelec zvyšuje o 25% škody, které zpùsobí støelecké oddíly."	"{Expert støelec}
+
+Schopnost expert støelec zvyšuje o 50% škody, které zpùsobí støelecké oddíly."
+Logistika	"{Základní logistika}
+
+Základní logistika zvyšuje o 10% rychlost pohybu hrdiny po zemi."	"{Lepší logistika}
+
+Lepší logistika zvyšuje o 20% rychlost pohybu hrdiny po zemi."	"{Expert logistika}
+
+Expert logistika zvyšuje o 30% rychlost pohybu hrdiny po zemi."
+Prùzkumník	"{Základní prùzkumník}
+
+Základní prùzkumník zvyšuje o 1 pole polomìr viditelnosti kolem hrdiny."	"{Lepší prùzkumník}
+
+Lepší prùzkumník zvyšuje o 2 pole polomìr viditelnosti kolem hrdiny."	"{Expert prùzkumník}
+
+Expert prùzkumník zvyšuje o 3 pole polomìr viditelnosti kolem hrdiny."
+Diplomacie	"{Základní diplomacie}
+
+Schopnost základní diplomacie sníí o 20% cenu vıkupného a zvıší o 25% šanci na pøipojení slabších potulnıch bojovníkù."	"{Lepší diplomacie}
+
+Lepší diplomacie sníí o 40% cenu vıkupného a zvıší o 50% šanci na pøipojení slabších potulnıch bojovníkù."	"{Expert diplomacie}
+
+Schopnost expert diplomacie sníí o 60% cenu vıkupného a zvıší o 100% šanci na pøipojení slabších potulnıch bojovníkù."
+Navigace	"{Základní navigace}
+
+Základní navigace zvyšuje o 50% rychlost pohybu hrdiny po vodì."	"{Lepší navigace}
+
+Lepší navigace zvyšuje o 100% rychlost pohybu hrdiny po vodì."	"{Expert navigace}
+
+Expert navigace zvyšuje o 150% rychlost pohybu hrdiny po vodì."
+Vedení 	"{Základní vedení }
+
+Základní vedení zvyšuje o 1 bod morálku všech oddílù hrdiny."	"{Lepší vedení }
+
+Lepší vedení zvyšuje o 2 body morálku všech oddílù hrdiny."	"{Expert vedení }
+
+Expert vedení zvyšuje o 3 body morálku všech oddílù hrdiny."
+Moudrost	"{Základní moudrost}
+
+Základní moudrost umoòuje hrdinovi uèit se kouzla 3. úrovnì."	"{Lepší moudrost}
+
+Lepší moudrost umoòuje hrdinovi uèit se kouzla 4. úrovnì."	"{Expert moudrost}
+
+Expert moudrost umoòuje hrdinovi uèit se kouzla 5. úrovnì."
+Mystika	"{Základní mystika}
+
+Základní mystika zvyšuje rychlost obnovy zásoby magické energie na 2 body dennì."	"{Lepší mystika}
+
+Lepší mystika zvyšuje rychlost obnovy zásoby magické energie o 3 body dennì."	"{Expert mystika}
+
+Expert mystika zvyšuje rychlost obnovy zásoby magické energie o 4 body dennì."
+ štìstí  	"{Základní štìstí }
+
+Schopnost základní štìstí zvyšuje o 1 bod štìstí hrdiny."	"{Lepší štìstí }
+
+Lepší štìstí zvyšuje o 2 body štìstí hrdiny."	"{Expert štìstí }
+
+Schopnost expert štìstí zvyšuje o 3 body štìstí hrdiny."
+Balistika	"{Základní balistika}
+
+Základní balistika dává hrdinovi kontrolu nad katapultem a zvyšuje jeho škody."	"{Lepší balistika}
+
+Lepší balistika dává hrdinovi kontrolu nad katapultem, dává mu 2 vıstøely katapultem za kolo a zvyšuje jeho škody."	"{Expert balistika}
+
+Expert balistika dává hrdinovi kontrolu nad katapultem, 2 vıstøely za kolo a katapult pùsobí maximální škody."
+Orlí oko	"{Základní orlí oko}
+
+Základní orlí oko dává hrdinovi 40% šanci nauèit se kouzlo do 2. stupnì, které proti nìmu v boji pouije jinı hrdina."	"{Lepší orlí oko}
+
+Schopnost lepší orlí oko dává hrdinovi 50% šanci nauèit se kouzlo do 3. stupnì, které proti nìmu v boji pouije jinı hrdina."	"{Expert orlí oko}
+
+Schopnost expert orlí oko dává hrdinovi 60% šanci nauèit se kouzlo do 4. stupnì, které proti nìmu v boji pouije jinı hrdina."
+Nekromancie	"{Základní nekromancie}
+
+Základní nekromancie po vítìzství vzkøísí 10% zabitıch bojovníkù a uèiní z nich kostlivce."	"{Lepší nekromancie}
+
+Lepší nekromancie po vítìzství vzkøísí 20% zabitıch bojovníkù a uèiní z nich kostlivce."	"{Expert nekromancie}
+
+Expert nekromancie po vítìzství vzkøísí 30% zabitıch bojovníkù a uèiní z nich kostlivce."
+Hospodaøení 	"{Základní hospodaøení }
+
+Díky hospodaøení ti bude hrdina kadı den dodávat 125 zlaákù."	"{Lepší hospodaøení }
+
+Díky hospodaøení ti bude hrdina kadı den dodávat 250 zlaákù."	"{Expert hospodaøení }
+
+Díky hospodaøení ti bude hrdina kadı den dodávat 500 zlaákù."
+Magie ohnì 	"{Základní magie ohnì }
+
+Základní magie ohnì sniuje cenu všech kouzel magie ohnì."	"{Lepší magie ohnì }
+
+Lepší magie ohnì sniuje cenu a zvyšuje sílu všech kouzel magie ohnì."	"{Expert magie ohnì }
+
+Expert magie ohnì sniuje cenu a maximalizuje sílu všech kouzel magie ohnì."
+Magie vzduchu	"{Základní magie vzduchu}
+
+Základní magie vzduchu sniuje cenu všech kouzel magie vzduchu."	"{Lepší magie vzduchu}
+
+Lepší magie vzduchu sniuje cenu a zvyšuje sílu všech kouzel magie vzduchu."	"{Expert magie vzduchu}
+
+Expert magie vzduchu sniuje cenu a maximalizuje sílu všech kouzel magie vzduchu."
+Magie vody	"{Základní magie vody}
+
+Základní magie vody sniuje cenu všech kouzel magie vody."	"{Lepší magie vody}
+
+Lepší magie vody sniuje cenu a zvyšuje sílu všech kouzel magie vody."	"{Expert magie vody}
+
+Expert magie vody sniuje cenu a maximalizuje sílu všech kouzel magie vody."
+Magie zemì 	"{Základní magie zemì }
+
+Základní magie zemì sniuje cenu všech kouzel magie zemì."	"{Lepší magie zemì }
+
+Lepší magie zemì sniuje cenu a zvyšuje sílu všech kouzel magie zemì."	"{Expert magie zemì }
+
+Expert magie zemì sniuje cenu a maximalizuje sílu všech kouzel magie zemì."
+Uèenec	"{Základní uèenec}
+
+Základní uèenec mùe jiné hrdiny nauèit kouzla do 2. stupnì a od nich se sám nauèí nová kouzla do 2. stupnì."	"{Lepší uèenec}
+
+Lepší uèenec mùe jiné hrdiny nauèit kouzla do 3. stupnì a od nich se sám nauèí nová kouzla do 3. stupnì."	"{Expert uèenec}
+
+Expert uèenec mùe jiné hrdiny nauèit kouzla do 4. stupnì a od nich se sám nauèí nová kouzla do 4. stupnì."
+Taktika	"{Základní taktika}
+
+Základní taktika dovolí hrdinovi pøed bojem zmìnit rozmístìní vlastních oddílù a posunout je a o 3 pole do bojištì."	"{Lepší taktika}
+
+Lepší taktika dovolí hrdinovi pøed bojem zmìnit rozmístìní vlastních oddílù a posunout je a o 5 polí do bojištì."	"{Expert taktika}
+
+Expert taktika dovolí hrdinovi pøed bojem zmìnit rozmístìní vlastních oddílù a posunout je a o 7 polí do bojištì."
+Artilerie	"{Základní artilerie}
+
+Základní artilerie dává hrdinovi kontrolu nad balistou, 2 vıstøely a 50% šanci zdvojnásobit její škody."	"{Lepší artilerie}
+
+Lepší artilerie dává hrdinovi kontrolu nad balistou, 2 vıstøely a 75% šanci zdvojnásobit její škody."	"{Expert artilerie}
+
+Expert artilerie dává hrdinovi kontrolu nad balistou, 2 vıstøely a pùsobí dvojnásobné škody."
+Vzdìlávání 	"{Základní vzdìlávání }
+
+Základní vzdìlávání zvyšuje o 5% získávání zkušeností hrdiny."	"{Lepší vzdìlávání }
+
+Lepší vzdìlávání zvyšuje o 10% získávání zkušeností hrdiny."	"{Expert vzdìlávání }
+
+Expert vzdìlávání zvyšuje o 15% získávání zkušeností hrdiny."
+ Útoènost	"{Základní útoènost}
+
+Schopnost základní útoènost zvyšuje o 10% škody zpùsobené pøi boji mue proti mui."	"{Lepší útoènost}
+
+Schopnost lepší útoènost zvyšuje o 20% škody zpùsobené pøi boji mue proti mui."	"{Expert útoènost}
+
+Schopnost expert útoènost zvyšuje o 30% škody zpùsobené pøi boji mue proti mui."
+Brnìní 	"{Základní brnìní }
+
+Schopnost základní brnìní sniuje o 5% škody, které zpùsobí nepøítel tvım bojovníkùm."	"{Lepší brnìní }
+
+Lepší brnìní sniuje o 10% škody, které zpùsobí nepøítel tvım bojovníkùm."	"{Expert brnìní }
+
+Schopnost expert brnìní sniuje o 15% škody, které zpùsobí nepøítel tvım bojovníkùm."
+Inteligence	"{Základní inteligence}
+
+Základní inteligence zvyšuje o 25% maximální mnoství magické energie, kterou hrdina mùe najednou naèerpat."	"{Lepší inteligence}
+
+Lepší inteligence zvyšuje o 50% maximální mnoství magické energie, kterou hrdina mùe najednou naèerpat."	"{Expert inteligence}
+
+Expert inteligence zdvojnásobí maximální mnoství magické energie, kterou hrdina mùe najednou naèerpat."
+Kouzelnictví 	"{Základní kouzelnictví }
+
+Základní kouzelnictví zvyšuje o 5% škody zpùsobené nepøíteli pomocí kouzel."	"{Lepší kouzelnictví }
+
+Schopnost lepší kouzelnictví zvyšuje o 10% škody zpùsobené nepøíteli pomocí kouzel."	"{Expert kouzelnictví }
+
+Schopnost expert kouzelnictví zvyšuje o 15% škody zpùsobené nepøíteli pomocí kouzel."
+Odolnost	"{Základní odolnost}
+
+Základní odolnost dává oddílùm hrdiny 5% šanci ochránit se pøed kouzly."	"{Lepší odolnost}
+
+Lepší odolnost dává oddílùm hrdiny 10% šanci ochránit se pøed kouzly."	"{Expert odolnost}
+
+Expert odolnost dává oddílùm hrdiny 15% šanci ochránit se pøed kouzly."
+První pomoc	"{Základní první pomoc}
+
+Díky základní první pomoci hrdina získá kontrolu nad stanem první pomoci a obnoví vybranému oddílu a 50 bodù energie."	"{Lepší první pomoc}
+
+Díky lepší první pomoci hrdina získá kontrolu nad stanem první pomoci a obnoví vybranému oddílu a 75 bodù energie."	"{Expert první pomoc}
+
+Díky expertní první pomoci hrdina získá kontrolu nad stanem první pomoci a obnoví vybranému oddílu a 100 bodù energie."

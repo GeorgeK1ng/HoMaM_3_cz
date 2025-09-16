@@ -1,0 +1,354 @@
+" Èernı drak je moná silnìjší ne titán, ale ani titán nemùe porazit archandìla sám bez pomoci."
+"Mudrc jednou øekl: ""O svoji moudrost se s nikım nedìl."""
+ Èervená labu plave v jezírku.
+Krev je silnìjší ne voda.
+Co ïáblíkùm a raráškùm schází na síle, to vynahrazují svım mnostvím.
+Vìø pouze sám sobì.
+Závoj temnoty tì mùe skrıt pøed nepøáteli.
+Najdi Grál - je mnohem mocnìjší, ne si dokáeš pøedstavit.
+"Najdi správného kartografa. I kdy jeho mapy nìco stojí, jsou neobyèejnì pøesné."
+Pozor na podrazy od Kreeganovcù.
+V boji si chraò své støelecké oddíly.
+Obèas nejlepší cestou, jak se vyhnout poráce, je vyhnout se boji!
+Zaútoè, kdy je nepøítel oslaben.
+U jsi nìkdy slyšel pøíbìh o ábì, které se zdálo, e se stala králem ... a nakonec se jí to splnilo?
+Nedávno èarodìjové objevili kouzlo, které umoní létat celé armádì!
+Zmatek je nejlepším pøítelem tyranù.
+ Øíká se, e ádná obrana neobstojí proti útoku starovìkého behemota.
+Nikdy nebudou nahrazeny škody, které zpùsobila válka v Erathii.
+"Troglodyti sice nemají ádné oèi, ale pøesto mohou vidìt."
+"Nikdy neignoruj bránu do podzemí! Jinak se nepøítel nenápadnì dostane na tvoje území."
+"Pouze zelení a zlatí draci jsou pøátelští. Èervení a èerní draci jsou sluebníky Nighonu a kostìní draci a pøízraèní draci jsou hanebná stvoøení nekromantù."
+Dnes je vèerejší zítøek.
+Jeden cestovatel mi øekl, e vládci Enrothu ztratili boské právo vládnout.
+"Pokud se staneš expertem v nìkteré ze škol magie, vìtšina kouzel, která pùsobila pouze na jeden oddíl, bude nyní pùsobit na všechny tvoje oddíly, nebo na všechny nepøátelské oddíly - a nìkterá na všechny oddíly na bojišti!"
+"Kdy cestuješ pouští, hledej oázu - urychlí tvoji cestu."
+"Hledej kameny poznání rozptılené po krajinì. Sice se od kadého mùeš nìco nauèit jen jednou, ale nauèíš se hodnì."
+"Jistota je v èíslech - obzvláš pokud jsou tato èísla v tisících!"
+Pamatuj si, e èernı drak je imunní vùèi všem kouzlùm - pouze kouzlo zabiják mu mùe zpùsobit potíe.
+"Zrychlení a zpomalení mohou bıt uiteèná kouzla, zvláštì na expertních úrovních."
+Proti ohni se jisti ochranou pøed kouzly ohnì.
+Voda mùe ublíit i tomu, kdo ji ovládá.
+Vzduch mùe ublíit i tomu, kdo ho ovládá.
+Zemì mùe ublíit i tomu, kdo ji ovládá.
+Na univerzitì se mùeš nauèit hodnì... za pøíslušnou cenu.
+Archandìlé jsou nejmocnìjšími bojovníky hradu.
+Zlatí draci jsou nejmocnìjšími bojovníky bašty.
+Titáni jsou nejmocnìjšími bojovníky vìe.
+Arciïáblové jsou nejmocnìjšími bojovníky pekla.
+Pøízraèní draci jsou nejmocnìjšími bojovníky nekropole.
+ Èerní draci jsou nejmocnìjšími bojovníky kobky.
+Starovìcí behemoti jsou nejmocnìjšími bojovníky tvrze.
+Hydry chaosu jsou nejmocnìjšími bojovníky pevnosti.
+"Správnım kouzlem mùeš nièit svoje lodì, abys pøedešel jejich pouívání nepøítelem. Odøízneš si tím cestu, ale proto existuje kouzlo pøivolej loï!"
+Není nic lepšího ne peèenı úhoø z Erathie. Nic? A co takhle pegase se zeleninou?
+"Hej, neznám ádné klepy. Protoe lidé jako ty mi nikdy nic neøeknou!"
+"V tomto èase zamrzají vody kolem elfího ostrova Vori."
+Vori je izolovanım národem.
+Slyšel jsem, e elfové z Vori mají bílou kùi.
+Víš o tom, ze elfové z AvLee pocházejí z elfù z Vori?
+Mìsta s citadelou mají víc bojovníkù ne mìsta s tvrzí.
+Slyšel jsem, e ve vìích se obchoduje s artefakty.
+Víš o tom, e ve tvrzích obchodují s bojovníky?
+Slyšel jsem, e hrdinové mohou nìjak cestovat mezi mìsty pekla.
+Cech zlodìjù je pøítelem všech a nikoho.
+Kadı hrad, kterı je pod ochranou bratrství meèe, má pøi obléhání vìtší šance na pøeití.
+Hrdinovi, kterı pøinese do hradu Grál, postaví obyvatelé mìsta obrovskı kolos, kterı bude navdy pøipomínat jeho hrdinství.
+Hrdinovi, kterı pøinese do bašty Grál, postaví obyvatelé mìsta mocného stráce duše, kterı bude navdy pøipomínat jeho hrdinství.
+Hrdinovi, kterı pøinese do vìe Grál, postaví obyvatelé mìsta úasnı balon, kterı bude navdy pøipomínat jeho hrdinství.
+Pro vìènou slávu hrdiny, kterı pøinese do pekla Grál, vyvolají obyvatelé mìsta velkolepé bostvo ohnì.
+Hrdinovi, kterı pøinese do nekropole Grál, postaví obyvatelé mìsta mocné vìzení duší, které bude navdy pøipomínat jeho hrdinství.
+Pro vìènou slávu hrdiny, kterı pøinese do kobky Grál, vyvolají obyvatelé mìsta mocného stráce zemì.
+Hrdinovi, kterı pøinese do tvrze Grál, postaví obyvatelé mìsta obrovskı pomník váleèníka, kterı bude navdy pøipomínat jeho hrdinství.
+Hrdinovi, kterı pøinese do pevnosti Grál, vypìstují obyvatelé mìsta nádhernou masoravou rostlinu, která bude navdy pøipomínat jeho hrdinství.
+Konì z Erathie jsou nejrychlejší v zemi.
+Erathijští elitní støelci mohou vystøelit dva šípy, zatímco lukostøelec vystøelí jenom jeden.
+Gryfové vytrénování v královskıch dvorech jsou divocí obránci.
+Erathijští køiáci mohou zasadit dva údery, zatímco šermíøi stihnou zasadit pouze jeden.
+U jsi to slyšel? Fanatici jsou bytosti èisté síly.
+Nech své šampiony zaútoèit na nepøítele s rozbìhem. Vısledky tì jistì nadchnou. Èím je nepøítel vzdálenìjší, tím lépe.
+Andìlé bojují zuøivìji, jestlie napadnou ïábly.
+"Vidìl jsem archandìly oivující spojence v áru bitvy."
+"Povídá se, e andìl pozvedne morálku jakákoliv spøíznìné armády, ale nedopus, aby zahynul."
+Vidìl jsem trpaslíka, na kterého se nepodaøilo seslat kouzlo.
+ Øíká se, e velcí elfové z AvLee jsou lepší luèištníci ne erathijští elitní støelci.
+ Øíká se, e pegas znesnadòuje sesílání kouzel nepøátelskım kouzelníkùm.
+Koøeny stromù pøipoutají nepøítele na místo.
+"Chceš-li se ochránit pøed kouzly, stùj vedle jednoroce."
+"I kdy nejsou a tak odolní jako zlatí draci, zelení draci také odolávají vìtšinì kouzel."
+"Zlatí draci odolávají více kouzlùm ne zelení draci, ale ne a tolik jako èerní draci."
+"Rarášci absorbují magickou energii z kadého kouzla, které sešleš, a pøevádìjí ji do zásoby svého generála."
+"Magogové házejí vybuchující koule, které zapalují vše kolem jejich cíle."
+Je nemoné odplatit strašnı útok trojhlavıch kerberù.
+Jednou jsem vidìl pekelného pána, jak oivuje démony z padlıch spojencù.
+"Efrít je nezranitelnı ohnivou magií, protoe pochází z ohnivıch plání."
+Efríti jsou obzvláš zuøiví, kdy útoèí na diny.
+Sultáni efrítù jsou od pøírody chránìni ohnivım štítem.
+Velké štìstí jako by nebylo pøítomno, kdy jsou na bojišti ïáblové.
+"Kdy ïábel cestuje, pøemístí se nejdøív do sféry ïáblù, ne se vrátí do našeho svìta."
+Proti tvrdému úderu ïáblovy kosy neexistuje ádnı protiútok.
+" Ïábel si vybíjí hroznı vztek, kdy útoèí na andìla."
+Støez se dotyku zombií. Mohl by ses nakazit.
+"Duchové a pøízraky jsou prokleté duše. Pokud je nezabiješ na jeden úder, úplnì se vyléèí, ne stihneš zasadit druhı."
+Pøízraky se iví magickou energií. Kdy jsou na bojišti, tvá magická energie mizí neznámo kam.
+Slyšel jsem, e duchové z Enrothu jsou ještì nebezpeènìjší ne duchové a pøízraky z Erathie.
+"Na bojišti nejèastìji vyhraje ten, kdo zasadí první úder."
+"Na bojišti znamená rychlost ivot a ivot je rychlost."
+Vidìl jsem, jak mrtví páni upírù povstali z krve padlıch nepøátel.
+Je nemoné odplatit upírùv hrùzostrašnı útok.
+ Útok licha roztrhá ivé, zatímco nemrtví se smìjí.
+ Útok èerného rytíøe mùe proklít nepøítele.
+Hroziví rytíøi jsou mocní váleèníci, kteøí mohou sekat nepøátele mocnım úderem smrti.
+"Kostìní draci a pøízraèní draci vnášejí strach do srdcí svıch nepøátel."
+"Pøízraèní draci jsou ízniví po ivotní síle mladıch. Dávej si pozor, abys rychle nezestárl."
+Golemové nemají vlastní mysl.
+Golemové jsou oivováni pomocí magickıch prostøedkù, které jen málokdo zná.
+"Díky èistì pøírodní povaze vydrí golemové nápor kouzel déle ne vìtšina ostatních bojovníkù."
+ Øíká se, e mágové a arcimágové pomáhají hrdinùm sesílat kouzla.
+Arcimágové vrhají magické vıboje pøesnìji ne vìtšina lukostøelcù.
+Efríti jsou pøirozenımi nepøáteli dinù.
+Dinové útoèí na efríty s takovou nenávistí, jakou jsem ještì nevidìl.
+Mistr din mùe sesílat kouzla tak dobøe jako ádnı jinı hrdina.
+"Proti ètyø a šestirukému útoku nemá šanci ádnı protiútok."
+ Útok nagy je pøíkladem precizního šermu.
+Pouze andìl a archandìl jsou v šermu lepší ne naga.
+Mnoho lidí podceòuje inteligenci obrù a titánù. Nikdo však nedokáe ovládnout jejich mysl.
+Titáni udeøí na èerné draky s vìtší zuøivostí neli kterıkoliv jinı nepøítel.
+Vlèí nájezdníci jsou rychlí bojovníci. Ne bys stihl zvednout štít, udeøili by tì dvakrát.
+Zlobøí mágové jsou strašná monstra. Umí ve svıch spojencích vyvolat krveíznivost - to jsem nikdy pøedtím nevidìl.
+ Útok hromového ptáka prı mùe z nebe pøivolat blesk.
+"Chceš-li dobıt nìjaké mìsto, pøiveï si s sebou pár kyklopù. Jejich schopnost vrhat kameny nìkdy znièí zdi døív, ne kdyby je nièil katapult."
+Jen pár lidí pøeilo útok behemota. Nìkteøí øíkají, e proti nìmu není ádná obrana.
+"Protoe nemají troglodyti ádné oèi, nemohou bıt oslepeni."
+"Mnoho armád padlo pod nálety harpyjí, ani by stihlo odpovìdìt na jejich útok."
+Staré harpyje útoèí tak rychle, e jim jejich útok nestihneš odplatit.
+"Pozorovatelé jsou všem dobøe známí. Dokonce ani v obklíèení neztrácejí svoji sílu."
+Hodnì bojovníkù se obává zkamenìní pøi útoku medúzy. Taky by ses ho mìl obávat více ne jejich zlatıch šípù.
+"Minotaurus jde do kadého boje s vıbornou morálkou. Tu zvyšuje i svım spolubojovníkùm."
+ Øíká se, e mocnı jed škorpikor dokáe paralyzovat i nemyslící golemy.
+Neexistuje kouzlo, které bys mohl seslat na èerné draky.
+ Øíká se, e koule zranitelnosti mùe oslabit i mocné èerné draky.
+"Pøi boji se èerní draci snaí likvidovat titány."
+"Málokdo ví, e draèí váky potlaèují kouzla."
+O mocnıch gorgonách se toho ví málo. Já jsem jednou slyšel, e pohled do jejich oèí znamená okamitou smrt.
+Dej si pozor na jed ještìøího vládce. Pùsobí velmi rychle.
+Na útok mnohohlavé hydry nelze odpovìdìt.
+"Pokud se chceš uèit rychle, navštiv bojovou akademii v kobce."
+Všeobecnì se vìøí, e èarodìjové jsou schopni stvoøit vír many, kterı zdvojnásobí tvé mnoství magické energie.
+"Skrze bránu vyvolání lze v kobce verbovat bojovníky zvenku."
+V pevnostech budují krvavı obelisk, aby zvıšili útoènost obráncù mìsta.
+"Po dni stráveném v kleci váleèníkù se budeš umìt lépe bránit."
+"Pokud pøepadneš peklo, uvidíš sirnou bouøi. Dej si pozor! Zvyšuje sílu kouzel obráncù."
+ Øíká se, e mìsta pekla jsou navzájem propojena dimenzionálními bránami. Obyèejní lidé jim øíkají hradní brány.
+"Pokud tví hrdinové touí po vìtší síle kouzel, navštiv øád ohnì v pekle."
+Závoj temnoty zakrıvá vše, co je pod vládou nekromantù.
+Vìøí se, e váleèní zajatci jsou odvádìní do nekropole, kde jsou promìòováni v kostlivce, aby posílili armády nemrtvıch hord nekromantù a temnıch rytíøù.
+Nìkdo vìøí, e kadá nekropole si staví 'zesilovaè nekromancie', kterı pomáhá hrdinùm zvyšovat poèty nemrtvıch.
+Vzácnìjší ne jezírko drahokamù je mystické jezírko. Nikdy nevíš, jaké drahocenné suroviny v nìm mùeš najít.
+V baštì staví fontánu štìstí, která dává obráncùm nevídané štìstí.
+"Pokud touíš po penìzích, shromaïuj si je v trpaslièí pokladnì v baštì."
+V nìkterıch tvrzích si staví únikové tunely, aby obránci mohli uniknout z pøedem prohrané bitvy.
+Z hrdinù, kteøí v tvrzi navštíví sínì valhally, se stanou lepší váleèníci.
+"Chceš-li vìdìt víc, navštiv rytinami pokrytou zeï znalostí ve vìi."
+"Na prokleté zemi nemá nikdo vıhodu."
+"Na magickıch pláních mùe i obyèejnı èlovìk sesílat kouzla jako nejlepší kouzelník."
+Hrdinovi, kterı pøinese do hradu Grál, postaví obyvatelé mìsta obrovskı kolos, kterı bude navdy pøipomínat jeho hrdinství.
+Kadı hrad, kterı je pod ochranou bratrství meèe, má pøi obléhání vìtší šance na pøeití.
+Cech zlodìjù je pøítelem všech a nikoho.
+Slyšel jsem, e hrdinové mohou nìjak cestovat mezi mìsty pekla.
+Víš o tom, e v tvrzích obchodují s bojovníky?
+Slyšel jsem, e ve vìích se obchoduje s artefakty.
+Mìsta s citadelou mají víc bojovníkù ne mìsta s tvrzí.
+" Èernı drak je moná silnìjší ne titán, ale ani titán nemùe porazit archandìla sám bez pomoci."
+"Mudrc jednou øekl: ""O svoji moudrost se s nikım nedìl."""
+ Èervená labu plave v jezírku.
+Krev je silnìjší ne voda.
+Co ïáblíkùm a raráškùm schází na síle, to vynahrazují svım mnostvím."
+Vìø pouze sám sobì.
+Závoj temnoty tì mùe skrıt pøed nepøáteli.
+Najdi Grál - je mnohem mocnìjší, ne si dokáeš pøedstavit.
+"Najdi správného kartografa. I kdy jeho mapy nìco stojí, jsou neobyèejnì pøesné."
+Pozor na podrazy od Kreeganovcù.
+V boji si chraò své støelecké oddíly.
+Obèas nejlepší cestou, jak se vyhnout poráce, je vyhnout se boji!
+Zaútoè, kdy je nepøítel oslaben.
+U jsi nìkdy slyšel pøíbìh o ábì, které se zdálo, e se stala králem ... a nakonec se jí to splnilo?
+Nedávno èarodìjové objevili kouzlo, které umoní létat celé armádì!
+Zmatek je nejlepším pøítelem tyranù.
+ Øíká se, e ádná obrana neobstojí proti útoku starovìkého behemota.
+Nikdy nebudou nahrazeny škody, které zpùsobila válka v Erathii.
+"Troglodyti sice nemají ádné oèi, ale pøesto mohou vidìt."
+"Nikdy neignoruj bránu do podzemí! Jinak se nepøítel nenápadnì dostane na tvé území."
+"Pouze zelení a zlatí draci jsou pøátelští. Èervení a èerní draci jsou sluebníky Nighonu a kostìní draci a pøízraèní draci jsou hanebná stvoøení nekromantù."
+Dnes je vèerejší zítøek.
+Jeden cestovatel mi øekl, e vládci Enrothu ztratili boské právo vládnout.
+"Pokud se staneš expertem v nìkteré ze škol magie, vìtšina kouzel, která pùsobila pouze na jeden oddíl, bude nyní pùsobit na všechny tvé oddíly, nebo na všechny nepøátelské oddíly - a nìkterá na všechny oddíly na bojišti!"
+"Kdy cestuješ pouští, hledej oázu - urychlí tvoji cestu."
+"Hledej kameny poznání rozptılené po krajinì. Sice se od jednoho mùeš nìco nauèit jen jednou, ale nauèíš se hodnì."
+"Jistota je v èíslech -  obzvláš pokud jsou tato èísla v tisících!"
+Pamatuj si, e èernı drak je imunní vùèi všem kouzlùm - pouze kouzlo zabiják mu mùe zpùsobit potíe.
+"Zrychlení a zpomalení mohou bıt uiteèná kouzla, zvláštì na expertních stupních."
+Proti ohni se jisti ochranou pøed kouzly ohnì.
+Voda mùe ublíit i tomu, kdo ji ovládá.
+Vzduch mùe ublíit i tomu, kdo ho ovládá.
+Zemì mùe ublíit i tomu, kdo ji ovládá.
+Na univerzitì se mùeš nauèit hodnì... za pøíslušnou cenu.
+Archandìlé jsou nejmocnìjšími bojovníky hradu.
+Zlatí draci jsou nejmocnìjšími bojovníky bašty.
+Titáni jsou nejmocnìjšími bojovníky vìe.
+Arciïáblové jsou nejmocnìjšími bojovníky pekla.
+Pøízraèní draci jsou nejmocnìjšími bojovníky nekropole.
+ èerní draci jsou nejmocnìjšími bojovníky kobky.
+Starovìcí behemoti jsou nejmocnìjšími bojovníky tvrze.
+Hydry chaosu jsou nejmocnìjšími bojovníky pevnosti.
+"Správnım kouzlem mùeš nièit svoje lodì, abys pøedešel jejich pouívání nepøítelem. Odøízneš si tím cestu, ale proto existuje kouzlo pøivolej loï!"
+Není nic lepšího ne peèenı úhoø z Erathie. Nic? A co øíkáš na pegase se zeleninou?
+"Hej, neznám ádné klepy. Protoe lidé jako ty mi nikdy nic neøeknou!"
+"V tomto èase zamrzají vody kolem elfího ostrova Vori."
+Vori je izolovanım národem.
+Slyšel jsem, e elfové z Vori mají bílou kùi.
+Víš o tom, ze elfové z AvLee pocházejí z elfù z Vori?
+Mìsta s citadelou mají víc bojovníkù ne mìsta s tvrzí.
+Slyšel jsem, e ve vìích se obchoduje s artefakty.
+Víš o tom, e v tvrzích obchodují s bojovníky?
+Slyšel jsem, e hrdinové mohou nìjak cestovat mezi mìsty pekla.
+Cech zlodìjù je pøítelem všech a nikoho.
+Kadı hrad, kterı je pod ochranou bratrství meèe, má pøi obléhání vìtší šance na pøeití.
+Hrdinovi, kterı pøinese do hradu Grál, postaví obyvatelé mìsta obrovskı kolos, kterı bude navdy pøipomínat jeho hrdinství.
+Hrdinovi, kterı pøinese do bašty Grál, postaví obyvatelé mìsta mocného stráce duše, kterı bude navdy pøipomínat jeho hrdinství.
+Hrdinovi, kterı pøinese do vìe Grál, postaví obyvatelé mìsta úasnı balon, kterı bude navdy pøipomínat jeho hrdinství.
+Pro vìènou slávu hrdiny, kterı pøinese do pekla Grál, vyvolají obyvatelé mìsta velkolepé bostvo ohnì.
+Hrdinovi, kterı pøinese do nekropole Grál, postaví obyvatelé mìsta mocné vìzení duší, které bude navdy pøipomínat jeho hrdinství.
+Pro vìènou slávu hrdiny, kterı pøinese do kobky Grál, vyvolají obyvatelé mìsta mocného stráce zemì.
+Hrdinovi, kterı pøinese do tvrze Grál, postaví obyvatelé mìsta obrovskı pomník váleèníka, kterı bude navdy pøipomínat jeho hrdinství.
+Hrdinovi, kterı pøinese do pevnosti Grál, vypìstují obyvatelé mìsta nádhernou masoravou rostlinu, která bude navdy pøipomínat jeho hrdinství.
+Konì z Erathie jsou nejrychlejší v zemi.
+Erathijští elitní støelci mohou vystøelit dva šípy, zatímco lukostøelec vystøelí jenom jeden.
+Gryfové vytrénování v královskıch dvorech jsou divocí obránci.
+Erathijští køiáci mohou zasadit dva údery, zatímco šermíøi stihnou zasadit pouze jeden.
+U jsi to slyšel? Fanatici jsou bytosti èisté síly.
+Nech svoje šampiony zaútoèit na nepøítele s rozbìhem. Vısledky tì jistì ohromí. Èím je nepøítel vzdálenìjší, tím lépe.
+Andìlé bojují zuøivìji, jestlie napadnou ïábly.
+"Vidìl jsem archandìly oivující spojence v áru bitvy."
+"Povídá se, e andìl pozvedne morálku jakákoliv spøíznìné armády. Avšak nedopus, aby zahynul."
+Vidìl jsem trpaslíka, na kterého se nepodaøilo seslat kouzlo.
+ Øíká se, e velcí elfové z AvLee jsou lepší luèištníci ne erathijští elitní støelci.
+ Øíká se, e pegas znesnadòuje sesílání kouzel nepøátelskım kouzelníkùm.
+Koøeny stromù pøipoutají nepøítele na místo.
+"Chceš-li se ochránit pøed kouzly, stùj vedle jednoroce."
+"I kdy nejsou a tak odolní jako zlatí draci, zelení draci také odolávají vìtšinì kouzel."
+"Zlatí draci odolávají více kouzlùm ne zelení draci, ale ne a tolik jako èerní draci."
+"Rarášci absorbují magickou energii z kadého kouzla, které sešleš, a pøevádìjí ji do zásoby svého generála."
+"Magogové házejí vybuchující koule, které zapalují vše kolem jejich cíle."
+Je nemoné odplatit strašnı útok trojhlavıch kerberù.
+Jednou jsem vidìl pekelného pána, jak oivuje démony z padlıch spojencù.
+"Efrít je nezranitelnı ohnivou magií, protoe pochází z ohnivıch plání."
+Efríti jsou obzvláš zuøiví, kdy útoèí na diny.
+Sultáni efrítù jsou od pøírody chránìni ohnivım štítem.
+Velké štìstí jako by nebylo pøítomno, kdy jsou na bojišti ïáblové.
+" Èernı drak je moná silnìjší ne titán, ale ani titán nemùe porazit archandìla sám bez pomoci."
+"Mudrc jednou øekl: ""O svoji moudrost se s nikım nedìl."""
+ Èervená labu plave v jezírku.
+Krev je silnìjší ne voda.
+"Co ïáblíkùm a raráškùm schází na síle, to vynahrazují svım mnostvím."
+Vìø pouze sám sobì.
+Závoj temnoty tì mùe skrıt pøed nepøáteli.
+Najdi Grál - je mnohem mocnìjší, ne si dokáeš pøedstavit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

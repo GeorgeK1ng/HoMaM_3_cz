@@ -1,0 +1,70 @@
+Krajina	Název kampanì 	Scénáø 	Jméno mapy
+"{Jiní pøístav}
+
+Královna Catherine odjela získat vojenskou podporu od krále Gavina Magna z Bracady. Další generálové se prohánìjí po krajinì. Zalo vojenskou základnu, shromádi místní domobranu, zjisti rozsah nighonské okupace a najdi místo, odkud podnikají nájezdy."	Good1	G1a	Map Area 1
+"{Andìlská Brána}
+
+Zprávy od andìlù poblí mìsta Fair Feather si zaslouí naše prošetøení. Jestli jsou ty povìsti pravdivé, pak musíme zajistit bezpeènost tohoto mìsta... a asi pøesvìdèit andìly ke spojenectví."	Good1	G1b	Map Area 2
+"{Skála Gryfù }
+
+Krajina Gryfích útesù - chovné pozemky, z kterıch pochází témìø veškerá populace erathijskıch gryfù, jsou v souèasné dobì pod kontrolou armády sloené z nighonskıch a kreeganskıch vojsk. Pøed nìkolika generacemi byli gryfové klíèem k vybudování Erathie a dnes jsou klíèem k její znovuzískání."	Good1	G1c	Map Area 3
+"{Místo bitvy}
+
+Prvním krokem v našem boji za svobodu Erathie je osvobodit hlavní mìsto Steadwick od nighonské okupace. Není to snadnı úkol, protoe Tyrani z podzemních kobek zablokovali horskı prùsmyk vedoucí do Steadwického údolí."	Good2	G2a	Map Area 1
+"{Zamrzlá zemì }
+
+Do hradu dorazil dopis od lorda Lucifera Kreegana III., nejvyššího velitele Eeofolu, urèenı královnì Catherine. Stojí v nìm, e Kreegan drí ve svém zajetí královnina mue, Rolanda z Enrothu, a pouze jeden milion ve zlatì ho mùe udret naivu."	Good2	G2b	Map Area 2
+"{Bainy a prùsmyk}
+
+Velvyslanec z Bracady pøináší zprávy od svého velitele. Gavin Magnus nabízí pomoc pøi znovuzískání západní Erathie, kterou plení tatalijské a krewlodské armády. Je èas ukázat sousedùm, kde leí jejich hranice."	Good2	G2c	Map Area 3
+"{Obilnice a Ohnivé pobøeí }
+
+Teï u víme, proè se Erathie pustila do boje s Nighonem a Eeofolem. Nepøátelé si doslova provrtali cesty pod zemí pod celou Nighonskou úinou. Podzemní chodby ústí v trpaslièích tunelech podél erathijskıch bøehù. Musíme je teï násilím pøinutit pouít tyto tunely znovu - tentokrát však k útìku, protoe je navdy vyeneme ze zemí Erathie!"	Good2	G2d	Map Area 4
+"{Bainy}
+
+Král Tatalie Tralossk ti nabídl oldáckou smlouvu, která by mu mìla zabezpeèit pro jeho národ jednou provdy nìco víc ne jen zemi plnou moèálù a bain. Chce vyuít roztrení Erathie a rozhodl se, e právì teï je vhodná doba pro rozšíøení tatalijskıch hranic."	Neutral1	N1a	Map Area 1
+"{Dùlní oblast}
+
+Vévoda Winston Boragus, vùdce Krewlodu, ti nabídl oldáckou smlouvu, abys podnikl sérii nájezdù na území Erathie. Jejich cílem bude nashromádìní dostateèného mnoství zlata, které by umonilo armádám Krewlodu zakoupení všeho, co je potøeba pro... jiné vìci."	Neutral1	N1b	Map Area 2
+"{Prùsmyk}
+
+Král Tralossk z Tatalie a vévoda Boragus z Krewlodu poadují tvé sluby. Oba národy si dìlají nárok na poslední kousek území mezi jejich zemìmi. Ironií je, e ta zemì nemá skoro ádnou cenu. Musíš se rozhodnout, do èích slueb se dáš najmout. Volba je jen na tobì."	Neutral1	N1c	Map Area 3
+"{Okraj lesa}
+
+Nìjakı nekromant se pokouší projít jednou z erathijskıch stráních vìí a tvrdí, e ho posílá mrtvı král Gryfí srdce. ádné nebezpeèí mu nehrozí, ale na jeho cestì ho mohou ohrozit nemrtví, kteøí jsou oddaní novému králi. Musíš ho bezpeènì provést posledním úsekem jeho cesty."	Good3	G3a	Map Area 1
+"{Od Smaragdovıch kopcù k Lesíkùm}
+
+Velíš kombinovanım armádám z Erathie, AvLee a Bracady plus nekromantùm, kteøí si sami zvolili boj proti králi Gryfímu srdci. Jejich mnoství je nezanedbatelné, ale to tì nesmí zastavit!"	Good3	G3b	Map Area 2
+"{Mramorová zahrada}
+
+Toto je poslední bitva. Naše pøítomnost ji zahájila obnovu ivota na této zemi, ale musíme znièit tuto poslední pevnost smrti, do které ustoupil král Gryfí srdce. Je èas vrátit mrtvého do jeho hrobu."	Good3	G3c	Map Area 3
+"{Bod Riona}
+
+Ne mìla Erathie pøíleitost povolat z AvLee na pomoc elfy, rozhodli jsme se udeøit na slabinu avleeské moci - královnu zlatıch drakù. Po odstranìní nejsilnìjšího spojence elfù nebudou schopni poskytnout Erathii jakoukoliv pomoc."	Evil1	E1a	Map Area 1
+"{Obilnice}
+
+Naše vojenské jednotky urazí vìtšinu vzdálenosti do erathijského hlavního mìsta skrytì, pøes podzemní tunely. Abys udrel moment pøekvapení, nemusíš útoèit na kadou erathijskou usedlost, na kterou narazíš. Vyuij rozlehlou sí jeskyní v této oblasti, abys úspìšnì dokonèil svùj úkol."	Evil1	E1b	Map Area 2
+"{Místo bitvy}
+
+Zaútoè na hlavní mìsto Erathie, Steadwick. Nebude to snadné, protoe jako hlavní mìsto bude urèitì dobøe bránìno. Aby to bylo ještì horší, vojsko královny Catheriny se dalo do pohybu. Musíš dobıt Steadwick pøed jejím pøíchodem!"	Evil1	E1c	Map Area 3
+"{Mramorová zahrada}
+
+Král Gryfí srdce, kterı nás vyhnal z Erathie, je mrtev. Nighonskı a eeofolskı vpád nám dal dar smrti. Koneènì mùeme postavit naše armády a pøepadnout Erathii sami. Nejdøív však potøebujeme skvìlého vojevùdce. Musíš najít hrobku krále Gryfího srdce."	Evil2	E2a	Map Area 1
+"{Smaragdové kopce}
+
+Našli jsme perfektní oblast podél erathijskıch hranic, ve které mùeme sklízet dostatek kostlivcù pro naše armády bez zbyteènıch šarvátek s erathijskou armádou. Dej dohromady armádu, ale pospìš si - potøebujeme tyto jednotky ihned."	Evil2	E2b	Map Area 2
+"{Odolné vesnice a Lesíky}
+
+Temnı rytíø - samotáø Mot se odmítá úèastnit takové slávy, jakou bude naše invaze do Erathie. Vìøí, e se zbıvajícími bojovníky jeho zemì bude tvoøit zálohu proti pøípadnım protiútokùm z Erathie. Je naèase udìlit mu malou lekci za jeho neposlušnost."	Evil2	E2c	Map Area 3
+"{Pohøebištì }
+
+Nadešel ten správnı èas. Oivenı král Gryfí srdce zvolil tento okamik pro zaèátek útoku. Vojska z druhé strany Deyji vtrhnou do Erathie a rozdrtí ji. Vıchozí bod tvého útoku byl zvolen samotnım králem Gryfím srdcem. Sloil jsi pøísahu, e nezklameš."	Evil2	E2d	Map Area 4
+"{Pole ètyølístkù }
+
+Pøedtím, ne budeme moci vyhlásit naši nezávislost, budeme potøebovat nìjakı symbol. Tím symbolem je Grál, kterı byl v této oblasti pøed mnoha stoletími ztracen. Musíme ho najít, nebo se naše plány rozplynou ještì pøedtím, ne je stihneme uvést do pohybu. Na vyhledání Grálu máme pouhé tøi mìsíce."	Secret1	S1a	Map Area 1
+"{Zalesnìné údolí }
+
+Cesta do Welninu nebyla snadná, ale její poslední úsek bude mnohem obtínìjší. Hranièáø Ryland má u sebe Grál a musí se na své cestì vyhnout vojskùm vìrnım Erathii a AvLee, aby Grál bezpeènì dopravil do Welninu. A tam dorazí, musí ve Welninu postavit svatostánek Grálu."	Secret1	S1b	Map Area 2
+"{Rašeliništì }
+
+Grál je ve Welninu, ale teï musíme z tohoto mìsta vybudovat hlavní mìsto. Armády z Erathie a AvLee nás budou napadat ze všech smìrù. Brzo však budeme moci dokázat, e Porobené zemì jim ji nikdy nebudou patøit!"	Secret1	S1c	Map Area 3

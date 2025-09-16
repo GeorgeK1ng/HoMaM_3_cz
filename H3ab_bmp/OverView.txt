@@ -1,0 +1,26 @@
+Statistiky hrdinù 
+Schopnosti
+Artefakty
+Mìsto
+Hrdina v posádce
+Hrdina na návštìvì 
+"{Ukaž hrdiny}
+
+Ukáže hrdiny, které máš k dispozici."
+"{Ukaž mìsta}
+
+Ukáže mìsta, která ti patøí."
+"{Výzbroj}
+
+Ukáže artefakty, kterými je hrdina momentálnì vybaven."
+"{Kapsa}
+
+Ukáže pøedmìty, které hrdina momentálnì používá, má je v kapse."
+"{Zavazadlo}
+
+Ukáže pøedmìty, které má hrdina momentálnì v zavazadle."
+Ukaž hrdiny
+Ukaž mìsta
+Ukaž výzbroj hrdiny
+Ukaž kapsu hrdiny
+Ukaž zavazadlo hrdiny

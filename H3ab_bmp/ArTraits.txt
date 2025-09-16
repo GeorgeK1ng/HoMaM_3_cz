@@ -1,0 +1,651 @@
+		Hero Slots																				
+Název	Cena	Kniha kouzel	Bojovı stroj 4	Bojovı stroj 3	Bojovı stroj 2	Bojovı stroj 1	Kapsa 5	Kapsa 4	Kapsa 3	Kapsa 2	Kapsa 1	Nohy	Levı prsten	Pravı prsten	Hruï 	Levá ruka	Pravá ruka	Krk	Ramena	Hlava	"Tøída (S,T,N,J,R)"	Popis
+Kniha kouzel	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Kniha kouzel}
+
+Levı klik na knihu kouzel ti ukáe tvá kouzla."
+Kouzelnı svitek	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Kouzelnı svitek}
+
+Na svitku je kouzlo [spell name], které bude pøidáno do tvé magické knihy do té doby, dokud budeš mít svitek ve vıbavì."
+Grál	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Grál}
+
+Dones Grál do mìsta, které si zvolíš, a lid tam postaví fantastickou stavbu, která vlastníkovi mìsta pøinese obrovské vıhody."
+Katapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Katapult}
+
+Tento bojovı stroj se pouívá na nièení nepøátelskıch hradeb pøi dobıvání mìsta."
+Balista	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Balista}
+
+Tento bojovı stroj ti pomáhá v boji nièit nepøátelské bojovníky."
+Vozík se støelivem	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Vozík se støelivem}
+
+Vozík se støelivem zajistí, e tvım støeleckım oddílùm v boji nikdy nedojde støelivo."
+Stan první pomoci	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Stan první pomoci}
+
+Stan první pomoci léèí tvoje bojovníky po kadém kole boje."
+Sekyra kentaura	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Sekyra kentaura}
+
+Pokud meè uchopíš do pravé ruky, zvıší tvou útoènou sílu o +2."
+ Èernı meè mrtvého rytíøe	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{ Èernı meè mrtvého rytíøe}
+
+Pokud ji uchopíš do pravé ruky, zvıší tato zbraò tvou útoènou sílu o +3."
+Cep velkého gnola	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Cep velkého gnola}
+
+Pokud ji uchopíš do pravé ruky, zvıší tato zbraò tvou útoènou sílu o +4."
+Zlobøí kyj pustošení 	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Zlobøí kyj pustošení }
+
+Pokud ji uchopíš do pravé ruky, zvıší tato zbraò tvou útoènou sílu o +5."
+Meè pekelného ohnì 	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Meè pekelného ohnì }
+
+Pokud ji uchopíš do pravé ruky, zvıší tato zbraò tvou útoènou sílu o +6."
+Meè titánù 	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Meè titánù }
+
+S touto impozantní relikvií v pravé ruce zvıšíš svou útoènou sílu o +12, ale tvá obranná síla klesne o -3."
+ Štít trpaslièích lordù 	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{ Štít trpaslièích lordù }
+
+S tímto štítem v levé ruce zvıšíš svou obrannou sílu o +2."
+ Štít šklebící se mrtvoly	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{ Štít šklebící se mrtvoly}
+
+S tímto štítem v levé ruce zvıšíš svou obrannou sílu o +3."
+ Štít krále gnolù 	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{ Štít krále gnolù }
+
+S tímto štítem v levé ruce zvıšíš svou obrannou sílu o +4."
+ Štít zuøivého zlobra	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{ Štít zuøivého zlobra}
+
+S tímto štítem v levé ruce zvıšíš svou obrannou sílu o +5."
+ Štít zatracence	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{ Štít zatracence}
+
+S tímto štítem v levé ruce zvıšíš svou obrannou sílu o +6."
+ Štít stráce	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{ Štít stráce}
+
+S touto impozantní relikvií v levé ruce se tvá obranná síla zvıší o +12, ale útoèná síla se sníí o -3."
+Helma alabastrového jednoroce	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Helma alabastrového jednoroce}
+
+Po nasazení na hlavu zvyšuje znalosti o +1."
+Helmice z lebky	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Helmice z lebky}
+
+Helmice z lebky zvyšuje znalosti o +2."
+Helma chaosu	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Helma chaosu}
+
+Po nasazení na hlavu zvyšuje znalosti o +3."
+Koruna vrchního mága	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Koruna vrchního mága}
+
+Po nasazení na hlavu zvyšuje koruna vrchního mága tvoje znalosti o +4."
+Helmice pekelné bouøe	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Helmice pekelné bouøe}
+
+Po nasazení na hlavu zvyšuje znalosti o +5."
+Hromová helmice	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Hromová helmice}
+
+Tato relikvie po nasazení na hlavu zvıší tvé znalosti o +10, ale síla kouzel poklesne o -2."
+Krunıø ze zkamenìlého døeva	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Krunıø ze zkamenìlého døeva}
+
+Po umístìní na tìlo zvıší sílu kouzel o +1."
+Hrudní koš 	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Hrudní koš }
+
+Po umístìní na tìlo zvıší sílu kouzel o +2."
+ Šupiny obøího baziliška	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{ Šupiny obøího baziliška}
+
+Po umístìní na tìlo zvıší sílu kouzel o +3."
+Tunika krále kyklopù 	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Tunika krále kyklopù }
+
+Po umístìní na tìlo zvıší sílu kouzel o +4."
+Krunıø pekelné síry	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Krunıø pekelné síry}
+
+Po umístìní na tìlo zvıší sílu kouzel o +5."
+Titánùv kyrys	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titánùv kyrys}
+
+Tato impozantní relikvie po umístìní na tìlo zvıší tvoji sílu kouzel o +10, ale znalosti sníí o -2."
+Zázraèné brnìní 	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Zázraèné brnìní }
+
+Po obleèení tohoto brnìní se všechny tvé ètyøi základní schopnosti zvıší o +1."
+Sandály svatého	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandály svatého}
+
+Pokud si obuješ tyto sandály, zvıší se všechny tvé ètyøi základní schopnosti o +2."
+Blankytnı náhrdelník blaenosti	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Blankytnı náhrdelník blaenosti}
+
+Blankytnı náhrdelník blaenosti zvıší všechny tvé ètyøi základní schopnosti o +3."
+Lví štít odvahy	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Lví štít odvahy}
+
+Tento štít zvıší všechny tvé ètyøi základní schopnosti o +4."
+Meè práva	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Meè práva}
+
+Uchopením meèe do pravé ruky zvıšíš všechny své ètyøi základní schopnosti o +5."
+Helma nebeského osvícení 	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helma nebeského osvícení }
+
+Po nasazení na hlavu zvyšuje Helma nebeského osvícení všechny ètyøi základní schopnosti o +6."
+Tiché oko draka	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Tiché oko draka}
+
+Navleè si prsten na prst a zvıšíš svoji obrannou i útoènou sílu o +1."
+Ohnivı jazyk rudého draka	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Ohnivı jazyk rudého draka}
+
+Uchopením meèe do pravé ruky zvıšíš svoji obrannou i útoènou sílu o +2."
+ Štít z draèí kùe	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{ Štít z draèí kùe}
+
+Tento štít zvıší tvou obrannou i útoènou sílu o +3."
+Brnìní z draèí kùe	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Brnìní z draèí kùe}
+
+Po obleèení tohoto brnìní se tvá útoèná i obranná síla zvıší o +4."
+Holenì z draèích kostí 	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Holenì z draèích kostí }
+
+Po umístìní na nohy zvıší znalosti i sílu kouzel o +1."
+Háv z draèích køídel	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Háv z draèích køídel}
+
+Po pøehození pøes ramena zvıší znalosti i sílu kouzel o +2."
+Náhrdelník z draèích zubù 	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Náhrdelník z draèích zubù }
+
+S tímto náhrdelníkem na krku se zvıší tvé znalosti i síla kouzel o +3."
+Koruna z draèích zubù 	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Koruna z draèích zubù }
+
+S korunou na hlavì se zvıší tvoje znalosti a síla kouzel o +4."
+Klidné oko draka	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Klidné oko draka}
+
+S tímto prstenem na prstì vzroste tvoje štìstí a morálka o +1."
+  Ètyølístek 	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{ Ètyølístek}
+
+Tento zelenı ètyølístek zvyšuje tvé štìstí o +1."
+Vìštecké karty	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Vìštecké karty}
+
+Vìštecké karty zvyšují tvoje štìstí o +1."
+Soška ptáka	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Soška ptáka}
+
+Soška ptáka zvyšuje tvoje štìstí o +1."
+Medaile za stateènost	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Medaile za stateènost}
+
+Medaile za stateènost zvyšuje morálku o +1."
+Erb udatnosti	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Erb udatnosti}
+
+Erb udatnosti zvyšuje morálku o +1."
+Znamení chrabrosti	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Znamení chrabrosti}
+
+Znamení chrabrosti zvyšuje morálku o +1."
+Kukátko	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Kukátko}
+
+Kukátko zvyšuje polomìr viditelnosti o +1."
+Dalekohled	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Dalekohled}
+
+Dalekohled zvyšuje polomìr viditelnosti o +1."
+Amulet hrobníka	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulet hrobníka}
+
+Po umístìní amuletu na krk se zvıší tvá druhotná schopnost nekromancie o 5%."
+Upíøí kutna	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Upíøí kutna}
+
+S touto kutnou pøes ramena vzroste tvá druhotná schopnost nekromancie o 10%."
+Boty mrtvého mue	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Boty mrtvého mue}
+
+Pokud si nasadíš na nohy tyto boty, zvıší se tvá druhotná schopnost nekromancie o 15%."
+Ozdoba odolnosti	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Ozdoba odolnosti}
+
+S touto ozdobou na krku vzroste tvá druhotná schopnost odolnost o 5%."
+Kabát odolnosti	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Kabát odolnosti}
+
+S tímto kabátem pøes ramena se zvıší tvá druhotná schopnost odolnost o 10%."
+Boty odolnosti	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Boty odolnosti}
+
+Po obutí tìchto bot se zvıší tvá druhotná schopnost odolnost o 15%."
+Luk z elfí tøešnì 	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Luk z elfí tøešnì }
+
+Tento luk zvıší tvoji druhotnou schopnost støelec o 5%."
+Tìtiva z høívy jednoroce	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Tìtiva z høívy jednoroce}
+
+Tato tìtiva zvıší tvoji druhotnou schopnost støelec o 10%."
+ Šípy z pírek køídel andìlù 	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{ Šípy z pírek køídel andìlù }
+
+Tyto šípy zvıší tvoji druhotnou schopnost støelec o 15%."
+Pták vnímání 	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Pták vnímání }
+
+Tato soška ptáka zvıší tvoji druhotnou schopnost orlí oko o 5%."
+Nehybnı pozorovatel	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Nehybnı pozorovatel}
+
+Tato soška zvıší tvoji druhotnou schopnost orlí oko o 10%."
+Emblém poznání 	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Emblém poznání }
+
+Emblém zvıší tvoji druhotnou schopnost orlí oko o 15%."
+Medaile státníka	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Medaile státníka}
+
+S touto medailí na krku zaplatíš pøi kapitulaci mnohem menší cenu."
+Prsten diplomata	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Prsten diplomata}
+
+Pokud máš pøi kapitulaci na prstì Prsten diplomata, zaplatíš nepøíteli mnohem menší vıkupné."
+ Šerpa velvyslance	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{ Šerpa velvyslance}
+
+S touto šerpou kolem ramen zaplatíš pøi kapitulaci mnohem menší vıkupné."
+Prsten poutníka	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Prsten poutníka}
+
+S tímto prstenem na prstì budou mít všechny tvé oddíly v boji vìtší rychlost o +1."
+Jezdecké rukavice	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Jezdecké rukavice}
+
+Rukavice zrychlí tvùj pohyb po zemi."
+Náhrdelník námoøní navigace	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Náhrdelník námoøní navigace}
+
+S náhrdelníkem na krku se zrychlí pohyb hrdiny tvé armády po moøi."
+Andìlská køídla	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Andìlská køídla}
+
+Andìlská køídla ti umoní létat."
+Amulet many	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Amulet many}
+
+Amulet ti obnoví 1 bod magické energie dennì navíc."
+Talisman many	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Talisman many}
+
+Talisman ti obnoví 2 body magické energie dennì navíc."
+Mystická koule many	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystická koule many}
+
+Koule ti obnoví 3 body magické energie dennì navíc."
+Obojek zaklínání 	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Obojek zaklínání }
+
+Po umístìní na krk prodluuje trvání všech tvıch kouzel o 1 kolo."
+Prsten zaklínání 	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Prsten zaklínání }
+
+Tento prsten po nasazení na prst prodluuje trvání všech tvıch kouzel o 2 kola."
+Kápì zaklínání 	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Kápì zaklínání }
+
+Prodluuje trvání všech tvıch kouzel o 3 kola."
+Koule nebeské klenby	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Koule nebeské klenby}
+
+Tato mocná koule zpùsobuje, e tvá kouzla vzdušné magie napáchají o 50% vìtší škody."
+Koule naplaveného bahna	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Koule naplaveného bahna}
+
+Tato mocná koule zpùsobuje, e tvá kouzla zemní magie napáchají o 50% vìtší škody."
+Koule divokého ohnì 	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Koule divokého ohnì }
+
+Tato mocná koule zpùsobuje, e tvá kouzla ohnivé magie napáchají o 50% vìtší škody."
+Koule prudkého deštì 	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Koule prudkého deštì }
+
+Tato mocná koule zpùsobuje, e tvá kouzla vodní magie napáchají o 50% vìtší škody."
+Pláš odvolání 	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Pláš odvolání }
+
+Pokud si obleèeš tento pláš, ani ty, ani tvùj protivník nemùete bìhem boje seslat kouzlo 3. a vyššího stupnì."
+Duch sklíèenosti	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Duch sklíèenosti}
+
+Pøi boji ruší tobì i nepøíteli všechny bonusy za morálku."
+Pøesıpací hodiny zlé chvíle	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Pøesıpací hodiny zlé chvíle}
+
+Pøi boji ruší tobì i nepøíteli všechny bonusy za štìstí."
+Kniha ohnivé magie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Kniha ohnivé magie}
+
+Tato mocná kniha obsahuje všechna kouzla školy ohnivé magie. Aby byla kouzla pøístupná, knihu musíš mít v nìkteré kapse, ne v zavazadle."
+Kniha vzdušné magie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Kniha vzdušné magie}
+
+Tato mocná kniha obsahuje všechna kouzla školy vzdušné magie. Aby byla kouzla pøístupná, knihu musíš mít v nìkteré kapse, ne v zavazadle."
+Kniha vodní magie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Kniha vodní magie}
+
+Tato mocná kniha obsahuje všechna kouzla školy vodní magie. Aby byla kouzla pøístupná, knihu musíš mít v nìkteré kapse, ne v zavazadle."
+Kniha zemské magie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Kniha zemské magie}
+
+Tato mocná kniha obsahuje všechna kouzla školy zemské magie. Aby byla kouzla pøístupná, knihu musíš mít v nìkteré kapse, ne v zavazadle."
+Boty levitace	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Boty levitace}
+
+Tyto boty ti umoní zdolávat menší vodní plochy."
+Zlatı luk	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Zlatı luk}
+
+Zlatı luk umoní tvım støeleckım oddílùm støílet pøes jakékoliv pøekáky nebo na jakoukoliv vzdálenost bez postihu."
+Sféra nemìnnosti	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sféra nemìnnosti}
+
+Tví bojovníci jsou imunní vùèi zaklínadlu Zrušit kouzla."
+Koule zranitelnosti	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Koule zranitelnosti}
+
+Tato koule ruší bìhem boje všem jednotkám na bojišti jejich pøirozenou magickou odolnost."
+Prsten vitality	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Prsten vitality}
+
+Zvyšuje všem bojovníkùm energii o +1."
+Prsten zdraví 	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Prsten zdraví }
+
+Zvyšuje všem bojovníkùm energii o +1."
+Ampulka krve	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Ampulka krve}
+
+Zvyšuje všem bojovníkùm energii o +2."
+Náhrdelník hbitosti	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Náhrdelník hbitosti}
+
+Pokud máš tento náhrdelník na krku, všechny tvé oddíly budou mít v boji o 1 vìtší rychlost."
+Boty rychlosti	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Boty rychlosti}
+
+S tìmito botami se zvıší pohyb hrdiny po zemi."
+Kápì rychlosti	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Kápì rychlosti}
+
+Zvyšuje rychlost všech tvıch oddílù v boji o +2."
+Pøívìsek uklidnìní 	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pøívìsek uklidnìní }
+
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu berserk."
+Pøívìsek druhého zraku	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pøívìsek druhého zraku}
+
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu slepota."
+Pøívìsek svatosti	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pøívìsek svatosti}
+
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu prokletí."
+Pøívìsek zdraví 	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pøívìsek zdraví }
+
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu vlna smrti."
+Pøívìsek smrti	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pøívìsek smrti}
+
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu zniè nemrtvé."
+Pøívìsek svobodné vùle	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pøívìsek svobodné vùle}
+
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu hypnóza."
+Pøívìsek negativity	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pøívìsek negativity}
+
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlùm blesk a kulovı blesk."
+Pøívìsek obnovení pamìti	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pøívìsek obnovení pamìti}
+
+Tento pøívìsek èiní tvé støelecké oddíly imunní vùèi kouzlu zapomnìtlivost."
+Pøívìsek odvahy	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pøívìsek odvahy}
+
+Dává hrdinovım oddílùm +3 do morálky a štìstí."
+Pláš tekutıch krystalù 	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Pláš tekutıch krystalù }
+
+Pokud ho nosíš, zvyšuje tvoji produkci krystalù o +1 za den."
+Nevyèerpatelnı prsten drahokamù 	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Nevyèerpatelnı prsten drahokamù }
+
+Pokud ho nosíš, zvyšuje tvoji produkci drahokamù o +1 za den."
+Nevyèerpatelná ampule rtuti	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Nevyèerpatelná ampule rtuti}
+
+Pokud ji nosíš, zvyšuje tvoji produkci rtuti o +1 za den."
+Nevyèerpatelnı vùz kamene	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Nevyèerpatelnı vùz kamene}
+
+Pokud ho nosíš, zvyšuje tvoji produkci kamení o +1 za den."
+Vìènì èadící prsten síry	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Vìènì èadící prsten síry}
+
+Pokud ho nosíš, zvyšuje tvoji produkci síry o +1 za den."
+Nevyèerpatelnı vùz døeva	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Nevyèerpatelnı vùz døeva}
+
+Pokud ho nosíš, zvyšuje tvoji produkci døeva o +1 za den."
+Bezednı pytel zlata	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Bezednı pytel zlata}
+
+Pokud ho nosíš, zvyšuje tvùj pøíjem o 1000 zlaákù dennì."
+Bezednı pytlík zlata	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Bezednı pytlík zlata}
+
+Pokud ho nosíš, zvyšuje tvùj pøíjem o 750 zlaákù dennì."
+Bezednı mìšec zlata	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Bezednı mìšec zlata}
+
+Pokud ho nosíš, zvyšuje tvùj pøíjem o 500 zlaákù dennì."
+Nohy legionáøe	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Nohy legionáøe}
+
+Pokud má tento artefakt ve vızbroji hrdina ve mìstì, zvıší se nárùst tvıch bojovníkù 2. stupnì (v daném mìstì) o 5 bojovníkù za tıden."
+Slabiny legionáøe	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Slabiny legionáøe}
+
+Pokud má tento artefakt ve vızbroji hrdina ve mìstì, zvıší se nárùst tvıch bojovníkù 3. stupnì (v daném mìstì) o 4 bojovníky za tıden."
+Torzo legionáøe	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torzo legionáøe}
+
+Pokud má tento artefakt ve vızbroji hrdina ve mìstì, zvıší se nárùst tvıch bojovníkù 4. stupnì (v daném mìstì) o 3 bojovníky za tıden."
+Pae legionáøe	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Pae legionáøe}
+
+Pokud má tento artefakt ve vızbroji hrdina ve mìstì, zvıší se nárùst tvıch bojovníkù 5. stupnì (v daném mìstì) o 2 bojovníky za tıden."
+Hlava legionáøe	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Hlava legionáøe}
+
+Pokud má tento artefakt ve vızbroji hrdina ve mìstì, zvıší se nárùst tvıch bojovníkù 6. stupnì (v daném mìstì) o 1 bojovníka za tıden."
+Pøilba námoøního kapitána	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Pøilba námoøního kapitána}
+
+Pokud ji máš nasazenou, zvıší se pohyb hrdiny po moøi, hrdina mùe pøivolávat a nièit lodì a mùe cestovat vodními víry bez nebezpeèí ztráty bojovníkù."
+  Èarodìjùv klobouk	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{ Èarodìjùv klobouk}
+
+Pokud si ho nasadíš, hrdina mùe sesílat kouzla 5. stupnì."
+Pouta války	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Pouta války}
+
+Pokud máš nasazena tato pouta, ani ty, ani protivník nemùete z boje utéci nebo se vzdát."
+Blokující koule	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Blokující koule}
+
+Pouití této koule zabraòuje sesílat v boji jakákoliv kouzla."
+Ampulka draèí krve	20000						x	x	x	x	x										R	"{Ampulka draèí krve}
+
+Všem drakùm ve tvé armádì vzroste útok i obrana o +5."
+Meè zkázy	50000																x				R	"{Meè zkázy}
+
+Zvyšuje hrdinovi útok o + 3, obranu o + 3, znalosti o + 6, sílu kouzel o + 3. Do hrdinovy knihy kouzel pøidá kouzlo armageddon a všichni bojovníci hrdiny získají proti tomuto kouzlu imunitu."
+Andìlská aliance																	x				R	"{Andìlská aliance}
+
+Dovoluje kombinovat armádu z jednotek hradù typu Hrad, Bašta, Vì, Pevnost a Tvrz bez ztráty morálky. Na zaèátku boje dostávají pak všechny oddíly kouzlo modlitba na expertní úrovni."
+Pláš nemrtvého krále																			x		R	"{Pláš nemrtvého krále}
+
+Oivuje 30% padlıch nepøátelskıch bojovníkù jako kostlivce. Pokud má hrdina druhotnou schopnost nekromancie, pak se procenta pøidávají k u dosaené úrovni. Úroveò schopnosti nekromancie urèuje, jakı typ bojovníkù bude oiven. Základní: Zombie
+Lepší: Duchové 
+Expertní:  Lichové "
+Elixír ivota							x	x	x	x	x										R	"{Elixír ivota}
+
+Zvıší energii všech jednotek o 25% a jednotky také získají schopnost regenerace. Neplatí na nemrtvé a neivé bojovníky."
+Zbroj zatracence															x						R	"{Zbroj zatracence}
+
+Na zaèátku souboje sešle na protivníka kouzla zpomalení, rušící paprsek, prokletí, slabost a smùlu - a to na 50 kol."
+Socha legií 							x	x	x	x	x										R	"{Socha legií }
+
+Zvıší nárùst bojovníkù ve všech líhních o 50% (ve všech hráèovıch mìstech) nezávisle na umístìní hrdiny."
+Síla draèího otce															x						R	"{Síla draèího otce}
+
+Dá hrdinovi + 6 do všech základních schopností a hrdinovy jednotky budou imunní vùèi kouzlùm 1.-4. stupnì."
+Titánùv blesk																	x				R	"{Titánùv blesk}
+
+Pøidá hrdinovi do magické knihy kouzlo titánùv blesk. Blesk dává 600 škod a nestojí ádné body magické energie."
+Admirálùv klobouk																				x	R	"{Admirálùv klobouk}
+
+Hrdina neztratí pohyb pøi nastupování nebo vystupování z lodi."
+Luk ostrostøelce							x	x	x	x	x						 				R	"{Luk ostrostøelce}
+
+Støelecké jednotky mohou støílet, i kdy jsou blokovány nepøátelskou jednotkou. Jednotky støílejí bez postihu i na velkou dálku a pøes pøekáky. Pøi støelbì pùsobí maximální poškození."
+Studna kouzelníka							x	x	x	x	x										R	"{Studna kouzelníka}
+
+Obnovuje dennì veškerou magickou energii."
+Prsten mága													x	x							R	"{Prsten mága}
+
+Prodluuje trvání kouzel o 50 kol."
+Roh hojnosti							x	x	x	x	x										R	"{Roh hojnosti}
+
+Pøidává dennì 4 kusy od kadé vzácné suroviny."
+Diplomat's Suit																			x		R	"{Diplomat's Suit}
+
+Zrušeno."
+Mired in Neutrality															x						R	"{Mired in Neutrality}
+
+Zrušeno."
+Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+
+Zrušeno."
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						

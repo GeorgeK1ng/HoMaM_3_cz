@@ -1,0 +1,209 @@
+Campaign Choice Button Right Click
+"{Stan první pomoci}
+
+Tvùj poèáteèní hrdina bude zaèínat se stanem první pomoci."
+"{Kopiníci}
+
+Tvùj poèáteèní hrdina bude zaèínat se 14 bonusovımi kopiníky."
+"{Vzácné suroviny}
+
+Ve tvé pokladnici bude navíc 5 ks rtuti, síry, krystalù a drahokamù."
+"{Andìl}
+
+Tvùj poèáteèní hrdina bude zaèínat s 1 andìlem."
+"{Fanatici}
+
+Tvùj poèáteèní hrdina bude zaèínat se 3 fanatiky."
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem modlitba."
+"{Zlatı luk}
+
+Zlatı luk umoòuje všem støeleckım oddílùm hrdiny støílet bez postihu po celém bojišti."
+"{Lví štít odvahy}
+
+Lví štít odvahy zvyšuje všechny 4 základní schopnosti hrdiny o 4 body."
+"{Bezednı pytel zlata}
+
+Bezednı pytel zlata zvyšuje pøíjem království o 1000 zlaákù dennì."
+"{Zlato}
+
+Start s 10000 zlatıch navíc."
+"{Archandìlé }
+
+Start se 2 archandìly.
+(budou umístìni v posádce)"
+"{Titáni}
+
+Start se 2 titány.
+(budou umístìni v posádce)"
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem ochrana pøed kouzly ohnì."
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem ledovı šíp."
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem pøesnost."
+"{Expert logistiky}
+
+Tvùj poèáteèní hrdina bude zaèínat se schopností expert logistiky."
+"{ Štít trpaslièích lordù }
+
+ Štít trpaslièích lordù zvyšuje obrannou sílu o 2 body."
+"{Sekyra kentaura}
+
+Sekyra kentaura zvyšuje útoènou sílu o 2 body."
+"{Expert navigace}
+
+Tvùj poèáteèní hrdina bude zaèínat se schopností expert navigace."
+"{Vìe kouzel 1. stupnì }
+
+Ve tvıch tøech startovních mìstech budeš mít postavené vìe kouzel 1. stupnì."
+"{Vì kouzel 3. stupnì }
+
+Tvé hlavní mìsto bude mít postavenu vì kouzel 3. stupnì."
+"{Boty rychlosti}
+
+Boty rychlosti zvyšují rychlost pohybu hrdiny po zemi."
+"{Základní logistika}
+
+Tvùj poèáteèní hrdina bude zaèínat se schopností základní logistiky."
+"{Zlato}
+
+Start s 2500 zlaáky navíc."
+"{Královští gryfové}
+
+Start s 35 královskımi gryfy.
+(budou umístìni v posádce
+"{ elezní golemové }
+
+Start s 35 eleznımi golemy.
+(budou umístìni v posádce)"
+"{Velcí elfové }
+
+Start s 35 velkımi elfy.
+(budou umístìní v posádce)"
+"{Helma nebeského osvícení }
+
+Helma nebeského osvíceni zvyšuje všechny 4 základní schopnosti hrdiny o 6 bodù."
+"{Kniha zemské magie}
+
+Tato tìká kniha obsahuje všechna kouzla školy zemské magie."
+"{ Èarodìjùv klobouk}
+
+Klobouk umoòuje hrdinovi sesílat všechna kouzla 5. stupnì."
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem zabiják."
+"{Zázraèné brnìní }
+
+Zázraèné brnìní zvyšuje všechny 4 základní schopnosti hrdiny o 1 bod."
+"{ Ïáblíci}
+
+Tvùj poèáteèní hrdina bude zaèínat se 100 bonusovıch ïáblíkù."
+"{Pilíø oèí }
+
+Tvé poèáteèní mìsto bude mít postavenu stavbu pilíø oèí.
+(obydlí pozorovatelù)"
+"{Vì kouzel 1. stupnì }
+
+Tvé poèáteèní mìsto bude mít postavenu vì kouzel 1. stupnì."
+"{Bojová akademie}
+
+Tvoje poèáteèní mìsto bude mít postavenou stavbu bojová akademie.
+(1x pøidá 1000 bodù zkušeností kadému hrdinovi, kterı navštíví hrad)"
+"{Hrdinové z Eeofolu}
+
+Start s vycvièenımi hrdiny ze scénáøe 'Ïábelskı plán'."
+"{Hrdinové z Nighonu}
+
+Start s vycvièenımi hrdiny ze scénáøe 'Roztrení zemì'."
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem vlna smrti."
+"{ Èernı rytíø }
+
+Tvùj poèáteèní hrdina bude zaèínat s 1 èernım rytíøem."
+"{Mìniè na kostlivce}
+
+Tvoje poèáteèní mìsto bude mít postavenu stavbu mìniè na kostlivce.
+(dovolí pøetransformovat libovolné bojovníky na kostlivce)"
+"{Upíøí kutna}
+
+Upíøí kutna zvyšuje hrdinovu schopnost nekromancie o 10%."
+"{Zesilovaè nekromancie}
+
+Tvé poèáteèní mìsto bude mít postavenu stavbu zesilovaè nekromancie.
+(zvyšuje schopnost nekromancie všech hrdinù hráèe, kteøí ji ovládají, o 10%)"
+"{Vykopané hroby}
+
+Tvé poèáteèní mìsto bude mít postavenu stavbu vykopané hroby.
+(zvyšují pøírùstek kostlivcù o 6 bojovníkù tıdnì)"
+"{Pøívìsek smrti}
+
+Pøívìsek smrti propùjèuje všem tvım bojovníkùm imunitu vùèi kouzlu zniè nemrtvé."
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem ochrana pøed kouzly zemì."
+"{Zombie}
+
+Tvùj poèáteèní hrdina bude zaèínat s 25 zombiemi."
+"{Kouzelnı svitek}
+
+Tvùj poèáteèní hrdina dostane svitek s kouzlem vlna smrti."
+"{Boty mrtvého mue}
+
+Boty mrtvého mue zvyšují u hrdiny schopnost nekromancie o 15%."
+"{Pøízraèní draci}
+
+Tvùj poèáteèní hrdina bude zaèínat se 3 pøízraènımi draky."
+[substitute hero right-click info here]
+[substitute hero right-click info here]
+"{Hrdinové z pevnosti}
+
+Start s náhodnım hrdinou z pevnosti.
+(pán šelem nebo èarodìjnice)"
+"{Hromoví ptáci}
+
+Tvùj poèáteèní hrdina bude zaèínat se 3 hromovımi ptáky."
+"{Králové kyklopù }
+
+Tvùj poèáteèní hrdina bude zaèínat se 2 králi kyklopù."
+"{Starovìkı behemot}
+
+Tvùj poèáteèní hrdina bude zaèínat s 1 starovìkım behemotem."
+"{Vıbìr Tatalie}
+
+Vyber si boj za Tatalii s vyuitím hrdinù ze scénáøe 'Hranice'."
+"{Vıbìr Krewlodu}
+
+Vyber si boj za Krewlod s vyuitím hrdinù ze scénáøe 'Honba za zlatem'."
+"{Boty rychlosti}
+
+Boty rychlosti zvyšují rychlost pohybu hrdiny po zemi."
+"{Zlato}
+
+Start s 5000 zlaáky navíc."
+"{Pegasové}
+
+Tvùj poèáteèní hrdina bude zaèínat se 4 pegasy."
+"{Vì kouzel 3. stupnì }
+
+Tvé poèáteèní mìsto bude mít postavenu vì kouzel 3. stupnì."
+"{Zlato}
+
+Start s 5000 zlaáky navíc."
+"{Stromoví vojáci}
+
+Tvùj poèáteèní hrdina bude zaèínat se 3 stromovımi vojáky."
+"{Stromoví vojáci}
+
+Tvùj poèáteèní hrdina bude zaèínat se 3 stromovımi vojáky."
+"{Stromoví stráci}
+
+Tvùj poèáteèní hrdina bude zaèínat se 6 stromovımi stráci."
+"{Døevo}
+
+Start s 12 ks bonusového døeva."

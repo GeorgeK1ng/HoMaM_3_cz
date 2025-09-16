@@ -1,0 +1,24 @@
+"Note: Do not change the headings in this file, they are used to detect problems"	
+Stavový øádek	Pracovní tipy
+"Pro nápovìdu stiskni F1"	
+Vytvoøí novou kampaò	Nová kampaò
+Otevøe už existující kampaò	Otevøít kampaò
+Uloží aktuální kampaò	Uložit kampaò
+Uloží aktuální kampaò pod novým jménem	Uložit kampaò jako
+"Ukáže informace o programu, verzi a copyrightu"	O
+Ukonèí editor kampanì	Konec
+Zobrazí témata nápovìdy	Témata nápovìdy
+Ukáže nápovìdu pro aktuální úkol nebo pøíkaz	Nápovìda
+Otevøe tuto kampaò	
+Zmìní velikost okna	
+Zmìní pozice okna	
+Zmenší okno do ikony	
+Zvìtší okno do plné velikosti	
+Zavøe okno	
+Obnoví okno do normální velikosti	
+Aktualizuje všechny scénáøe v aktuální kampani	
+Vytáhne všechny scénáøe z aktuální kampanì	
+Úprava vlastností kampanì	Vlastnosti kampanì
+Úprava vlastností scénáøe	Vlastnosti scénáøe
+Uloží text z aktuální kampanì do textového souboru	
+Vloží text z textového souboru do aktuální kampanì	

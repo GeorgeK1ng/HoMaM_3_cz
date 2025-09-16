@@ -1,0 +1,10 @@
+Nelze vybudovat více než jedno hlavní mìsto
+Toto mìsto není poblíž vody.
+V tomto mìstì nemùžeš tuto stavbu postavit
+Pøidat další stupeò do vìže kouzel
+%s je už postavena 
+Nelze vybudovat %s
+Nemáš na vybudování %s
+Vybudovat %s
+Opustit radnici
+Nabídka radnice

@@ -1,0 +1,98 @@
+	Chata vìštce varianta 1	Chata vìštce varianta 2	Chata vìštce varianta 3	Stráce úkolu varianta 1	Stráce úkolu varianta 2	Stráce úkolu varianta 3
+Prázdná chata text	"Tady by mìl bydlet vìštec %s, ale zdá se, e nedávno svùj domov opustil."	"Místní lidé øíkají, e zde bydlel vìštec %s, ale je jasné, e u tam nikdo nebydlí."	"Jsi naprosto pøesvìdèen, e zde bydlel vìštec %s, ale zdá se, e nedávno svùj domov opustil."	 Èas vypršel. Tudy u nikdy neprojdeš.	 Èas vypršel. Tudy u nikdy neprojdeš.	 Èas vypršel. Tudy u nikdy neprojdeš.
+Uroveò zkušeností zadání 	"Jsem starı a moudrı. Do svého domu nevpouštím jen tak nìkoho. Dovnitø smíš vstoupit, jen pokud dosáhneš %d. úrovnì."	Odmìna, kterou zde mám, je pouze pro nìkoho, kdo si ji opravdu zaslouí. Pokud ji chceš získat, musíš dosáhnout %d. úrovnì.	"Jsem u starı a mé dny jsou seèteny. Ne umøu, chtìl bych odkázat své bohatství nìkomu, kdo si ho opravdu zaslouí. Dosáhni %d. úrovnì a mùeš to bıt zrovna ty."	"Krajina za mnou je velmi nebezpeèná. Pochybuji, e bys v ní pøeil. Pustím tì však dál, pokud své zkušenosti zvıšíš alespoò na %d. úroveò."	"Lituji, ale tohle je cech, do kterého mohou vstoupit pouze zkušení hrdinové. Pokud se chceš stát jedním z èlenù cechu, musíš postoupit na %d. úroveò. Pak budeš moci vstoupit."	Máme problém s naším králem. Nemá rád, kdy se v jeho krajinì potulují nevyzrálí hrdinové. Pokud se chceš dostat dál, musíš postoupit na %d. úroveò.  
+Uroveò zkušeností pokraèování 	"Fuj! Opìt ty? Vra se, a dosáhneš %d. úrovnì, jak jsem ti to u øíkal."	"Nikdy se ti nepovede nedosáhnout %d. úrovnì, pokud tu budeš poøád okounìt!"	Jsi uboák. Jenom ten, kdo dosáhne %d. úrovnì, bude hoden odmìny.	Místní strá nepustí dál nikoho, kdo není alespoò na %d. úrovni.	Neexistuje jiná cesta, jak tudy projít. Pokud nedosáhneš %d. úrovnì, nemùeš se stát èlenem našeho cechu a dál se nedostaneš.	Dokud nedosáhneš %d. úrovnì, nemùeme tì pustit na území našeho království.
+Zkušenosti úkol splnìn	"Myslím, e jsem ti nìco slíbil. Pokud se nepletu, mìl jsi dosáhnout %d. úrovnì. Tak pojï, vstup dovnitø. Mám tady odmìnu za tvoji snahu. Pøijímáš?"	"Ach, take jsi dosáhl %d. úrovnì. Chtìl bys pøijmout odmìnu?"	"Koneènì se našel nìkdo, komu mohu ve své závìti odkázat své bohatství. Teï, kdy jsi dosáhl %d. úrovnì, pøeješ si zdìdit mé bohatství?"	Strá bere na vìdomí, e jsi dosáhl %d. úrovnì. Pøeješ si nyní projít?	Teï, kdy jsi postoupil na %d. úroveò, mùeš se stát èlenem našeho cechu. Zaslouíš si to. Pøeješ si teï tudy projít?	Vıteènì! Teï, kdy si dosáhl %d. úrovnì, mùeš vstoupit na území našeho království. Pøeješ si nyní projít?
+Seznam úkolù zkušeností 	(dosáhnout %d. úrovnì)	(dosáhnout %d. úrovnì)	(dosáhnout %d. úrovnì)	(dosáhnout %d. úrovnì)	(dosáhnout %d. úrovnì)	(dosáhnout %d. úrovnì)
+Ukol zkušenosti log	Dosáhni %s. úrovnì a navštiv %s.	Dosáhni %s. úrovnì a navštiv %s.	Dosáhni %s. úroveò a navštiv %s.	Dosáhni %s. úrovnì pro otevøení brány.	Dosáhni %s. úrovnì pro otevøení brány.	Dosáhni %s. úrovnì pro otevøení brány.
+Uroveò schopností zadání 	Jsem ivotopiscem velkıch hrdinù. Rád bych poznal hrdinu, kterı dosáhl %s. Za jeho pøíbìh bych se mu dobøe odmìnil.	Pro toho, kdo dosáhne %s, mám velkou odmìnu. A se ti to povede, vra se ke mnì a uvidím, co pro tebe mohu udìlat.	"Nebudu se bavit s nìkım, kdo je slabší ne já. Pokud bys získal %s, pak bys byl lepší ne já a byl bys hoden mé pozornosti."	Strání stanovištì je obsazeno posádkou z vyslouilıch rytíøù. Nedovolí projít nikomu, kdo není schopen dokázat, e dosáhl %s.	Jenom hrdina, kterı má %s, smí projít dál. Máme pro to zvláštní dùvody.	Ve vìi pøebıvá krásná dívka, která dovolí projít pouze tìm, kteøí na ni udìlají dojem. Abys to dokázal, musíš mít %s. Jinak se dál nedostaneš.
+Uroveò schopností pokraèování 	Našel jsi u vıznamného hrdinu, s kterım bych mohl udìlat rozhovor? Musí mít %s.	"Lituji, ale ještì se ti nepovedlo dosáhnout %s a zatím ti nemohu nijak pomoci."	Nejsi ještì hoden, abych se s tebou vùbec bavil. Pouze kdy získáš %s, budeš lepší ne já.	"Rytíøi ve vıslubì tì podrobili sérii testù, v kterıch jsi dopadl velice bídnì. Je jasné, e ještì nemáš %s."	"Vidíme, e ještì nemáš %s. Jdi pryè."	"Dívka se ti vysmála, protoe ještì nemáš %s a svımi schopnostmi jsi na ni vùbec nezapùsobil."
+Schopnosti úkol splnìn	Vdy jsem chtìl potkat nìkoho tak slavného, jako jsi ty. Dovolíš mi napsat tvùj ivotní pøíbìh?	"Vidím, e jsi získal %s, jak jsem chtìl. Jsi pøipraven pøijmout odmìnu, kterou ti nabízím?"	"Je pro mne velkou ctí potkat nìkoho, kdo je lepší ne já. Teï, kdy jsi získal %s, pøijmeš moji odmìnu?"	"Rytíøi ve vıslubì tì podrobili sérii testù, které jsi hravì zvládl. Tím jsi dokázal, e u máš %s. Pøeješ si nyní projít?"	Vidíme, e máš %s, jak jsme poadovali. Pøeješ si nyní projít?	Kdy jsi dosáhl %s, udìlal jsi na dívku velkı dojem a rozhodla se pustit tì dál. Pøeješ si nyní projít?
+Seznam úkolù schopností 	( vyaduje %s )	( vyaduje %s )	( vyaduje %s )	( vyaduje %s )	( vyaduje %s )	( vyaduje %s )
+Ukol schopností log	Nauè se %s a navštiv %s.	Nauè se %s a navštiv %s.	Nauè se %s a navštiv %s.	Nauè se %s, abys otevøel bránu.	Nauè se %s, abys otevøel bránu.	Nauè se %s, abys otevøel bránu.
+Poraz hrdinu zadání 	"Kdysi jsem byl slavnı a bohatı, ale všechno je pryè. Za to mùe %s. Ztratil jsem zemi, titul i rodinu. Prosím tì, pomsti se za mì."	"Kdysi dávno jsem byl zamilovanı do krásné dívky, ale tu zabil %s. Prosím, zniè toho hanebného zloèince, abych zbytek ivota doil s vìdomím, e moje láska byla pomstìna."	Zloduch %s nás vyhnal z našeho domova. Pokud ho znièíš, aby u nikoho nemohl trápit, bohatì se ti odmìníme.	Tato strá chrání zemì za sebou pøed nájezdy zloèince jménem %s. Nikdo nesmí dál, dokud hrozba nepomine.	"Hlídka je tu proto, aby se na území za ni nedostal %s, mocnı a zlı hrdina, kterı ohrouje místní lidi. Dokud nebude poraen, nikdo se dál nedostane."	"Naše královna je uraena, protoe ji %s nazval tlustou babiznou. Dokud nebude potrestán, nikdo tudy neprojde."
+Poraz hrdinu pokraèování 	"Pøál bych si slyšet lepší zprávu. Bolí mì srdce, e mùj nepøítel %s je ještì stále naivu."	"Vrah mého miláèka, %s, je poøád ještì na svobodì."	Ten padouch %s je ještì na svobodì a poøád nás mùe ohrozit. Dokud nebude potrestán, toto místo neopustíme.	"Strá má poøád strach z %s, take nechce bránu otevøít."	Ten nièema %s je ještì stále na svobodì. Zatím nemùeš projít.	Uráka naší královny ještì nebyla potrestána a %s je stále na svobodì.  
+Hrdina poraen	"U jsem nedoufal, e se doiji tohoto dne!  %s koneènì není mezi ivımi. Pøijmeš prosím tuto odmìnu?"	"Teï, kdy %s dostal, co si zaslouil, je moje láska pomstìna. Mohu tì za tuto dobrou zprávu odmìnit?"	"Teï, kdy byl %s znièen, mùeme se koneènì vrátit do našich domovù. Pøijmeš tuto odmìnu, jako projev naší vdìènosti?"	"Tak u jsme slyšeli, e %s neije, take hrozba pominula. Pøeješ si nyní projít?"	Kdy byl %s poraen, našim lidem ji nic nehrozí a my mùeme opustit toto stanovištì. Pøeješ si nyní projít?	%s dostal poøádnou lekci a naše královna je spokojena. Teï u bude prùchod volnı. Pøeješ si nyní projít?
+Seznam porazit hrdinu	(poraz %s)	(poraz %s)	(poraz %s)	(poraz %s)	(poraz %s)	(poraz %s)
+Ukol porazit hrdinu log	Poraz %s pro %s	Poraz %s pro %s	Poraz %s pro %s	Poraz %s pro otevøení brány	Poraz %s pro otevøení brány	Poraz %s pro otevøení brány
+Poraz bojovníka zadání 	"%s jsou hrozbou %s èást této oblasti. Pokud bys byl tak stateènı a porazil je, dobøe bych se ti odmìnil."	Skupina, kterou tvoøí %s, nás vyhnala z našich domovù. Pokud bys je porazil a my bychom se mohli vrátit zpìt, dobøe bychom se ti odmìnili."	"Potøebuji peèovat o moji nemocnou matku, ale brání mi v tom %s. Nejsem ádnı váleèník, ale pokud mi pomùeš, za tvoji pomoc se ti odmìním."	"Tuto vì hlídají mocní rytíøi Erathie. Nechají projít pouze ty, kteøí jsou hodni toho, aby se zaøadili  do jejich øádu. Pokud k nim chceš patøit, poraz %s %s oblasti."	Venku volnì pobíhají %s. Nemùeme otevøít tento prùchod, dokud nebudou poraeni.	"Neotevøeme jen tak komukoliv. Nejdøíve se pøedveï a poraz naše nepøátele. Jsou to %s. Potom budeš moci projít."
+Poraz bojovníka pokraèování 	"Neztrácej odvahu. Poráka %s je tìkım úkolem, ale ty ho urèitì zvládneš."	%s jsou poøád naivu a my se nemùeme dostat domù.	"Moji cestu k matce stále blokují %s. Prosím, pospìš si. Mé matce se pøitíilo."	"Mocní rytíøi tì ještì nenechají projít. Nejdøív musíš porazit %s %s oblasti."	%s jsou zatím stále na svobodì.	Zatím ses moc nepøedvedl. Naši nepøátelé, %s, jsou stále naivu. Jdi pryè.
+Poráka bojovníka	"Koneènì jsi porazil %s a oblast je znovu bezpeèná! Jsi pøipraven pøijmout odmìnu?"	Na naší cestì domù nám ji nepøekáejí %s a my se mùeme koneènì vrátit zpìt. Pøijmeš naši odmìnu?	"Cesta k mé matce je bezpeèná. Jsem ti moc zavázán. Vezmeš si toto na znamení mé vdìènosti?"	"Ji k nám dorazily zprávy o tom, e jsi porazil %s %s oblasti. Pøeješ si projít, novı èlene našeho øádu?"	U víme, e jsi porazil %s a my mùeme naše dveøe otevøít. Pøeješ si nyní projít?	Naši nepøátelé, %s, jsou po smrti. Nezklamal jsi nás. Pøeješ si nyní projít?
+Poraz bojovníka seznam	(poraz %s)	(poraz %s)	(poraz %s)	(poraz %s)	(poraz %s)	(poraz %s)
+Poraz bojovníka log	Poraz %s pro %s	Poraz %s pro %s	Poraz %s pro %s	Poraz %s pro otevøení brány	Poraz %s pro otevøení brány	Poraz %s pro otevøení brány
+Artefakt zadání 	"Za starıch èasù dokázali mocní kouzelníci vytváøet magické artefakty. Èas však zpùsobil, e jsme dávno zapomnìli, jak vyrobit nové. Rád bych se tuto techniku nauèil, ale potøeboval bych jeden z tìch starıch artefaktù, abych zjistil, jak mám postupovat. Pokud bys mi pøinesl artefakt %s, dobøe bych se ti odmìnil."	"Strávil jsem celı svùj ivot obchodováním s artefakty. Poslednì jsem však utratil tak velkou sumu za nové artefakty, e sotva mohu koupit nìco dalšího. Myslím si však, e bych byl schopen zaèít vyrábìt artefakty ve velkém, ale potøebuji získat jeden, podle kterého bych mohl pracovat. Pokud bys mi pøinesl artefakt %s, dobøe bych se ti odmìnil."	"Za mıch mladıch let bych to zvládl sám, ale teï potøebuji tvou pomoc. Mému pøíteli nedávno ukradli rodinnou památku a chtìl bych ji pro nìho dostat zpìt. Ta vìc vypadá pøesnì jako artefakt %s. Prosím, dones mi nìjakou vìc, na kterou se ten popis hodí. I kdy to nebude rodinná památka mého pøítele, odmìním tvoji snahu."	Tuto vì vlastní mocnı kouzelník. Dovolí ti projít, pokud mu pøineseš artefakt %s.	Tuto bránu otevøe pouze velice speciální klíè. Dones mi artefakt %s a já to dovolím projít.	"Bránu otevøel malı èlovíèek, kterı je viditelnì pod pantoflem. ""Nikdo teï nemùe projít. Mùj pes seral artefakt %s, kterı patøil mé manelce. Nemùu odtud odejít, dokud za nìj nezískám náhradu."""
+Artefakt pokraèování 	"Ještì nic? Jsem si jistı, e artefakt %s nalezneš brzy. Prosím, nepøestávej hledat."	"Ještì poøád jsi nenašel artefakt %s? Hledej prosím dùkladnìji. Kadım dnem, kterı uplyne, pøicházím o peníze!"	"Ještì nic? Tak dobøe, neustávej v hledání. Jsem si jistı, e artefakt %s existuje."	"Kouzelník je neoblomnı. Bez artefaktu %s nikoho dál nepustí."	"Ještì stále nemáš artefakt %s, kterı je klíèem k této bránì. Dál se zatím nedostaneš."	"Lituji, ale ještì poøád nemùu manelce na oèi. Abych mohl odejít, potøebuji artefakt %s."
+Artefakt úkol splnìn	"Vıbornì! Pøesnì tohle jsem potøeboval! Zde je odmìna, kterou jsem ti slíbil. Pøeješ si ještì vymìnit artefakt %s, e ano?"	"Ano!  Artefakt %s je dokonalı! Teï, pokud bys byl tak laskavı a dal mi ten artefakt, dám ti, co jsem slíbil."	"Ano, zrovna tohle jsem hledal! Dal bys mi prosím artefakt %s?"	Kouzelník tì pustí dál, pokud mu necháš artefakt %s. Pøeješ si nyní projít?	Pokud pouiješ artefakt %s jako klíè, mùeš bránu otevøít. Pøeješ si nyní projít?	"""Dej mi artefakt %s a mùeš projít. Jakého psa se bojíš? Promiò, já jsem to popletl. To nebyl pes, ale kùzle?"""
+Seznam úkolù artefakt	(poaduje %s)	(poaduje %s)	(poaduje %s)	(poaduje %s)	(poaduje %s)	(poaduje %s)
+Ukol artefakt log	Pøines %s pro %s	Pøines %s pro %s	Pøines %s pro %s	Najdi %s pro otevøení brány	Najdi %s pro otevøení brány	Najdi %s pro otevøení brány
+Bojovník úkol	"Jsem agentem císaøe daleké zemì, jeho armády nedávno utrpìly tìkou poráku. Pokud bys mi pøivedl %s, mohl bych se ti dobøe odmìnit."	Mám doprovodit cizího velvyslance do nebezpeènıch zemí, ale potøebuji pomoc. Slyšel jsem o perfektních ochráncích. Pokud mi pøivedeš %s, budu ti moc vdìènı.	U nás je stará tradice, aby enich mìl jako doprovod na cestì za nevìstou %s. Byli jsme však pøepadeni a mùj doprovod byl zabit. Pokud mi pøivedeš novı doprovod, budu ti za tvou pomoc vdìènı.	Mùj král mì poslal, abych mu pøivedl %s. Musím splnit jeho rozkaz, ale neodvauji se opustit toto místo. Pokud mi pomùeš, dovolím ti projít.	Kadı rok potøebujeme na naše Slavnosti ivota %s. Pøiveï mi je a já tì pustím dál. Je to jediná monost, jak se tudy dostat.	Tuto vì obsadil oddíl oldákù. Nechají  tì projít, pokud jim pøivedeš jako nové rekruty %s.
+Bojovníci pokraèování 	"Nemìl jsi štìstí pøi hledání %s? Prosím, pospìš si! Osud našeho království je ve tvıch rukou."	"Lituji, ale poøád ještì potøebujeme do hlídky %s."	"Poøád nic? Tak pro tebe nemohu nic udìlat. Musíš mi nejdøív pøivést %s, abych mohl vyrazit za nevìstou."	"Lituji, ale bez %s se nemohu vrátit pøed krále. Musíš se víc snait."	Bez %s naše Slavnosti ivota nemohou zaèít. Jdi a nevracej se s prázdnou.	Místní oldáci poøád poadují za prùchod %s.
+Bojovníci úkol splnìn	"Koneènì! S pomocí %s ochráníme naše království! Zde je tvá odmìna. Jsou bojovníci pøipraveni na cestu?"	Vıbornì! Zaslouíš si odmìnu. Necháš mi teï %s, abych je zaøadil do velvyslancovy druiny?	Dìkuji ti za pomoc. Pøenecháš mi %s za bohatou odmìnu.	Vynikající! Povedlo se ti najít %s a já je mùu pøedvést ke králi. Nech mne s nimi odejít a mùeš projít.	Vıteènì! Pokud nám zanecháš %s, smíš projít. Udìláme teï vımìnu?	Pustíme tì dál, pokud nám tady necháš jako rekruty %s. Pøeješ si nyní provést vımìnu?
+Seznam úkolù bojovníci	(hledá %s)	(hledá %s)	(hledá %s)	(hledá %s)	(hledá %s)	(hledá %s)
+Ukol bojovníci log	Pøiveï %s pro %s	Pøiveï %s pro %s	Pøiveï %s pro %s	Najdi %s pro otevøení brány	Najdi %s pro otevøení brány	Najdi %s pro otevøení brány
+Suroviny zadání 	"Hledám zpùsob, jak pøemìnit prosté kovy na zlato. V poslední dobì mám ve své dílnì nedostatek surovin. Pokud bys mi donesl %s, byl bych ti moc vdìènı."	Prosím, pomoz chudım dìtem v oblasti. Jestlie bys mohl pøinést %s, mohli bychom za to pro nì postavit nové domovy. A ty samozøejmì získáš odmìnu.	"Prosím, pomoz mi! Pøi cestì na svatbu jsem byl oloupen a bez vìna nemùu za svou nastávající manelkou. Jestlie bys mi mohl pøinést %s, bohatì bych se ti odmìnil."	Hlídka v této vìi vybírá od všech pocestnıch mıtné. Nechají tì projít, pokud jim zaplatíš %s.	Všichni pocestní musí zaplatit královskou daò. To jest %s. Kdo nezaplatí, nemùe pokraèovat v cestì.	"Je nám líto, ale nemùeme ti uvolnit cestu. Kdybys nám však pøinesl %s, moná by se s tím dalo nìco dìlat. Za to bychom si mohli najít jinı domov."
+Suroviny pokraèování 	"Ale kdepak! To nestaèí. Potøebuji %s. S tím, co máš, svùj vızkum nikdy nedokonèím."	Za tohle, co máš, nikdy pro naše sirotky nové domovy nepostavíme. Potøebujeme %s, jak jsme ti u øekli.	Mé vìno musí obsahovat %s. Jinak se nemohu oenit.	"Protoe nemáš potøebné mıtné %s, hlídka tì dál nepustí."	To, co máš, nestaèí. Královská daò èiní %s.	Za to málo, cos pøinesl, si nepoøídíme ani chatrè. Budeme potøebovat alespoò %s, abychom našli dobrı domov.
+Suroviny úkol splnìn	"Koneènì! Dej mi %s a já ti za to dám..."	"Ach, za %s mùeme pro naše sirotky postavit dobré domovy. Pøijmeš na oplátku tento dar?"	Dìkuji ti mnohokrát, poutníku. Pokud mi teï dáš %s, nabízím ti odmìnu. Udìláme vımìnu?	Hlídka vybírá mıtné od všech cestujících. Nechají tì projít, pokud zaplatíš %s. Pøeješ si zaplatit poplatek?	Pokud zaplatíš královskou daò %s, necháme tì projít. Souhlasíš?	"Vidíme, e ses snail. Diky %s si mùeme postavit nebo koupit novı dùm. Pokud nám to necháš, dovolíme ti projít."
+Seznam úkolù suroviny	(poaduje %s)	(poaduje %s)	(poaduje %s)	(poaduje %s)	(poaduje %s)	(poaduje %s)
+Ukol suroviny log	Pøines %s pro %s	Pøines %s pro %s	Pøines %s pro %s	Najdi %s pro otevøení brány	Najdi %s pro otevøení brány	Najdi %s pro otevøení brány
+Buï hrdina úkol	To, co mám, si mùe vyzvednout pouze %s. Nikomu jinému to nedám.	To, co mám, si mùe vyzvednout pouze %s. Nikomu jinému to nedám.	To, co mám, si mùe vyzvednout pouze %s. Nikomu jinému to nedám.	Hlídka ve vìi tvrdí, e podle rozkazu, kterı mají, mùe projít pouze %s.	Hlídka ve vìi tvrdí, e podle rozkazu, kterı mají, mùe projít pouze %s.	Hlídka ve vìi tvrdí, e podle rozkazu, kterı mají, mùe projít pouze %s.
+Buï hrdina pokraèování 	Ty nejsi %s. Táhni!	Ty nejsi %s. Táhni!	Ty nejsi %s. Táhni!	Hlídka tvrdí, e projít mùe pouze %s.	Hlídka tvrdí, e projít mùe pouze %s.	Hlídka tvrdí, e projít mùe pouze %s.
+Buï hrdina úkol splnìn	"Koneènì! Ty jsi urèitì %s. Nìco tu pro tebe mám. Pøijímáš?"	"Koneènì! Ty jsi urèitì %s. Nìco tu pro tebe mám. Pøijímáš?"	"Koneènì! Ty jsi urèitì %s. Nìco tu pro tebe mám. Pøijímáš?"	"Koneènì pøišel samotnı %s. Pøeješ si projít?"	"Koneènì pøišel samotnı %s. Pøeješ si projít?"	"Koneènì pøišel samotnı %s. Pøeješ si projít?"
+Seznam úkolù buï hrdina	(oèekává %s)	(oèekává %s)	(oèekává %s)	(oèekává %s)	(oèekává %s)	(oèekává %s)
+Buï hrdina log	Pošli %s k %s	Pošli %s k %s	Pošli %s k %s	Pošli %s otevøít bránu	Pošli %s otevøít bránu	Pošli %s otevøít bránu
+Patøit ke hráèi zadání úkolu	Mám nìco pro hráèe, kterı má %s prapor.	Mám nìco pro hráèe, kterı má %s prapor.	Mám nìco pro hráèe, kterı má %s prapor.	Hlídka ve vìi tvrdí, e projít mùe pouze hráè, kterı má %s prapor.	Hlídka ve vìi tvrdí, e projít mùe pouze hráè, kterı má %s prapor.	Hlídka ve vìi tvrdí, e projít mùe pouze hráè, kterı má %s prapor.
+Patøit ke hráèi pokraèování 	Neneseš %s prapor. Pro tebe nic nemám. Táhni!	Neneseš %s prapor. Pro tebe nic nemám. Táhni!	Neneseš %s prapor. Pro tebe nic nemám. Táhni!	Hlídka øíká, e pustí pouze hrdinu, kterı ponese %s prapor.	Hlídka øíká, e pustí pouze hrdinu, kterı ponese %s prapor.	Hlídka øíká, e pustí pouze hrdinu, kterı ponese %s prapor.
+Patøit ke hráèi úkol splnìn	"Ah, koneènì nìkdo, kdo nese %s prapor. Zde je slíbená odmìna. Pøijímáš?"	"Ah, koneènì nìkdo, kdo nese %s prapor. Zde je slíbená odmìna. Pøijímáš?"	"Ah, koneènì nìkdo, kdo nese %s prapor. Zde je slíbená odmìna. Pøijímáš?"	Hlídka vidí, e tvùj prapor je %s, a dovoluje ti projít. Pøijímáš jejich nabídku?	Hlídka vidí, e tvùj prapor je %s, a dovoluje ti projít. Pøijímáš jejich nabídku?	Hlídka vidí, e tvùj prapor je %s, a dovoluje ti projít. Pøijímáš jejich nabídku?
+Patøit ke hráèi seznam úkolù 	(hledá hrdinu, kterı má %s prapor)	(hledá hrdinu, kterı má %s prapor)	(hledá hrdinu, kterı má %s prapor)	(hledá hrdinu, kterı má %s prapor)	(hledá hrdinu, kterı má %s prapor)	(hledá hrdinu, kterı má %s prapor)
+Patøit ke hráèi log						
+Casovı limit	Musíš se vrátit bìhem %d dnù.	Musíš se vrátit bìhem %d dnù.	Musíš se vrátit bìhem %d dnù.	Musíš se vrátit bìhem %d dnù.	Musíš se vrátit bìhem %d dnù.	Musíš se vrátit bìhem %d dnù.
+			
+Jména vìštcù (48)			
+Abraham			
+Goldwyn			
+Bryce			
+Blain			
+Engle			
+Carsten			
+Dulcie			
+Donard			
+Esslock			
+Evander			
+Frederick			
+Fay			
+Genevieve			
+Horace			
+Heather
+Ike
+Jhem
+Julius
+Joseph
+Kae
+Kendrick
+Lynwood
+Kyriell
+Marigold
+Norwood
+Clova
+Tim
+Gier
+Paige
+Pierce
+Rae
+Raphael
+Rex
+Hester
+Spiridion
+Skye
+Rival
+Timeus
+Sulmand
+Rizlav
+Violet
+Wendell
+Winston
+Xanthe
+Xavier
+Yvette
+Zaray
+Zoe

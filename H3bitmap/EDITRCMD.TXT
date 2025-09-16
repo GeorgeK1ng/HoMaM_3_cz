@@ -1,0 +1,114 @@
+"Note: Do not change the headings in this file, they are used to detect problems"	
+Zpráva na stavovém øádku	Tipy k polokám
+"Pro nápovìdu stiskni F1"	
+Vytvoøení nové mapy	Nová mapa
+Otevøení existující mapy	Otevøe mapu
+Uloení aktuální mapy	Uloí mapu
+Uloení aktuální mapy pod novım názvem	Ulo mapu jako
+"Zobrazí informace o programu, èíslo verze a copyright"	O
+Ukonèení editoru	Konec
+Seznam témat nápovìdy	Témata nápovìdy
+Zobrazí nápovìdu pro aktuální poloku nebo pøíkaz	Nápovìda
+Otevøení této mapy	
+Zkopíruje vybranı objekt a vloí ho do schránky	Kopírovat
+Vystøihne vybranı objekt a vloí ho do schránky	Vystøihnout
+Najde specifikovanı typ objektu	
+Vloí objekt ze schránky	Vloit
+Vrátí zpìt poslední provedenou akci	Zpìt
+Znovu provede pøedtím zrušenou akci	Vrátit zpìt
+Zmìní velikost okna	
+Zmìní polohu okna	
+Zmenší okno do ikony	
+Zvìtší okno na plnou velikost	
+Zavøe aktivní okno	
+Obnoví normální velikost okna	
+Zobrazení mapy podzemí	Podzemí
+Zobrazí dostupnost objektù na mapì	Prùchodnost
+Umístìní terénù	Nástroje pro terény
+Umístìní øek	Nástroje pro øeky
+Umístìní cest	Nástroje pro cesty
+Mazání objektù	Guma
+Volba objektù pro hlinitı terén	Objekty na hlínì
+Volba objektù pro písèitı terén	Objekty na písku
+Volba objektù pro travnatı terén	Objekty na trávì
+Volba objektù pro snìhovı terén	Objekty na snìhu
+Volba objektù pro bainatı terén	Objekty v bainách
+Volba objektù pro štìrkovı terén	Objekty na štìrku
+Volba objektù pro podzemí	Objekty v podzemí
+Volba objektù pro lávovı terén	Objekty na lávì
+Volba objektù pro vodní plochy	Objekty na vodì
+Volba mìst	Mìsta
+Volba bojovníkù	Bojovníci
+Volba hrdinù	Hrdinové
+Volba artefaktù	Artefakty
+Volba pokladù	Poklady
+Animace objektù na mapì	
+Specifikace úpravy mapy	
+Zvol štìtec o velikosti 1x1-ètverec pro úpravu terénu	Štìtec 1x1-ètverec
+Zvol štìtec o velikosti 2x2-ètverce pro úpravu terénu	Štìtec 2x2-ètverce
+Zvol štìtec o velikosti 4x4-ètverce pro úpravu terénu	Štìtec 4x4-ètverce
+Zvol mód vyplòování	Mód vyplòování
+Zvol hlinitı typ terénu	Hlína
+Zvol písèitı typ terénu	Písek
+Zvol travnatı typ terénu	Tráva
+Zvol snìnı typ terénu	Sníh
+Zvol bainatı typ terénu	Baina
+Zvol štìrkovı typ terénu	Štìrk
+Zvol podzemní typ terénu	Podzemí
+Zvol lávovı typ terénu	Láva
+Zvol vodní typ terénu	Voda
+Zvol èistou øeku	Èisté øeky
+Zvol zamrzlou øeku	Zamrzlé øeky
+Zvol bahnitou øeku	Bahnité øeky
+Zvol lávovou øeku	Lávové øeky
+Zvol kamenitou cestu	Kamenitá cesta
+Zvol dládìnou cestu	Dládìná cesta
+Zvol gumu 1x1-ètverec	Guma 1x1-ètverec
+Zvol gumu 2x2-ètverce	Guma 2x2-ètverce
+Zvol gumu 4x4-ètverce	Guma 4x4-ètverce
+Zvol mód vyplòování	Mód vyplòování
+Nezvolen ádnı hráè	
+Zvol %s hráè	
+Zvol bahnitou cestu	Bahnitá cesta
+Zvol teren typu Prázdno	Prázdno
+Smae vybranı objekt	Smazat
+Zobrazení vlastností vybraného objektu	Vlastnosti
+Zobrazení møíky	Møíka
+Zvol objekt pro všechny terény	Objekty pro všechny terény
+Zvol štìtec 1x1-ètverec	Štìtec 1x1-ètverec
+Zvol štìtec 2x2-ètverce	Štìtec 2x2-ètverce
+Zvol štìtec 4x4-ètverce	Štìtec 4x4-ètverce
+Zvol mód vyplòování	Mód vyplòování
+Detekce monıch problémù	Kontrola mapy
+Animace terénu mapy	
+Modifikace moností aplikace	
+Uloení textu z aktuální mapy do textového souboru	
+Vloení textu z textového souboru do aktuální mapy	
+Bliší popis zvoleného objektu	
+Najde následující objekt, jako byl poslednì urèenı typ	
+Najde pøedešlı objekt, jako byl poslednì urèenı typ	
+Zmenší pohled na mapu	Zmenšení
+Zvìtší pohled na mapu	Zvìtšení
+Ukáe nebo skryje standardní panel	Pøepínání standardního panelu
+Ukáe nebo skryje stavovı øádek	Pøepínání stavového øádku
+Ukáe nebo skryje panel nástrojù	Pøepínání panelu nástrojù
+Automatické umísování pøekáek	Umístìní pøekáek
+Zvol ostrı štìtec 1x1-ètverec	Ostrı štìtec 1x1-ètverec
+Zvol ostrı štìtec 2x2-ètverce	Ostrı štìtec 2x2-ètverce
+Zvol ostrı štìtec 4x4-ètverce	Ostrı štìtec 4x4-ètverce
+Zvol mód ostrého vyplòování	Mód ostrého vyplòování
+Zvol rozmazanı štìtec 1x1-ètverec	Rozmazanı štìtec 1x1-ètverec
+Zvol rozmazanı štìtec 2x2-ètverce	Rozmazanı štìtec 2x2-ètverce
+Zvol rozmazanı štìtec 4x4-ètverce	Rozmazanı štìtec 4x4-ètverce
+Zvol mód rozmazaného vyplòování	Mód rozmazaného vyplòování
+Zvol ostrou gumu 1x1-ètverec	Ostrá guma 1x1-ètverec
+Zvol ostrou gumu 2x2-ètverce	Ostrá guma 2x2-ètverce
+Zvol ostrou gumu 4x4-ètverce	Ostrá guma 4x4-ètverce
+Zvol plošnou ostrou gumu	Plošná ostrá guma
+Zvol rozmazanou gumu 1x1-ètverec	Rozmazaná guma 1x1-ètverec
+Zvol rozmazanou gumu 2x2-ètverce	Rozmazaná guma 2x2-ètverce
+Zvol rozmazanou gumu 4x4-ètverce	Rozmazaná guma 4x4-ètverce
+Zvol plošnou rozmazanou gumu	Plošná rozmazaná guma
+Umístìní pøekáek do vyznaèené oblasti	Umístìní pøekáek
+Zvol gumu na øeky	Guma na øeky
+Zvol gumu na cesty	Guma na cesty

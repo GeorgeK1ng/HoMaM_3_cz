@@ -1,0 +1,889 @@
+Miscellaneous and Unorganized Game Text
+Nelze pøidat manager!
+%s nemùe v tomto scénáøi získat více zkušeností.
+"{ Úroveò %d}
+
+{Další úroveò:} %d
+{Aktuální zkušenost:} %d"
+%d/den
+nebo
+%s hráè byl rozdrcen!
+"%s hráèi, právì jsi ztratil své poslední mìsto.  Jestli se ti nepodaøí v prùbìhu následujícího tıdne získat alespoò jedno mìsto, budeš vyøazen ze hry."
+"%s hráèi, tví hrdinové tì opustili a ty jsi byl vyhnán z tohoto území."
+"%s hráè byl rozdrcen a vyøazen ze hry."
+"Nemùeš uloit hru jako ""%s""."
+Chyba pøi otevøení souboru %s!
+Nová hra
+Opravdu chceš propustit tento oddíl?
+%s hráè je na tahu.
+Chyba pøi pøijímání dat.  Zkusit znova?
+%s %s
+Najmout:
+U zde není dostatek místa pro umístìní tohoto oddílu.
+U máš %d aktivních hrdinù pod svım velením.
+Tento hrdina nemá bojovníky.  Hrdina musí mít bojovníky, aby mohl èelit nebezpeèí divoké krajiny.
+Kvalita videa
+Tento pøedmìt nelze odebrat.
+Opravdu chceš propustit tohoto hrdinu?
+Vyber cíl kouzla
+Vadnı cíl teleportace
+Teleportovat sem
+Sešli kouzlo %s
+Sešli kouzlo %s na %s
+Opravdu chceš zbabìle utéci?
+Nemáš dostatek zlata!
+Získal jsi od nepøítele artefakt!
+Nic
+"%s hráè prohlásil:
+
+""Budu akceptovat tvoji kapitulaci a zaruèím ti bezpeènı odchod i se zbytkem tvé ubohé armády, kdy mi zaplatíš %d zlaákù."""
+Vysoká morálka pøidala oddílu %s útok navíc.
+Nízká morálka zpùsobila paniku v øadách oddílu %s 
+Vytvoø místo pro %s ve své armádì
+Napadnout jednotku %s (%s škody)
+"Vystøel na %s (1 støela zbıvá, %s škody)"
+Popis kampanì:
+%s hráè je aktivní.
+Název relace
+Jméno hráèe
+bojovník
+bojovníkù 
+Smùla - %s
+Velké štìstí se rozzáøilo nad %s
+Poklad
+%s hráèi, %s byl pøepaden!
+Mìsto
+Hrdina
+Obrazovka mìsta
+Nemùeš postavit další loï.
+Vyaduje:
+<SYSTEM>:
+"{Mapa svìta}
+
+Na tomto místì je pohled na celou mapu svìta.  Kliknutím na mapu mùeš pøepnout okno dobrodruství na vybranou oblast. Posouváním kurzoru mùeš posouvat vybranou oblast."
+"Jeden nebo více hrdinù se ještì mùe pohybovat.  Opravdu chceš ukonèit tah?"
+"Na vykopaní artefaktu potøebuješ celı den. Odpoèiò si a zkus to znova zítra."
+Tvùj hrdina u nemá místo v zavazadle na sebrání dalšího artefaktu!
+"Gratulujeme! Po celodenním úporném kopání jsi objevil  "
+"Nic tu není.
+Kde by to jen mohlo bıt?"
+Zkus hledat na zemi!
+Neprozkoumaná oblast
+Mìsíc
+Tıden
+Den
+Klikni pravım tlaèítkem na nepøítele pro bliší informace.
+ping=%dms
+"Opravdu chceš restartovat hru?
+(Aktuální rozehraná hra bude ztracena.)"
+"Opravdu chceš nahrát døíve uloenou pozici?
+(Aktuální rozehraná hra bude ztracena.)"
+Opravdu chceš skonèit?
+Kouzlo dimenzní brána se nepovedlo!
+Vyber si bonus:
+ping
+pinging %s...
+pinging kohokoli...
+Skóre
+AUTOSAVE
+{Startovní hrdina}
+{Specialita hrdiny}
+{Pøidruení bojovníci}
+{Typ mìsta}
+Chyba pøi odesílaní dat.  Zkusit znova??
+Abys mohl hrát hru ve více hráèích, musíš mít nejménì 2 hráèe.  Zkontroluj pøipojení nebo vyber jinou mapu.
+{Bonus: artefakt}
+{Bonus: zlato}
+{Bonus: suroviny}
+{Náhodnı bonus}
+500-1000
+Armageddon zpùsobil %d škod.
+5-10 døeva / 5-10 kamení 
+Startovní hrdina dostane náhodnì vybranı artefakt
+Rušící paprsek sníil obranu %d.
+"Pøi startu hry dostaneš navíc 500-1000 zlatıch"
+"Pøi startu hry dostaneš navíc 5-10 jednotek døeva a kamení"
+"Pøi startu hry bude jako bonus náhodnì vybráno zlato, døevo a kamení nebo nìjakı artefakt"
+Byl jsi vyøazen ze hry!
+"Gratulace!
+Tvé skóre bude zapsáno do
+Sínì slávy
+
+Prosím vlo své jméno."
+Zkus hledat znova na volném terénu.
+Posílám data
+Pøijímám data
+Chaos.mp2
+{Náhodnı hrdina}
+"Startovní hrdina bude náhodnì vybrán z rasy, která odpovídá zvolenému startovnímu mìstu."
+{Náhodné mìsto}
+Tvé startovní mìsto bude náhodnì vybráno z osmi rozdílnıch typù mìst.
+"%s hráè se vzdává a nabízí ti za zajištìní svého bezpeèného odchodu %d zlatıch."
+"CD 2 %s nebylo nalezeno!
+
+CD 2 %s je vyadováno pro hru samostatnıch map, kampaní a pro vytvoøení a spuštìní hry pro více hráèù. Jestlie se chceš jen pøipojit do vytvoøené hry pro více hráèù, CD 2 není vyadováno a mùeš pokraèovat v dalších volbách menu.
+
+Pokud chceš hrát samostatnou mapu nebo kampaò, ukonèi tuto hru a pøed jejím opìtovnım spuštìním vlo do CD mechaniky CD 2 %s a spus znova %s."
+Probíhá automatické uloení hry na pozici AUTOSAVE.
+PLYREXIT
+"{Stavové okno}
+
+V tomto oknì získáš informace o stavu svého hrdiny, království a aktuální datum.  Levı klik na stavovém oknì tato jednotlivá okna pøepíná ."
+Okraj
+ %s zachytil %d magické energie ze seslaného kouzla.
+ %s zachytili %d magické energie ze seslaného kouzla.
+Nelze se pøepnout do adresáøe hry Heroes III.  Spuste znova instalaèní program.
+Nelze najít soubory s daty hry Heroes III.  Spuste znova instalaèní program.
+"Moji hrdinové! Naši nepøátelé byli rozdrceni, jejich hrady dobyty a vyplenìny.  Velká kampaò je úspìšnì za námi a já pøed vámi nyní stojím jako nespornı nejvyšší vládce!
+
+Našeho vítìzství jsme dosáhli bìhem %d dnù!"
+%d %s vstávají z mrtvıch!
+%d %s vstává z mrtvıch!
+Jeden %s zahynul následkem smrtícího pohledu %s.
+%d %s zahynulo následkem smrtícího pohledu %s.
+" %s zaujímá obrannou pozici 
+a získává +%d k obranné síle"
+" %s zaujímají obrannou pozici 
+a získávají +%d k obranné síle"
+%s zkus
+Nejbliší mìsto je obsazeno.  Kouzlo se nepovedlo!
+ ádné mìsto není k dispozici.  Kouzlo se nepovedlo!
+Tvùj hrdina je ji pøíliš unaven.  Zkus to znova zítra.
+Pouze hrdina na návštìvì mùe pouít mìstskou bránu.
+Nemáš hrdinu, kterı by mohl kouzlit.
+Tvùj hrdina u v tomto kole kouzlil.
+Pøeješ si zachránit armádu %sho hráèe za cenu %d zlatıch?
+Nelze inicializovat vstupní zaøízení - pravdìpodobnì je problém s myší nebo klávesnicí.
+Nelze inicializovat zvuky.
+Nelze inicializovat myš.
+Nelze inicializovat okno - pravdìpodobnì je problém s pamìtí nebo diskem.
+"%s narazil na opuštìnou lodìnici. Bohuel, cesty jsou blokované a nelze zde vybudovat loï."
+Kouzlo se nepovedlo!  Tvùj hrdina musí bıt na zemi, aby mohl toto kouzlo pouít.
+" %s si dává pauzu a èeká na vhodnìjší chvíli k útoku."
+" %s si dávají pauzu a èekají na vhodnìjší chvíli k útoku."
+"%s, úroveò %d %s"
+"%s díky své uèenosti "
+se mùe nauèit 
+ a 
+ od hrdiny %s
+odráí 
+odráejí 
+"Díky znalosti temnıch praktik nekromancie je tvùj hrdina schopen vzkøísit %d bojovníkù z mrtvol nepøátelské armády a pøidat je do svého oddílu jako %s."
+"Díky znalosti temnıch praktik nekromancie je tvùj hrdina schopen vzkøísit 1 bojovníka z mrtvol nepøátelské armády a pøidat ho do svého oddílu jako %s."
+mùe uèit 
+ hrdinu %s
+"{Magická energie}
+
+Magická energie je nezbytná k sesílání kouzel. Maximální mnoství magické energie je 10násobek tvıch znalostí.  Doèasnì lze získat vìtší mnoství mag. energie, ne je maximum, a to po navštívení urèité stavby nebo po nìjaké události."
+Digitální zvuk není momentálnì v tomto systému dostupnı.
+Balista
+Tvé zavazadlo je plné.
+"Bohuel, do svého inventáøe nemùeš dát nìco tak velkého, jako je %s."
+"
+
+ %s byla znièena."
+"
+
+ %s má útoènou sílu kolem %d a mùe udìlat %d-%d škod."
+Uka info o strání vìi.
+Mohu ti nabídnout %d %s %s za %d %s %s.
+Trnice
+Trištì 
+kusù 
+kus
+Mám pro tebe velice vıhodnou nabídku.  Z vımìny si nebudu strhávat ádnou provizi.  Mìl bys zájem o nìjaké mé zboí?
+"Prohlédni si prosím mé zboí.  Jestli chceš nìco nabídnout ke smìnì, klikni na zboí, které chceš smìnit, a pak si vyber za co."
+nelze
+Chci, aby %s dostal %s hráè.
+Máš ještì nìjaké další suroviny, kterıch se chceš zbavit?
+"Jestli chceš dát nìjaké suroviny jinému hráèi, klikni na zboí, které chceš darovat, a potom si vyber komu."
+Dostupné k vımìnì 
+Hráèi
+%s ochránil bojovníky %s
+%s mùe bıt sesláno pouze na nepøátelské bojovníky
+1. stupeò 
+2. stupeò 
+3. stupeò 
+4. stupeò 
+5. stupeò 
+%s mùe bıt hozeno sesláno na vlastní bojovníky
+"Vlo IP adresu hostitele.
+(napø. 220.415.119.223)"
+%s nefunguje na %s
+%s jsou imunní vùèi kouzlu %s
+Není místo na umístìní %s sem
+Kouzlit zemìtøesení nebude dobrı nápad, nejsou zde mìstské hradby, které by mohlo poškodit.
+Tvùj hrdina u má v bitvì %d oddílù bojovníkù a další u sem nelze umístit.
+" Útok
+ Obrana
+ Síla
+ Znal."
+Toto kouzlo nelze na nikoho pouít!
+"Kouzlo %s zpùsobilo %d škod
+všem nemrtvım bojovníkùm."
+"Kouzlo smrti zpùsobilo %d škod
+všem ivım bojovníkùm."
+Kouzlo magické zrcadlo se nepovedlo!
+ %s %s seslané kouzlo!
+ Útok
+ Obrana
+Létací kouzlo není dost silné, aby nadzvedlo loï.
+ Rychlost
+ Rùst
+%s sesílá kouzlo '%s' na %s.
+%s sesílá kouzlo '%s'.
+%s hráè 
+ Poèet støel
+ Škody
+ Zbıvá energie
+Tvùj èas vypršel.  Pøesouváme se do dalšího kola.
+Hlídá zde
+"
+
+Tvùj hrdina se nauèil %s %s."
+"
+
+Tvùj hrdina se mùe nauèit buï %s %s nebo %s %s."
+"{Magická energie}
+
+%s má momentálnì %d jednotek magické energie z celkového maxima %d.  Maximální mnoství magické energie je 10násobek tvıch znalostí.  Doèasnì lze získat vìtší mnoství mag. energie, ne je maximum, a to po navštívení urèité stavby nebo po nìjaké události."
+"Toto kouzlo stojí %d jednotek magické energie.  Tvùj hrdina má jen %d jednotek magické energie, a tak ho nemùe seslat."
+"Aby byli tví bojovníci dobøe vycvièeni, musíš zaplatit za jejich trénink. Pøeješ si vytrénovat své bojovníky?"
+%s našel nejvíce obeliskù.
+%s našel nejvíce artefaktù.
+%s má nejsilnìjší armádu.
+%s vydìlává nejvíce zlata.
+Zakopanı artefakt se moná nachází %s.
+"Aby mohl tvùj hrdina pouívat kouzla, musí si nejprve zakoupit knihu kouzel za 500 zlaákù. Bohuel, momentálnì nemáš ani tuto smìšnou èástku."
+"Aby mohl tvùj hrdina pouívat kouzla, musí si nejprve zakoupit knihu kouzel za 500 zlaákù.  Pøeješ si ji koupit?"
+"%s je na úrovni %d %s
+má %d artefaktù."
+"Po bohatém spropitném barman tiše zašeptal:
+%s"
+K dispozici: 
+Hodnocení 
+Všechny podmínky pro postavení této budovy byly splnìny.
+Napadnout jednotku %s
+"Pozorováním pøes orlí oko %s je schopen nauèit se kouzlo %s"
+Nedostatek pamìti.
+Nelze postavit.  U jsi zde v tomto kole stavìl.
+Ztráta %s '%s'.
+Ztráta hrdiny '%s'.
+"Nepovede se ti vyhrát do mìsíce %d, tıdne %d, dne %d."
+Ztráta všech tvıch hrdinù a mìst.
+Dobıt %s '%s'.
+Porazit hrdinu '%s'.
+Najít Grál.
+Najít %s.
+Nasbírat %d %s.
+  Mùeš také porazit všechny hrdiny a obsadit všechna mìsta.
+Porazit všechny nepøátelské hrdiny a obsadit všechna nepøátelská mìsta.
+Ty a tví spojenci 
+Ty a tvùj spojenec 
+ a 
+Ty
+nepøátelská aliance 
+nepøítel - 
+"{Zkušenosti}
+
+Zkušenosti dovolují tvım hrdinùm postoupit na vyšší úroveò, co zvyšuje jejich základní a druhotné schopnosti."
+"{Suroviny}
+
+V Heroes III je sedm druhù surovin, které se pouívají pro budování staveb v hradech, kupování bojovníkù a najímání hrdinù. Zlato je nejèastìjší, pouívá se všude. Døevo a kamení se pouívá pøi stavbì valné vìtšiny staveb. Drahokamy, rtu, síra a krystaly jsou vzácné magické zdroje, pouívají se pøi stavbì draších budov a koupi nejsilnìjších bojovníkù."
+Tito bojovníci jsou ochotni se k nám pøidat!
+"Všichni bojovníci se k nám pøidají...
+
+za %d zlatıch."
+Tito slabí bojovníci pøed námi urèitì uteèou.
+Tak si myslím, e tito bojovníci jsou pøipraveni k boji.
+Hledání Grálu je zbyteèné. Tvùj hrdina nemùe u nic dalšího sebrat, i kdyby ho našel - všechny pozice pro umístìní artefaktù jsou u zaplnìné.
+Nelze aktivovat CD mechaniku.  Bez CD mechaniky a CD s Heroes 3 je ve høe pøístupná pouze sekce hry pro více hráèù.
+"Gratulace! Dobyl jsi %s a jsi vítìz!"
+"Nepøátelé dobyli %s a oslavují své vítìzství!"
+Mìsto %s padlo - vše je ztraceno!
+Gratulace! Dokázal jsi porazit nepøátelského hrdinu %s. Vyhrál jsi!
+"Hrdina %s utrpìl poráku - tvùj úkol konèí neúspìchem!"
+"Bohuel, tvùj èas na splnìní úkolu vypršel. Vše je ztraceno."
+Denní pøíjem
+Rozdìl %s
+Zrušit
+Artefakty
+Vızbroj
+Podvodník!!! FUJ!! Hanba!!
+Kapsa
+Zavazadlo
+Grál mùe bıt nalezen %s oblasti svìta.
+Grál mùe bıt nalezen %s oblasti podzemí.
+"Nárùst
+vojsk"
+"Bojovníci
+K disp."
+Nabízím ti %s za %d %s %s.
+Nabízím ti %d %s %s za tvùj %s.
+Nabízím ti %d %s %s za %d %s.
+Suroviny království 
+Artefakty hrdiny %s
+Bojovníci hrdiny %s
+Pouze hrdina na návštìvì mùe pouít %s.
+Postavit: %s
+V posádce u není volné místo.
+Gratulace! Ve tvé armádì je nyní více ne %d jednotek typu %s. Tví nepøátelé nemají jinou volbu, musí se sklonit pøed tvou silou!
+Nepøítel získal pøes %d jednotek typu %s. Nemáš na vıbìr, musíš ohlásit svoji poráku!
+Gratulace! máš ve své pokladnici pøes %d %s. Vyhrál jsi!
+Nepøítel nasbíral pøes %d %s. Prohrál jsi!
+"Gratulace! Našel jsi %s a mùeš oslavovat své vítìzství!"
+"Nepøítel našel %s a nyní oslavuje své vítìzství!"
+"Gratulace! Úspìšnì jsi provedl upgrade svého mìsta a mùeš oslavovat své vítìzství!"
+"Nepøítel provedl upgrade svého mìsta a nyní oslavuje své vítìzství!"
+"Gratulace! Postavil jsi svatostánek Grálu a mùeš oslavovat vítìzství!"
+"Nepøítel postavil svatostánek Grálu a nyní oslavuje své vítìzství!"
+"Gratulace! Splnil jsi svùj úkol a zabil hrùzostrašnou bestii, nyní mùeš oslavovat své vítìzství!"
+"Nepøítel pøed tebou zabil hrùzostrašnou bestii a nyní oslavuje své vítìzství!"
+Gratulace! Obsadil jsi všechna obydlí bojovníkù na tomto území. Vyhrál jsi!
+Nepøítel obsadil všechna obydlí bojovníkù na tomto území. Prohrál jsi!
+Gratulace! Obsadil jsi všechny doly. Vyhrál jsi!
+Nepøítel obsadil všechny doly. Prohrál jsi!
+"Gratulace! Bezpeènì jsi dopravil náklad na místo urèení a nyní mùeš oslavovat své vítìzství!"
+Nepøítel dopravil náklad na místo urèení a nyní oslavuje své vítìzství!
+Pøesunout jednotku %s sem.
+Letìt s jednotkou %s sem.
+"Vystøel na %s (%d støel zbıvá, %s škody)"
+Uka %s info.
+U nemám støely!
+Oiv %s
+Vyvolej démony z %s
+Sešli kouzlo na %s
+Nepøítel se vzdal!
+Nepøítel utekl!
+Slavné vítìzství!
+"
+
+Za udatnost v boji %s získává %d zkušeností."
+"%s se vzdal nepøíteli a odchází v hanbì."
+Zbabìlı %s utekl z bitevního pole.
+"Tvé oddíly utrpìly hoøkou poráku a %s tì opouští."
+"Tvé oddíly se vzdaly nepøíteli a odcházejí v hanbì."
+Tvé zbabìlé oddíly utekly z bitevního pole.
+Tvé oddíly utrpìly hoøkou poráku.
+Katapult musí bıt ve vızbroji.
+Tento bojovník u je upgradovanı.
+Nemùeš si dovolit upgrade tohoto bojovníka.
+Všichni bojovníci u jsou upgradování.
+Nemùeš si dovolit upgrade všech bojovníkù.
+hrad
+Upgraduj %s.
+Postav svatostánek Grálu v %s.
+Postav v jakémkoli mìstì svatostánek Grálu.
+Poraz %s %s oblasti svìta.
+Pøidej %d %s do své královské armády.
+Obsaï všechna obydlí bojovníkù.
+Obsaï všechny doly.
+Pøeprav %s do %s.
+U nemáš ve svém inventáøi ádné volné místo.
+ Èekám na ostatní hráèe...
+"Sorry, spojení bylo pøerušeno."
+Nemáš na nákup nové lodì.
+(lze kopat)
+Nìkdo podvádí!
+Nìkdo si upravil nastavení pozice!
+%s u je na lodi.
+Není zde místo na umístìní lodì.
+Nejsou zde ádné lodì, které bys mohl pøivolat.
+"%s zkouší pøivolat loï, ale kouzlo selhalo."
+"%s zkouší znièit loï, ale kouzlo selhalo."
+%s nemá dost schopností, aby mohl dnes znova pouít toto kouzlo.
+"%s, úroveò %d"
+Pouta války jsou aktivní.  %s nemùe utéci!
+Pouta války jsou aktivní.  %s se nemùe vzdát!
+ Úroveò %d %s
+"
+Zpùsobí %d škod."
+Zdarma
+Nelze
+Cena za 1
+Vìštec %s
+ (hledá %s)
+ Èernı trh
+Hra %s byla úspìšnì uloena.
+Nyní je na tahu %s hráè.
+(navštíveno)
+(ještì nenavštíveno)
+(u to umíš)
+(nauè se %s)
+(nauè se %s)
+(u to umíš)
+%s hráè ti posílá dárek
+%s hráè by uvítal trochu %s
+%s hráè by uvítal nìco z tìchto surovin.
+ %s odèerpali %d energie z %s.
+ %s odèerpal %d energie z %s.
+"
+ a jeden vstává z mrtvıch."
+"
+ a %d vstává z mrtvıch."
+ %s pùsobí dvojnásobné škody!
+ %s pùsobí dvojnásobné škody!
+Blesk udeøil do bojovníkù %s!
+"S fanatickou zuøivostí %s zpùsobil navíc 50%% škod bojovníkùm %s."
+"S fanatickou zuøivostí %s zpùsobili navíc 50%% škod bojovníkùm %s."
+"%s regeneruje a bìhem chvilky jsou zranìní pryè."
+"%s regenerují a bìhem chvilky jsou zranìní pryè."
+"{Taktická fáze}
+
+Bìhem taktické fáze mùe hrdina se schopností taktika pøed vlastním bojem pøeskupit oddíly své armády."
+ %s odèerpává magickou energii od %s!
+ %s odèerpávají magickou energii od %s!
+Strání vì 
+ %s pùsobí %d škod.
+ %s pùsobí %d škod.
+"
+Jeden %s zahynul."
+"
+%d %s zahynulo."
+ Útok
+ Obrana
+ Síla kouzel
+ Znalosti
+ Morálka
+ Štìstí 
+ Škody
+ Mag. energie
+ Energie
+energie
+Pøítel
+Nepøítel
+Volby boje
+Rychlost animace
+Hlasitost hudby
+Hlasitost zvukù 
+Volby autom. boje
+Info o bojovnících
+Bojovníci
+Kouzla		  
+Katapult		  
+Stan první pomoci		
+Všechny statistiky		
+Jen kouzla		
+Uka rastr		
+Stín pohybu		
+Stín kurzoru		
+Ztráty na bojišti		
+ Útoèník		
+Obránce		
+Vítìz		
+Poraenı 		
+Zaèíná další kolo.		
+"%s cítí, e u nemáš šanci.
+
+Pøeješ si utéci?"		
+" %s léèí %s
+a odstraòuje %d škod."		
+Aktuální hráè opustil hru! Jeho tah bude odehrán poèítaèovım hráèem.
+Další hráè opustil hru!  Vyhrál jsi!
+Uka statistiky hrdiny
+Uka statistiky nepøátelského hrdiny
+Pouij první pomoc na %s
+"{Artefakt}
+
+Zpozoroval jsi starobylı artefakt. Bohuel ho hlídá %s %s.  Chceš bojovat s %s o tento artefakt?"
+"Jsi velmi nemile pøekvapenı, protoe %s hlídá %s %s.
+
+Chceš bojovat se stráci?"
+"Nejsou tu ádní bojovníci %s k najmutí.
+"
+"%d %s se pøidalo ke tvé armádì.
+"
+"Pøed dávnımi vìky bylo toto mìsto domovem drakù a jejich obrovskıch pokladù, ale dnes se po prázdnıch sálech prohání jen vítr."
+"Bojovníci %s by se rádi pøidali ke tvému hrdinovi, ale ten nemá pro novı oddíl volné místo."
+artefakt
+artefakty
+z kadé suroviny
+posádka
+ Starı formát map
+"Sorry, hráè opustil hru bìhem pøenosu.  Padám!"
+Upgrade všech bojovníkù 
+Poøadí 
+Hráè 
+Mapa
+Dni
+"
+Podvodník! +maximum"
+"Celkovı 
+ èas"
+"Základní 
+skóre"
+"Obtínost"
+"Celkové 
+skóre"
++1 úroveò 
+"
+***Command Line Help***
+
+/S0 - vypne zvuky a hudbu
+/I0 - pøeskoèí intro
+
+Pøíklad:
+
+HEROES3 /S0 /I0
+
+Spustí Heroes III bez zvukù a intra.
+"
+%s postupuje na vyšší úroveò.
+%s je nyní na úrovni %d %s.
+"HORKÉ KØESLO
+Prosím vlo jména:"
+Chyba pøi inicializaci modemového spojení.  Zkus to znova.
+Hra pøes modem
+Chyba pøi inicializaci spojení pøes sériovı port.  Zkus to znova.
+Hra pøes sériovı port
+Chyba propojení pøes sériovı port u hostitele.  Zkus to znova.
+Moje hra
+Heslo:
+Na poèítaèi hostitele nebyla nalezena ádná hra!
+"Litujeme, ale bìhem pøipojování této hry se vyskytla nìjaká chyba. Zkus to znova."
+Hra nebyla nalezena.  Zkus to znova.
+Nesprávné heslo!
+Chyba pøi inicializaci TCP/IP propojení.  Zkus to znova.
+"Tvá IP adresa:
+%s"
+Chyba pøi inicializaci IPX propojení.  Zkus to znova.
+Heslo (není nutné):
+Tato IP adresa nebyla nalezena!
+Skládaná mapa
+Pøines %s  %s.
+K disp.
+Cena celkem
+Chyba pøi pøipojování k poèítaèi hostitele.  Zkus to znova!
+Poèítaè 
+%s hráè opustil hru.
+Hostitelem jsi nyní ty!
+ Èeká se na pøipojeného hráèe, a mu stoupne úroveò...
+Poèítaèovı hráè byl napaden pøipojenım hráèem.  Èekej na bitvu...
+ šeptej
+ šeptej k
+Zkušenosti nutné k postupu na vyšší úroveò 
+Zkušenosti na oltáøi celkem
+Obìtovat artefakty pro zkušenost
+Pøesuò artefakty na oltáø 
+Obìtní oltáø 
+"Chceš-li obìtovat bojovníky, pøesuò je na oltáø a klikni na tlaèítko obìtování."
+Vyber %s
+Nelze obìtovat
+Toto pole ukazuje aktuálnì vybraného bojovníka
+Obìtovat %s
+ Èekárna
+Mìniè na kostlivce
+Pøesuò bojovníky do mìnièe, abys z nich vytvoøil kostlivce
+Zkonvertuj bojovníky v mìnièi na kostlivce
+ %s budou %s
+ %s u je kostlivec
+ %s u jsou kostlivci
+Obtínost hráèe
+"%s u existuje.
+
+Pøepsat?"
+Obt. mapy:
+Název scénáøe:
+Popis scénáøe:
+Podmínky vítìzství:
+Podmínky prohry:
+ Èlovìk
+Uka dostupné scénáøe
+Uka podrobnìjší volby
+ Ète se soubory s mapami
+Soubor je poškozen
+Je nìjakı problém s daty v daném souboru, soubor nelze v Heroes III pouít.
+Prosím otevøi a ulo tuto mapu prostøednictvím Heroes III editoru, abys aktualizoval verzi formátu mapy.
+Tato mapa není hratelná. Prosím otevøi mapu v Heroes III editoru a oprav problémy døíve, ne zaèneš hrát tuto mapu.
+Prázdnı 
+Bez jména
+Pøijímání hlavièky mapy od hostitele...
+Velikost map
+S
+M
+L
+XL
+Podrobnìjší volby
+"Vyber startovní volby, typ postihu a jméno pro kadého hráèe ve høe."
+"Jméno hráèe
+Typ postihu"
+"Startovní
+mìsto"
+"Startovní
+hrdina"
+"Startovní
+bonus"
+Délka trvání kola hráèe
+Náhodnı 
+Nic
+"Litujeme, ale hostitel zaèal hru bez tebe!"
+%s hráè vstoupil do hry.
+%s hráè opustil hru.
+Neznámı hráè opustil hru!
+%s hráè je nyní novı hostitel.
+Nejsou k dispozici ádné mapy.
+Pøed spuštìním hry se musíš sám pøipojit.
+Skryj hovor
+Uka hovor
+Hostitel pøipravuje spuštìní hry...
+Nelze otevøít soubor - Video.vid
+Chyba v souboru videa!
+ %s blokuje %s, aby nemohl seslat kouzlo 3. a vyššího stupnì.
+Vítr z okolní prokleté zemì zeslabuje tvoji magickou sílu. Zde mùeš kouzlit pouze kouzla 1. stupnì.
+"Protoe hrdina %s u vyvolal %s, ádné jiné typy elementálù %s vyvolat."
+nelze
+nelze
+%s pronáší zaklínadlo, ale nemá to ádnı viditelnı efekt.
+Vyber oddíl ke vzkøíšení 
+Vyber oddíl k obìtování 
+ %s odolává %d škodám
+ %s odolávají %d škodám
+ %s dostává %d škod navíc
+ %s dostávají %d škod navíc
+Vzkøísit %s
+Obìtuj %s
+Odstraò pøekáku
+" %s rychle stárne a ztrácí %d energie."
+" %s rychle stárnou a ztrácejí %d energie."
+ %s podléhá následkùm nákazy!
+ %s podléhají následkùm nákazy!
+Všechna kladná kouzla na %s byla zrušena.
+ %s postihla slepota!
+ %s neumí udìlat nic správnì.
+ %s se mìní v kámen!
+ %s se mìní v kámen!
+Popínavé rostliny zachytily jednotku %s !
+ %s se kroutí bolestí, jak mu jed proniká stále více do krve.
+ %s se kroutí bolestí, jak jim jed proniká stále více do krve.
+ %s se vlivem paralızy nemùe pohnout!
+ %s se vlivem paralızy nemohou pohnout!
+ %s sesílá kouzlo %s
+ %s sesílají kouzlo %s
+ na %s
+Systémové volby
+Rychlost hrdiny
+Rychlost nepøátel
+Rychlost posunu mapy
+Uka cestu pohybu
+Pøipomeò tah hrdiny
+Rychlı boj
+Titulky u videa
+Obrysy staveb 
+Animace knihy kouzel
+"Opravdu si to pøeješ udìlat?
+(neuloená hra bude ztracena)"
+Blízkost víru many naplnila tvé tìlo novou energií. Máš nyní dvojnásobek magické energie.
+"Hlavní èeledín ti pøivede pìknì vypadajícího váleèného konì. ""Tento oø vıraznì zrychlí tvùj pohyb na cestách. Ale pamatuj, také se èasem unaví, a tak ho na zaèátku pøíštího tıdne pøijï vymìnit za nového."""
+Po prostudování rytin na Zdi znalostí jsi pochopil princip udrování magické energie.
+(+1 znalosti).
+ Øád ohnì ti ukázal nové cesty, jak posílit magickou sílu.
+(+1 síla kouzel).
+V bojové akademii ses u profesionálù lecèemu pøiuèil.
+(+1000 zkušeností).
+Èas strávenı v sídle bohù jsi vyuil k nauce, jak vylepšit své útoèné schopnosti.
+(+1 útoèná síla).
+" Èas strávenı v kleci váleèníkù jsi vyuil k nauce, jak vylepšit své obranné schopnosti.
+(+1 obranná síla)."
+%s vybudoval %s.
+%d bojovníkù %s je nyní k najmutí ve mìstì %s
+%s nárùst za tıden
+%s má nárùst %d tıdnì.
+"
+
+Zákl. nárùst %d"
+"
+Externí obydlí %+d"
+Radnice
+Opus vì kouzel
+Posádka
+Postavit: %s
+Nestavit %s
+Chceš zde vystavit svatostánek Grálu?
+Postav loï 
+Nestav loï 
+Opus 
+Hrad
+Univerzita
+"Zvuky krokù tvého hrdiny se odráejí od stìn ztichlıch sálù starobylé univerzity. Úøedník tì zdvoøile informuje o pøednáškách, kterıch se zde mùeš zúèastnit."
+Tvùj hrdina u tuto schopnost má.
+Tvùj hrdina se tuto schopnost nemùe nauèit.
+Tvùj hrdina se nemùe nauèit další schopnosti.
+%s %s bude stát %d zlata
+"S jemnım úsmìvem a zdvienım oboèím tì úøedník informuje, e za vıuku se zde platí: ""Pøednáška s vıukou %s %s stojí %d zlata."""
+Koupit %s
+"%s, trvání: %d kol"
+Uka svìt
+Mìsto
+Hrdina
+Artefakt
+Teleport
+Brána
+Dùl
+Suroviny
+Døevo
+Rtu 
+Kámen
+Síra
+Krystaly	
+Drahokamy	
+Zlato	
+Zbıvá 1 sekunda do ukonèení tvého tahu.	
+Zbıvá %d sekund do ukonèení tvého tahu.	
+Zbıvá 1 minuta do ukonèení tvého tahu.	
+Zbıvá %0.1f minut do ukonèení tvého tahu.	
+Aktuální hráè je...	
+"%s hráè našel %s a nyní oslavuje své vítìzství!"	
+"%s hráè našel %s a nyní oslavuje své vítìzství!"	
+%s hráè má pøes %d %s. Nemáš jinou volbu, musíš uznat svou poráku!	
+%s hráè má pøes %d %s. Nemáš jinou volbu, musíš uznat svou poráku!	
+"%s hráè má pøes %d %s a nyní oslavuje své vítìzství!"	
+%s hráè má pøes %d %s. Prohrál jsi!	
+Gratulace! %s hráè našel %s. Tvùj tım zvítìzil!	
+Gratulace! %s hráè si úspìšnì upgradoval mìsto. Tvùj tım zvítìzil!	
+"%s hráè si úspìšnì upgradoval mìsto a nyní oslavuje své vítìzství!"	
+%s si úspìšnì upgradovali své mìsto. Prohrál jsi!	
+Gratulace!  %s hráè vybudoval svatostánek Grálu. Tvùj tım zvítìzil!	
+"%s hráè vybudoval svatostánek Grálu a nyní oslavuje své vítìzství!"	
+%s vybudovali svatostánek Grálu. Prohrál jsi!	
+Gratulace! %s hráè splnil svùj úkol a zabil hrùzostrašnou bestii. Tvùj tım zvítìzil!	
+"%s hráè zrušil tvùj úkol, kdy sám zabil hrùzostrašnou bestii. Nyní oslavuje své vítìzství!"	
+%s hráè zrušil tvùj úkol, kdy sám zabil hrùzostrašnou bestii. Prohrál jsi!	
+%s hráè obsadil všechna obydlí všech  bojovníkù. Prohrál jsi!	
+%s hráè obsadil všechna obydlí všech  bojovníkù. Prohrál jsi!	
+%s hráè obsadil všechny doly. Prohrál jsi!	
+%s hráè obsadil všechny doly. Prohrál jsi!	
+Gratulace! %s hráè bezpeènì dopravil náklad na místo urèení. Tvùj tım zvítìzil!	
+"%%s hráè bezpeènì dopravil náklad na místo urèení a nyní oslavuje své vítìzství!"	
+%s hráè bezpeènì dopravil náklad na místo urèení. Prohrál jsi!	
+"Hostitel bohuel opustil hru.  Musíš mít CD v mechanice, aby ses stal hostitelem hry."	
+Uka uloené pozice
+Tım %d
+{Sloení tımù }
+Obnovuje se vıpadek hráèe... Moment prosím...
+Gratulace! Všichni nepøátele byli poraeni! Vyhrál jsi!
+"Všechna tvá vojska byla poraena a tys byl vyhnán z tohoto území!"
+Informace o scénáøi
+Stiskem ESC zrušíš samostatnı mód.
+Nelze otevøít soubor - Heroes3.snd
+Sound File Error!
+"Tvá verze #%s bohuel není kompatibilní s hostitelskou verzí #%s."
+"Resetování tabulky nejlepších skóre smae veškeré informace o mapách, ve kterıch jsi dosáhl vysokého skóre.
+
+Opravdu chceš tabulku zresetovat?"
+"
+ %s je znièen."
+Poraz %s %s oblasti podzemí.
+%s hráè nesplnil úkol vèas. Vše je ztraceno.
+%s hráè ztratil hrdinu %s.  Tvùj úkol je ukonèen.
+Opravdu chceš hrát z uloené pozice?
+Kampaò 
+"Obyvatelùm mìsta vyprávíš rozsáhlou legendu o Grálu, ale mìšáci tvá slova pøijímají s nedùvìrou. Toto mìsto ještì není pøipraveno na pøíjem pravé víry. Musíš najít jinı, lepší domov pro vybudování svatostánku Grálu."
+Bez aktiv. kouzel
+%s vyvolává %d %s
+"Tvoje
+Hodnost"
+V jezírku se nic nového neobjevilo.
+V jezírku se tento tıden objevilo %d ks %s.
+"%s, trvání: %s."
+do smrti nebo pohybu stromù 
+do dalšího útoku
+do konce boje
+"%s vlastní %s. Je to starı artefakt, kterı blokuje veškeré pouití magie."
+Tato posádka ovládá mocná kouzla, kterımi úspìšnì blokuje jakoukoliv další magii.
+"Zde nejsou ádné døíve uloené pozice.
+
+Moná sis chtìl zahrát novou hru. Vra se zpìt do hlavního menu a vyber si volbu Nová hra."
+Vyber cíl
+Opravdu chceš smazat %s?
+"Pøi startu hry dostaneš navíc 3-6 krystalù."
+"Pøi startu hry dostaneš navíc 3-6 drahokamù."
+"Pøi startu hry dostaneš navíc 3-6 jednotek rtuti."
+"Pøi startu hry dostaneš navíc 3-6 jednotek síry."
+3-6 krystalù 
+3-6 drahokamù 
+3-6 rtuti
+3-6 síry
+ %s ji nemá ádnou magickou energii
+ %s ji nemají ádnou magickou energii
+Prokletá zemì blokuje pouívání kouzel vyššího ne 1. stupnì.
+Antimagická aura blokuje pouívání kouzel v této posádce.
+ %s blokuje pouívání kouzel
+Z tìl mrtvıch bojovníkù mùeš vyvolat pouze %s
+Mrtvı %s nemá dost ivotní síly na vyvolání %s
+Mrtví %s nemají dost ivotní síly na vyvolání %s
+Vzkøísit lze pouze ijící bytosti.
+ %s nemá dost síly na vzkøíšení %s
+ %s nemají dost síly na vzkøíšení %s
+"{Málo místa na disku}
+
+Heroes III vyadují minimálnì 5 MB volného místa na harddisku, kde je hra nainstalovaná.
+
+Uvolni prosím 5 MB na disku døíve, ne hru spustíš."
+"{Málo místa na disku}
+
+Heroes III vyadují minimálnì 1 MB volného místa na harddisku, kde je hra nainstalovaná, aby bylo moné uloit pozice hry.
+
+Pokud chceš smazat døíve uloenou pozici, vyber ji a stiskni CTRL-DELETE.
+
+Chceš místo uvolnit ruènì, pomocí ALT-TAB se pøepni do Windows."
+Zanech strá 
+ %s tuhne strachem.
+ %s tuhnou strachem.
+Toto kouzlo nelze na nikoho pouít.
+"Koneènì jsi získal poslední artefakt nutnı k vytvoøení Meèe zkázy.  Brzo se pøed tebou bude tøást celı svìt."
+ %s zpøístupnila všechna kouzla.
+Bonus: %s
+Bonus: svitek %s
+Bonus: %d %s
+Bonus: %s %s
+Bonus: hrdina z %s
+Bonus: náhodnı hrdina
+døeva a kamení 
+"síry, rtuti, krystalù a drahokamù "
+%s má nesprávnı formát
+Vyber kampaò datadisku AB
+Vyber originální kampaò RoE
+Vyber vlastní kampaò 
+Zpìt do hlavního menu
+Strach z %s zcela ochromil %s.
+"Bylo nalezeno CD Heroes III: %s .
+
+Pokud chceš hrát Heroes III: %s, potøebuješ CD %s .  
+
+Jestli se chceš pøipojit ke høe pro více hráèù, kde je hostitelem jinı poèítaè, CD není potøeba a mùeš pokraèovat.
+
+Chceš-li hrát samostatnou mapu nebo kampaò, ukonèi hru, vlo CD %s a pak spus %s."
+Hostitel generuje náhodnou mapu…
+Kouzlo zrušeno
+Zmocnil ses všech artefaktù, které jsou potøebné pro sestavení %s. Pøeješ si sestavit tento artefakt?
+Opravdu si pøeješ rozloit tento artefakt?
+Vyber kampaò datadisku SoD
+ Èarodìjka
+Yog se vzdal magie ve všech jejích podobách. Jeho znalosti boje a taktiky mu budou muset postaèit do konce jeho ivota.
+"Gratulujeme! Získal jsi od barbarskıch bratrù všechny tøi artefakty, které jsi potøeboval."
+Volby náhodné mapy
+Zvol parametry pro vytvoøení náhodné mapy
+Náhodná mapa
+Hrát náhodnou mapu
+"Soubor s vıukovou mapou ""tutorial.tut"" není v adresáøi s mapami. Bez tohoto souboru nelze vıuku spustit."
+Pro hraní této uloené hry je potøebné, aby všichni hráèi mìli spuštìno CD %s. Nìkterı z pøipojenıch hráèù nemùe hrát tuto uloenou hru.
+Pro hraní tohoto scénáøe je potøebné, aby všichni hráèi mìli spuštìno CD %s. Nìkterı z pøipojenıch hráèù nemùe hrát tento scénáø.
+Meè zkázy (AB)
+Heroes III Complete
+Prokletá zemì odèerpává magickou energii ze všech kouzel, která jsou silnìjší ne kouzla 1. stupnì.
+Náhodná mapa vytvoøena!
+Nelze vytvoøit Random_Map.H3M v daném adresáøi.
+Chyba pøi ukládání náhodné mapy na disk.
+Nelze vytvoøit náhodnou mapu se zadanımi volbami.
+Velikost mapy
+Lidé nebo PC hráèi
+Tımy lidí nebo PC
+Pouze tımy lidí 
+Pouze PC tımy
+Mnoství vody
+Síla bojovníkù 
+Náhodná mapa
+Vytváøí se mapa
+Pouze Gelu mùe nést Meè zkázy.
+Obnova Erathie (RoE)
+"Gratulace! Znovu jsi získal všechny tøi artefakty."

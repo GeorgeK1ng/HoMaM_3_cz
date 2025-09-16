@@ -1,0 +1,110 @@
+Maják	Po obsazení se zrychlí pohyb všech tvıch lodí o 5 krokù za kadı maják.	
+Bašta gryfù 	Bašta gryfù zvyšuje nárùst gryfù o 3 bojovníky tıdnì.	
+Bašta gryfù 	Bašta gryfù zvyšuje nárùst královskıch gryfù o 3 bojovníky tıdnì.	
+Pøístav	V pøístavu mùeš koupit loï.	
+Stáje	Stáje zrychlí a do konce tıdne hrdinùv pohyb po zemi.	
+Bratrstvo meèe	"Bratrstvo meèe zvyšuje morálku hrdiny bránícího hrad o 2 stupnì."	
+		
+		
+		
+Kolos	"Stavba kolosu zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlatıch dennì a zvyšuje morálku všech hrdinù hráèe o 2 stupnì."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks døeva a 1 ks kamene.	
+Mystické jezírko	Mystické jezírko dodává kadı tıden náhodné mnoství nìjaké suroviny.	
+Cech horníkù 	Cech horníkù zvyšuje nárùst trpaslíkù o 4 bojovníky tıdnì.	
+Cech horníkù 	Cech horníkù zvyšuje nárùst bojovıch trpaslíkù o 4 bojovníky tıdnì.	
+		
+Fontána štìstí 	Fontána štìstí zvyšuje štìstí hrdiny bránícího hrad o 2 stupnì.	
+Pokladnice	Pokladnice zvyšuje pøíjem zlata o 10% na zaèátku kadého tıdne.	
+		
+ Školka stromkù 	 Školka stromkù zvyšuje nárùst stromovıch strácù o 2 bojovníky tıdnì.	
+ Školka stromkù 	 Školka stromkù zvyšuje nárùst stromovıch vojákù o 2 bojovníky tıdnì.	
+Stráce duše	"Stavba Stráce duše zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlatıch dennì a zvyšuje štìstí všech hrdinù hráèe o 2 stupnì."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks krystalu.	
+Obchod s artefakty	"Obchod s artefakty - zde lze koupit èi prodat artefakty."	
+Sochaøova køídla	Sochaøova køídla zvyšují nárùst kamennıch chrlièù o 4 bojovníky tıdnì.	
+Sochaøova køídla	Sochaøova køídla zvyšují nárùst obsidiánovıch chrlièù o 4 bojovníky tıdnì.	
+		
+Pozorovatelna	Pozorovatelna zvyšuje viditelnost kolem hradu v okruhu 20 polí.	
+Knihovna	Knihovna do vìe kouzel pøidá 1 kouzlo od kadé úrovnì.	
+Zeï znalostí 	Zeï znalostí 1x trvale zvıší o 1 bod znalosti hrdiny, kterı navštíví hrad.	
+		
+		
+Balon	"Stavba balonu zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zl. dennì, odkryje celou mapu povrchu a zvyšuje znalosti hrdiny bránícího hrad o 15 bodù (takto získaná magická energie je ztracena pøi opuštìní hradu)."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks drahokamu.	
+		
+Porodnice	Porodnice zvyšuje nárùst ïáblíkù o 8 bojovníkù tıdnì.	
+Porodnice	Porodnice zvyšuje nárùst raráškù o 8 bojovníkù tıdnì.	
+		
+Sirná bouøe	Sirná bouøe zvyšuje sílu kouzel hrdiny bránícího hrad o 2 body.	
+Hradní brána	Hradní brána dovolí cestovat mezi jednotlivımi mìsty pekla. Cílové mìsto nesmí bıt obsazeno.	
+ Øád ohnì 	 Øád ohnì 1x trvale zvıší o 1 bod sílu kouzel hrdiny, kterı navštíví hrad.	
+Klece	Klece zvyšují nárùst pekelnıch psù o 3 bojovníky tıdnì.	
+Klece	Klece zvyšují nárùst kerberù o 3 bojovníky tıdnì.	
+Bostvo ohnì 	Stavba bostva ohnì zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlatıch dennì. Navíc kadı tıden bude vyhlášen tıdnem ïáblíka.	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks rtuti.	
+Závoj temnoty	Závoj temnoty kadı den zneviditelní nepøíteli prostor 20 polí kolem hradu.	
+Vykopané hroby	Vykopané hroby zvyšují nárùst kostlivcù o 6 bojovníkù tıdnì.	
+Vykopané hroby	Vykopané hroby zvyšují nárùst váleènıch kostlivcù o 6 bojovníkù tıdnì.	
+Pøístav	V pøístavu mùeš koupit loï.	
+Zesilovaè nekromancie	Zesilovaè nekromancie zvyšuje schopnost nekromancie všech hrdinù hráèe, kteøí ji ovládají, o 10%.	
+Mìniè na kostlivce	Mìniè na kostlivce dovolí pøetransformovat libovolné bojovníky na kostlivce.	
+		
+		
+		
+Vìzení duší 	"Stavba vìzení duší zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlatıch dennì a zvıší schopnost nekromancie všech hrdinù hráèe, kteøí ji ovládají, o 20%."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks døeva a 1 ks kamene.	
+Obchod s artefakty	"Obchod s artefakty - zde lze koupit èi prodat artefakty."	
+Houbovı kruh	Houbovı kruh zvyšuje nárùst troglodytù o 7 bojovníkù tıdnì.	
+Houbovı kruh	Houbovı kruh zvyšuje nárùst pekelnıch troglodytù o 7 bojovníkù tıdnì.	
+		
+Vír many	Vír many ihned 1x tıdnì zdvojnásobí maximum magické energie 1 hrdiny.	
+Brána vyvolání 	"Brána vyvolání dovolí najmout bojovníky z obsazenıch obydlí na mapì."	
+Bojová akademie	Bojová akademie 1x trvale zvıší o 1000 zkušenosti hrdiny, kterı navštíví hrad.	
+		
+		
+Stráce zemì 	"Stavba stráce zemì zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlatıch dennì a zvyšuje sílu kouzel hrdiny bránícího hrad o 12 bodù."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks síry.	
+ Únikovı tunel	 Únikovı tunel dovolí hrdinovi utéci z bitvy pøi obranì hradu.	
+Smetištì 	Smetištì zvyšuje nárùst goblinù o 8 bojovníkù tıdnì.	
+Smetištì 	Smetištì zvyšuje nárùst hobgoblinù o 8 bojovníkù tıdnì.	
+		
+Cech otrokáøù 	Cech otrokáøù dovolí prodat hrdinovy bojovníky za suroviny a zlato.	
+Skladištì balist	Ve skladišti balist lze zakoupit balistu.	
+Sínì Valhally	Sínì Valhally 1x trvale zvıší o 1 útoènou sílu hrdiny, kterı navštíví hrad.	
+		
+		
+Pomník váleèníka	"Stavba pomníku váleèníka zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlaákù dennì a zvyšuje útoènou sílu hrdiny bránícího hrad o 20 bodù."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks døeva a 1 ks kamene.	
+Klec váleèníkù 	Klec váleèníkù 1x trvale zvıší o 1 obrannou sílu hrdiny, kterı navštíví hrad.	
+Kapitánovo obydlí 	Kapitánovo obydlí zvyšuje nárùst gnolù o 6 bojovníkù tıdnì.	
+Kapitánovo obydlí 	Kapitánovo obydlí zvyšuje nárùst gnolích nájezdníkù o 6 bojovníkù tıdnì.	
+Pøístav	V pøístavu mùeš koupit loï.	
+Rytiny strachu	Rytiny strachu zvyšují obrannou sílu hrdiny bránícího hrad o 2 body.	
+Krvavı obelisk	Krvavı obelisk zvyšuje útoènou sílu hrdiny bránícího hrad o 2 body.	
+		
+		
+		
+Masoravá rostlina	"Stavba masoravé rostliny zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlaákù dennì a zvyšuje útoènou a obrannou sílu hrdiny bránícího hrad o 10 bodù."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks døeva a 1 ks kamene.	
+Obchod s artefakty	"Obchod s artefakty - zde lze koupit èi prodat artefakty."	
+Zahrada ivota	Zahrada ivota zvyšuje nárùst skøítkù o 10 bojovníkù tıdnì.	
+Zahrada ivota	Zahrada ivota zvyšuje nárùst víl o 10 bojovníkù tıdnì.	
+Pøístav	V pøístavu mùeš koupit loï.	
+Univerzita magie	"Na univerzitì magie se hrdina mùe za mírnı poplatek nauèit základy kterékoliv školy magie."	
+		
+		
+		
+		
+Polární záøe	"Stavba polární záøe zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlaákù dennì a ve vìi kouzel zpøístupní všechna známá kouzla všech škol."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks rtuti.	
+Obchod s artefakty	"Obchod s artefakty - zde lze koupit èi prodat artefakty."	
+Stavba bojovníkù 1. stupnì 	Tato stavba zvyšuje tıdenní nárùst bojovníkù 1. stupnì.	
+Stavba bojovníkù 2. stupnì 	Tato stavba zvyšuje tıdenní nárùst bojovníkù 2. stupnì.	
+Pøístav	V pøístavu mùeš koupit loï.	
+		
+		
+Stavba bojovníkù 3. stupnì 	Tato stavba zvyšuje tıdenní nárùst bojovníkù 3. stupnì.	
+Stavba bojovníkù 4. stupnì 	Tato stavba zvyšuje tıdenní nárùst bojovníkù 4. stupnì.	
+Stavba bojovníkù 5. stupnì 	Tato stavba zvyšuje tıdenní nárùst bojovníkù 5. stupnì.	
+Grál	"Stavba svatostánku Grálu zvyšuje nárùst bojovníkù v hradì o 50% tıdnì, zvyšuje pøíjem království o 5000 zlaákù dennì a pøidává další bonus podle typu mìsta."	
+Skladištì surovin	Skladištì surovin dodává dennì 1 ks nìjaké suroviny.	

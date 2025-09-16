@@ -1,0 +1,169 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+General
+Heroes of Might and Magic® III Campaign Editor
+"© 2000 Ubisoft Entertainment. All Rights Reserved. Heroes of Might and Magic, Heroes, Armageddon's Blade, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries. All other trademarks belong to their respective owners."
+Verze %s
+Soubory kampaní Heroes 3 (*.h3c)
+Kampaò Heroes 3
+Display musí být nastaven nejménì na 16bitové barvy, abys mohl spustit editor kampaní!
+Debug Build
+Release Build
+OK
+O editoru kampaní 
+Hráè %d (%s)
+Kterékoliv mìsto
+"""%s"" je nesprávný nebo poškozený soubor.  Nelze importovat."
+"""%s"" je nehratelná mapa.  Nelze importovat."
+"""%s"" nemá správný formát verze.  Nelze importovat."
+"""%s"" je ve formátu staré verze.  Nelze importovat."
+"Nesprávná verze souboru kampanì!
+
+Verze souboru = %d
+Souèasná verze = %d"
+Chybný nebo poškozený soubor!
+"%s již existuje.
+Pøeješ si soubor nahradit?"
+Vlastnosti...
+Nejsilnìjšího hrdinu
+Vygenerovaného hrdinu
+a
+Náhodný hrdina
+(Žádný)
+Lehká
+Normální
+Tìžká
+Expertní
+Nehratelná
+"Soubory map Heroes 3 (*.h3m)
+.h3m"
+Úvod
+&Má úvod
+Závìr
+&Má závìr
+Vlastnosti scénáøe
+kouzlo %s
+Dát %s pro %s
+Postavit v domovském mìstì budovu %s
+Obdrží %d %s
+Zavøít
+Nápovìda
+"Textové soubory (*.txt)
+.txt"
+"Nelze importovat ""%s""."
+"Úspìšnì importováno ""%s""."
+Název
+Popis
+Text - pravý klik
+Úvod
+Závìr
+Dialog - Vlastnosti kampanì
+Vlastnosti kampanì
+Mapa:
+&Název:
+&Popis
+&Obtížnost scénáøe si hráè mùže mìnit
+Hudební &téma:
+Verze kampanì
+&Meè zkázy
+&Stín smrti
+Dialog - úprava vlastnosti cestujícího hrdiny
+Úprava vlastnosti cestujícího hrdiny
+Zdrojový &scénáø:
+&Pozice hráèe:
+Dialog - úprava startovního bonusu
+Úprava startovního bonusu
+Zvol druh bonusu:
+&Kouzlo
+Bo&jovník
+&Budova
+&Artefakt
+Kouz&elný svitek
+&Základní schopnost
+Druh&otná schopnost
+Su&roviny
+Pøidat pro:
+Artefakt:
+Typ bojovníka:
+Množství:
+Budova:
+Kouzlo:
+Útoèná síla:
+Obranná síla:
+Síla kouzel:
+Znalosti:
+Druhotná schopnost:
+Úroveò:
+Typ suroviny:
+Dialog - úprava možnosti startovního hrdiny
+Úprava možnosti startovního hrdiny
+Identita &hrdiny:
+&Pozice hráèe:
+Dialog - Nová kampaò
+Nová kampaò 
+&Mapa kampanì:
+Verze kampanì
+&Meè zkázy
+&Stín smrti
+Vlastnosti scénáøe - stránka pøenosu
+Možnosti pøenosu
+Cestující hrdina si pøenáší:
+Zkuš&enosti
+&Základní schopnosti
+Druh&otné schopnosti
+&Kouzla
+&Artefakty
+&Typy bojovníkù:
+&Všechny
+Žá&dné
+Pøenášené a&rtefakty:
+Vlastnosti scénáøe - stránka Obecné
+Obecné
+Jméno krajiny:
+&Barva krajiny:
+Název scénáøe:
+Soubor s mapou
+&Vložit...
+&Aktualizovat...
+V&ytáhnout...
+Odst&ranit
+Zákla&dní obtížnost:
+&Musí být odehráno:
+Text krajiny &pravý-klik:
+Vlastnosti scénáøe - stránka Úvod
+&Animace:
+H&udba:
+&Zpráva:
+Vlastnosti scénáøe - stránka Volby pøi startu
+Volby pøi startu
+Možné volby pøi startu:
+Možnosti &startovního bonusu
+Možnosti &cestujícího hrdiny
+Možnosti startovního &hrdiny
+&Pozice hráèe
+Možnosti startovního b&onusu
+Pøid&at...
+&Upravit...
+Odst&ranit
+Zdrojový scénáø
+Hrdina
+Text hlavního menu
+&Soubor
+Úpr&avy	
+&Nápovìda	
+Menu Soubor	
+&Nový…	Ctrl+N
+&Otevøít…	Ctrl+O
+&Uložit	Ctrl+S
+Uložit j&ako…	
+Uložit texty &z kampanì...	
+Vložit texty &do kampanì...	
+Aktualizovat &mapy scénáøù	Ctrl+R
+Vytáhnout mapy &scénáøù	Ctrl+E
+Poslední otevøené soubory	
+&Konec	
+Menu úprav	
+Nastavení &kampanì…	Ctrl+Enter
+Nastavení &scénáøe…	Enter
+Menu nápovìda
+&Seznam témat nápovìdy
+&O editoru kampaní…

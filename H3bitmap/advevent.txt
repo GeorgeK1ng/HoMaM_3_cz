@@ -1,0 +1,423 @@
+"Vstoupil jsi do arény a vidíš nìkolik agresivních lvù. Lehce jsi je porazil a sklidil divokı potlesk. Kdy starı gladiátor uvidìl tvoji obratnost, nabídl ti, e tì mùe ještì lépe vytrénovat v obranì nebo v útoku. Záleí na tvé volbì."
+"Strá pøed arénou tì odmítá pustit dovnitø.  ""U jsi pøedvedl, e jsi nejlepší.  Teï odsud táhni."""
+"Nemùeš sebrat tento artefakt, nemáš dost místa!"
+"{Artefakt}
+
+Našel jsi skromné obydlí poustevníka.  Poustevník ti øekl, e svùj artefakt %s odevzdá prvnímu moudrému hrdinovi, kterı ho navštíví."
+"{Artefakt}
+
+Našel jsi sparanské obydlí ukrytého vojáka.  Voják ti øekl, e svùj artefakt %s odevzdá prvnímu opravdovému veliteli armády, kterı ho navštíví."
+"{Artefakt}
+
+Skøítek ti nabízí %s za smìšnou cenu 2000 zlaákù.  Chceš si koupit tento artefakt?"
+"{Artefakt}
+
+Skøítek ti nabízí %s za smìšnou cenu 2500 zlaákù a 3 ks %s.  Chceš si tento artefakt koupit?"
+"{Artefakt}
+
+Skøítek ti nabízí %s za smìšnou cenu 3000 zlaákù a 5 ks %s.  Chceš si tento artefakt koupit?"
+"Vyhrál jsi, vezmi si svoji cenu, artefakt %s."
+"{Artefakt}
+
+Našel jsi starobylı artefakt.  Kdy ses ho pokusil sebrat, vyskoèila na tebe skupinka hlídaèù, kteøí ho støeili.  Bez boje se to asi neobejde."
+"{Artefakt}
+
+Zdálky pozoruješ nìjakı starobylı artefakt.  Bohuel, hlídají ho %s.  Chceš bojovat s %s o tento artefakt?"
+"Rozvaha je lepší èást odvahy, a tak se rozhodneš pro dnešní den se boji vyhnout."
+"Pokusil ses skøítkovi zaplatit, bohuel na to nemáš dost zdrojù.  Skøítek si tì pohrdlivì zmìøil a dál u si tì nevšímá."
+"Svım odmítnutím jsi skøítka urazil a u si tì dál nevšímá."
+Chceš otevøít skøíòku?
+"Opatrnì jsi nakoukl dovnitø.  Bohuel, nic tam není, skøíòka je prázdná."
+Mìl ses rozhodnout lépe - nìco na tebe zaútoèilo!
+"Kdy jsi pøijel blí, pøistoupil k tobì stránı. ""Vítej.  Dostali jsme zprávu o tvém pøíjezdu.  Chceš teï otevøít závoru?"""
+"""Nikdo mi neøekl o tvém pøíjezdu,"" oznamuje ti stráce vìe.  ""Nemohu tì nechat projet.  Mìl bys nejdøíve navštívit klíèníkùv stan."""
+"Klíèník ve stanu tì s radostí vítá.  ""Ach, koneènì dorazil náš hrdina."" A pokraèuje: ""Hned vzkáu stráci vìe, aby tì pustil, kdykoli si to budeš pøát."""
+"Klíèník ve stanu tì poznal hned, jak jsi vešel.  ""U jsem ti øíkal, e tì stráce pustí dál."" øíká.  ""Teï u jdi."""
+"{Bóje}
+
+Zahlédl jsi navigaèní bóji, která potvrzuje, e váš kurz je správnı. Tato informace hned zvedla morálku tvıch bojovníkù."
+"{Bóje}
+
+Zahlédl jsi navigaèní bóji, která potvrzuje, ze váš kurz je správnı."
+"{Táborák}
+
+Prohledal jsi zbytky nepøátelského táboøištì a našel jsi skrıš s poklady."
+"U jsi vidìl všechny moje mapy, tak bì pryè."
+Našel jsi starého rybáøe, kterı má podrobné mapy všech moøí, které kdy vidìl.  Chceš si koupit mapy všech moøí za 1000 zlaákù?
+Našel jsi kartografa, kterı prodává mapu pevniny za 1000 zlaákù.  Chceš si ji koupit?
+Našel jsi starého horníka, kterı si z døívìjších dob nechal nìjaké mapy podzemí.  Je ochoten je prodat za 1000 zlaákù.  Chceš si je koupit?
+"Za svoje mapy chci 1000 zlaákù, ale ty je nemáš.  Take laskavì neplıtvej mım drahocennım èasem."
+"{Labutí jezírko}
+
+Dìtské pohádky tvrdí, e èervená labu je pøedzvìstí velkého štìstí.  Rozhodl ses strávit zde zbytek dne."
+"{Labutí jezírko}
+
+Dìtské pohádky tvrdí, e èervená labu je pøedzvìstí velkého štìstí.  Ale ještì stále jsi poehnán štìstím od své poslední návštìvy. Jeliko u zde nic dalšího nezískáš, pokraèuješ hned dál."
+"{Závoj temnoty}
+
+Dotkl ses Závoje temnoty a zemì kolem tebe se ponoøila do tmy, kterou mùe proniknout pouze tvùj zrak."
+Našel jsi %s.  Chceš zaútoèit na hlídku?
+"Našel jsi stavbu, která kdysi slouila jako %s, ale u tu nic není."
+"Kdy jsi porazil %s, našel jsi %s."
+"{%s }
+
+Chceš najmout jednotku %s?"
+"{%s }
+
+Chceš najmout jednotku %s, %s, %s nebo %s?"
+"{Kostra}
+
+Narazil jsi na zbytky neúspìšného dobrodruha.  Prohledal jsi jeho ztrouchnivìlé kosti a našel jsi "
+"{Kostra}
+
+Narazil jsi na zbytky neúspìšného dobrodruha.  Prohledal jsi jeho ztrouchnivìlé kosti, ale nic jsi nenašel."
+"{Obranná vì }
+
+Vojáci ijící ve vìi tì nauèili novım obrannım trikùm."
+"{Obranná vì }
+
+""Je mi líto, pane,"" øíká velitel vojákù, ""ale u znáš vše, co jsme tì mohli nauèit."""
+"{Opuštìná loï }
+
+Ztrouchnivìlá pirátská loï tajemnì vre, kdy naráí na moøské útesy.  Chceš tuto loï prohledat?"
+Po poráce vodních elementálù jsi strávil nìkolik hodin prohledáváním lodì, ale nic jsi nenašel.  Tento ohavnı èin podlomil morálku tvého mustva.
+Po poráce vodních elementálù jsi prohledal zbytek lodì a nìco jsi našel!
+"{%s }
+
+Tábor je momentálnì prázdnı.  Zkus to znova pøíští tıden."
+%s
+"{Draèí utopie}
+
+Tento text by se ti nemìl objevit.  Jestli ho vidíš, je to další bug."
+"{Draèí utopie}
+
+Stojíš pøed Draèí utopií, místem, které je hranicí pro bezvıznamné lidi.  Pøeješ si ji porušit a vyzvat draky k boji?"
+"Toto divné oko se otáèí, a kdy ses pøiblíil, zaèalo si tì prohlíet. Po chvilce se opìt vrátilo k prozkoumávání okolní krajiny. Máš neodbytnı pocit, e nìkdo, nebo nìco ze vzdálené oblasti pouívá toto oko ke špionái."
+"{Kouzelnı kruh}
+
+Vstoupil jsi do kouzelného kruhu a tví bojovníci získali štìstí pro následující bitvu."
+"{Kouzelnı kruh}
+
+Vstoupil jsi do kouzelného kruhu, ale nic se nestalo."
+"{Plovoucí trosky}
+
+Prohledal jsi plovoucí trosky, ale nic jsi nenašel."
+"{Plovoucí trosky}
+
+Prohledal jsi plovoucí trosky a našel jsi nìjaké døevo."
+"{Plovoucí trosky}
+
+Prohledal jsi plovoucí trosky a našel jsi nìjaké døevo a trochu zlata."
+"{Plovoucí trosky}
+
+Prohledal jsi plovoucí trosky a našel jsi nìjaké døevo a trochu zlata."
+"{Fontána štìstí }
+
+Napil ses hoøkosladké vody a cítíš, jak se tvé štìstí zmìnilo."
+"{Fontána štìstí }
+
+Napil ses z kouzelné fontány, ale nic se nestalo."
+"{Fontána mládí }
+
+Napil ses vody z fontány a cítíš se opìt mladı!  Kdy tví bojovníci spatøili tvoji promìnu, hned jim stoupla morálka pro následující bitvu a jsou ochotní ujít ještì další kus cesty."
+"{Fontána mládí }
+
+Napil ses z kouzelné fontány, ale nic se nestalo."
+"{Zahrada objevù }
+
+Knìz sedící uprostøed zahrady tì vyzval ke spoleèné meditaci. Po krátké meditaci se cítíš osvícenı."
+"{Zahrada objevù }
+
+Vstoupil jsi do zahrady, ale mnich tì poznal a øíká: ""Mùj synu, poehnání znalosti mùe kadı dostat jen jednou za ivot."""
+Vstoupil jsi do roztøesené chatrèe a hovoøíš s mágem, kterı zde ije.  Mág ti vypráví o blízkıch a vzdálenıch místech, na které mùeš na svıch cestách narazit .
+"{Soška štìstí }
+
+Našel jsi starou, zvìtralou kamennou sošku.  Pøedpokládáš, e po políbení sošky budeš mít štìstí , tak to udìláš. Kámen je na dotyk velice studenı."
+"{Soška štìstí }
+
+Našel jsi starou, zvìtralou kamennou sošku.  Dá se pøedpokládat, e by ti mohla zvıšit štìstí, , ale šastná hvìzda u tì provází, take se nic nestalo."
+"{Kùlna}
+
+Našel jsi opuštìnou kùlnu.  Zvìdavì jsi ji prohledal a našel jsi nìjaké ukryté suroviny."
+"{Kùlna}
+
+Tato kùlna je u opuštìná dlouho.  Nic hodnotného tu není."
+"{Knihovna}
+
+Správce tì pouští do knihovny.  Bìhem krátkého èasu sis osvojil mnoho zajímavıch dovedností."
+"{Knihovna}
+
+Správce tì poznal a odmítá tì pustit dovnitø.  ""Naši knihovnu,"" povídá, ""mùe kadı hrdina navštívit jen jednou."""
+"{Knihovna}
+
+Správce otevøel dveøe a prohlédl si tì od hlavy k patì.  ""Nejsi dost zkušenı, ani nejsi diplomat, abych tì mohl pustit do naší knihovny,"" zafuní.  ""Vra se zpìt, a nasbíráš nìjaké zkušenosti."""
+"{Maják}
+
+Tento maják je nyní pod tvou správou a všechny tvé lodì nyní budou moci kadé kolo urazit vìtší kus cesty."
+"Tato stavba je nejspíš cestovní brána, ale zdá se, e u není funkèní."
+"{ Škola magie}
+
+Vzduch v této škole je prosycen magickou energií.  Ministrant ti nabízí postup na vyšší magickı stupeò za 1000 zlaákù.  Mùeš si vybrat, zda si zvıšíš své znalosti, nebo dáš pøednost síle kouzel."
+"{ Škola magie}
+
+Ve vzduchu se vznáší podoba starého èarodìje.  ""Mistøe,"" øíká, ""u umíš vše, nyní bychom se mohli uèit my od tebe."""
+"{ Škola magie}
+
+Vzduch v této škole je prosycen magickou energií.  Ministrant ti øíká, e mùeš postoupit na vyšší magickı stupeò, ale momentálnì nemáš 1000 zlaákù, kterımi bys mohl za tuto slubu zaplatit."
+"{Magickı pramen}
+
+Po napití se z pramene cítíš, jak ti do krve vstupuje magická energie!  Nyní máš dvakrát více magické energie."
+"{Magickı pramen}
+
+Magickı pramen poskytuje energii jen jednou tıdnì a tento tıden u zde nìkdo pil."
+"{Magickı pramen}
+
+Po napití se z pramene jsi oèekával, e dostaneš dvojnásobek magické energie, ale nic se nestalo, protoe u toto maximum máš."
+"{Magická studna}
+
+Po napití se ze studny se tvá magická energie obnovila na maximum."
+"{Magická studna}
+
+Druhé napití ze studny v rámci jednoho dne ti nepomùe."
+"{Magická studna}
+
+Po napití se ze studny jsi oèekával obnovení magické energie, ale u ji máš na maximu."
+"{Tábor oldákù }
+
+Vstoupil jsi do tábora, kde oldáci trénují své útoèné umìní.  Ochotnì tì uvítali mezi sebou a nauèili tì nové finty."
+"{Tábor oldákù }
+
+Vstoupil jsi do tábora, kde oldáci trénují své útoèné umìní.  ""Jsi pro nás pøíliš zkušenı,"" øíká starı kapitán oldákù.  ""U tì nemùeme nic nového nauèit."""
+"{Moøská panna}
+
+Moøská panna ti tiše radí, abys pøišel pozdìji po bitvì, a pak ti opìt poehná."
+"{Moøská panna}
+
+Magicky konejšivá krása moøské panny zasáhla tebe i tvou posádku. Zapomnìl jsi na své starosti a pro tento okamik se tìšíš její krásou. Moøská panna vám ehná, co vám urèitì v další bitvì pøinese štìstí."
+Pøišel jsi k opuštìnému dolu.  Vypadá to, e u se tam usídlili troglodyti.  Pøeješ si vstoupit?
+Vytloukl jsi troglodyty a obnovil tìbu v dole.
+"{Pøíznivci}
+
+Potulná parta, kterou tvoøí %s, se k tobì touí pøidat. Vezmeš je? "
+"Tvé odmítnutí bojovníky urazilo a hned na tebe zaútoèili!"
+"Tito %s se k tobì pøidají, pokud jim zaplatíš %d zlaákù.  Souhlasíš?"
+"Díky tvım diplomatickıch schopnostem ti potulní bojovníci uèinili tuto nabídku:
+
+"
+Všech %d bojovníkù %s se k tobì pøidá za cenu %d zlatıch.  Souhlasíš?
+"Bojovníci %s, kdy spatøili tvoji sílu, zaèali zbabìle utíkat. Chceš je pronásledovat a rozdrtit?"
+"{Mystická zahrada}
+
+Zvuk hudby tì zavede do malé zahrady, kde pozoruješ skøítka, kterı tanèí v rytmu hudby.  Povede se ti ho chytit. Vımìnou za svou svobodu ti skøítek dá svùj malı poklad."
+"{Mystická zahrada}
+
+Zvuk hudby tì zavede do malé zahrady, kde pozoruješ skøítka, kterı tanèí v rytmu hudby.  Pokusil ses ho chytit, ale byl rychlejší a utekl. Snad se ti to povede pøíští tıden."
+"{Oáza}
+
+Voda z jezírka v oáze byla osvìující, ale nic zvláštního se nestalo. Vìtší osvìení ti pøinese, kdy ji navštívíš po nìjaké bitvì."
+"{Oáza}
+
+Voda z jezírka v oáze naplnila tvé oddíly silou a pozvedla jejich bojového ducha.  Nyní mùeš urazit ještì další kus cesty."
+"{Obelisk}
+
+Pøicházíš k obelisku, kterı je vytvoøen z kamene, jakı jsi ještì nevidìl.  Pod tvım upøenım pohledem se najednou na kameni zaèal objevovat kus nìjaké starobylé mapy. Rychle sis ji poznamenal, po chvilce mapa opìt zmizela."
+"{Obelisk}
+
+Tento obelisk jsi u prohlíel."
+"{Rozhledna}
+
+Z vysoké rozhledny sis prohlédl velkou èást okolní krajiny."
+"{Pilíø ohnì }
+
+Našel jsi vysokou vì, která byla prosycená plynem. Kdy jsi ho zapálil, trochu jsi prosvìtlil tmu v podzemních chodbách."
+"{Hvìzdice}
+
+Našel jsi nìkolik nejlepších astrologù, kteøí se shromádili pod magickou hvìzdicí.  Jsou velice potìšeni, e mají spoleènost, a nauèili tì vyuít vlivu slunce, mìsíce a hvìzd na sílu kouzel."
+"{Hvìzdice}
+
+Našel jsi nìkolik nejlepších astrologù, kteøí se shromádili pod magickou hvìzdicí.  Chvíli sis s nimi povídal, ale brzo jsi zjistil, e se od nich u nic nového nenauèíš."
+"Rozhodl ses osvobodit vìznì z místního vìzení. Podaøilo se ti znièit mohutnı zámek a dveøe vìzení se otevøely. Šastnı vìzeò ti dìkuje za osvobození a hodlá tì provázet na tvıch cestách."
+"U máš 8 hrdinù, a tak, aè nerad, musíš nechat vìznì dál hnít ve vìzení po zbytek jeho ivota."
+ aláøník ti sdìlil, e vìzení je prázdné, protoe vìzeò byl omilostnìn králem, kterı ho sem pùvodnì umístil.
+"Pøišel jsi k pyramidì dávného mocného krále.  Jsi zvìdav, jaká kouzla se uvnitø ukrıvají, ale staré povìsti varují pøed kletbou a magickımi hlídaèi.  Pøeješ si vstoupit?"
+"Po poráce umìlıch monster se ti podaøilo rozšifrovat nápis na starobylé rytinì na zdi. Je zde popsáno mocné kouzlo - "
+Vstoupil jsi do pyramidy dávného mocného krále.  Po rutinní prohlídce jsi zjistil, e pyramida je zcela prázdná.
+"  Tvé schopnosti na pochopení tohoto kouzla bohuel nestaèí, take ses ho nenauèil a nebudeš jej moci pouívat."
+"  Bohuel, nemáš knihu kouzel, aby sis mohl toto kouzlo zapsat."
+"{Shromadištì }
+
+Tvoji bojovníci jsou shromádìni kolem vlajky."
+"{Shromadištì }
+
+Shromádil jsi své bojovníky kolem vlajky. Vidíš, jak do nich vstupuje bojovı duch a jak se zlepšuje jejich morálka.  Dnes budeš moci urazit ještì další kus cesty."
+"{%s }
+
+Chceš najmout jednotku %s?"
+Našel jsi malé mnoství %s.
+Vstoupil jsi do svatynì a hned cítíš, jako by z tebe nìkdo sundal tìké bøímì.  Cítíš se zde naprosto bezpeènì.
+"Po pøíchodu na mıtinku jsi zahlédl uèence z univerzity.  Ochotnì tì nauèil nìco nového, co by ti mìlo pomoci na cestách."
+"{Truhla}
+
+Strávil jsi spoustu èasu pøi pokusu o vylovení truhly z moøe, a kdy se ti to nakonec povedlo, tak jsi zjistil, e je úplnì prázdná. To je pech."
+"{Truhla}
+
+Strávil jsi spoustu èasu pøi pokusu o vylovení truhly z moøe, a kdy se ti to nakonec povedlo, tak jsi v ní našel 1000 zlata a %s."
+"{Truhla}
+
+Strávil jsi spoustu èasu pøi pokusu o vylovení truhly z moøe, a kdy se ti to nakonec povedlo, tak jsi v ní našel 1500 zlata."
+"{Krypta}
+
+Pøiblíil ses ke kryptì, kde jsou uschovány ostatky známıch váleèníkù.  Chceš ji prohledat?"
+Po zlikvidování nemrtvıch stráí jsi strávil nìkolik hodin prohledáváním hrobù, ale nic jsi nenašel.  Tento ohavnı èin vıraznì sníil morálku tvıch bojovníkù.
+Po zlikvidování nemrtvıch stráí jsi prohledal hroby a nìco jsi našel!
+"{Vrak}
+
+Nahnilı vrak lodì velkého piráta tajemnì vre pøi nárazech na skály.  Pøeješ si jej prohledat?"
+Po zlikvidování hlídky jsi strávil nìkolik hodin prohledáváním trosek, ale nic jsi nenašel.  Tento ohavnı èin podlomil morálku tvého mustva.
+Po zlikvidování hlídky jsi prohledal trosky a nìco jsi našel!
+"{Troseèník}
+
+Vylovil jsi  z vln nemilosrdného oceánu vyèerpaného troseèníka.  Troseèník ti z vdìènosti daroval %s."
+"{Troseèník}
+
+Vylovil jsi z vln nemilosrdného oceánu vyèerpaného troseèníka.  Troseèník je ti hroznì vdìènı a øíká: ""Dal bych ti jako odmìnu artefakt, ale bohuel u ve svém zavazadle nemáš ádné volné místo."""
+"{Kaple èarovného zaøíkávání }
+
+Pøišel jsi k malé kapli, kde se modlí skupinka mladıch ministrantù.  Jako odmìnu za tvoji ochranu jsou pøipraveni nauèit tì jednoduché kouzlo - "
+"{Kaple èarovnıch posunkù }
+
+Pøišel jsi k malé kapli, kde se modlí skupinka obtloustlıch mnichù.  Jako odmìnu za tvoji ochranu jsou pøipraveni nauèit tì kouzlo -  "
+"{Kaple èarovné myšlenky}
+
+Pøišel jsi k malé kapli, kde se modlí skupinka vyšších knìí.  Jako odmìnu za tvoji ochranu ti nabídli, e tì nauèí sloitìjší kouzlo - "
+"  Tvé schopnosti na pochopení tohoto kouzla bohuel nestaèí, take ses ho nenauèil a nebudeš ho moci pouívat."
+"  Bohuel, nemáš knihu kouzel, aby sis mohl toto kouzlo zapsat."
+"Tajemná píseò sirén se rozléhá po okolních útesech.  Mnozí tví bojovníci podlehli kouzlu této písnì a skoèili do temnıch hlubin oceánu.  Pouèil ses z této nepøíjemné události a získal jsi %d zkušeností."
+Zacpal jsi své posádce uši voskem, take sirény nemají šanci je svou tajemnou písní zlákat do vodních hlubin.
+"Kdy sirény zazpívaly svou tajemnou píseò, tvá malá odhodlaná armáda jejich svodùm odolala a neskoèila do moøe."
+Našel jsi kouzelnı svitek, na kterém je popsáno pouití kouzla %s.  Schoval sis svitek do svého zavazadla.
+"{Stáje}
+
+U jsi tento tıden stáje navštívil."
+"{Stáje}
+
+Správce stájí ti vymìnil tvé unavené konì za odpoèinuté, kteøí zrychlí tvùj pohyb do konce tohoto tıdne."
+"{Stáje}
+
+Správce stájí ti vymìnil tvé unavené konì za odpoèinuté, kteøí zrychlí tvùj pohyb do konce tohoto tıdne. Navíc vytrénoval všechny tvé jezdce na šampiony."
+"{Stáje}
+
+Správce stájí ti vymìnil tvé unavené konì za odpoèinuté, kteøí zrychlí tvùj pohyb do konce tohoto tıdne. Navíc vytrénoval všechny tvé jezdce na šampiony."
+"{Chrám}
+
+Po modlitbì v chrámu se zvıšila morálka tvıch oddílù."
+"{Chrám}
+
+Druhá modlitba pøed bitvou u nemìla ádnı úèinek.  Vra se sem pozdìji."
+"{Skrıš špionù }
+
+Kdy jsi prohledal køovinatı podrost, našel jsi ukrytı vchod do skrıše špionù.  ""Staøí známí"" ti prozradili vše, co zjistili svou vızvìdnou slubou."
+"{Kámen poznání }
+
+Kdy ses pøiblíil, na pøední stranì hladkého kamene se objevil vír.  Podíval ses do nìj a najednou vidíš odpovìdi na otázky, které se ti honily hlavou.  Kámen se vrací do svého klidného stavu, ale u ses nauèil dost."
+"{Kámen poznání }
+
+Pøiblíil ses v oèekávání, e se opìt nauèíš nìco nového, ale s kamenem se nic nedìje, jen odráí sluneèní svìtlo."
+"{Truhla}
+
+Po prohledání této oblasti jsi našel ukrytou truhlu, ve které se nacházel starobylı artefakt '%s'."
+"{Truhla}
+
+Po prohledání této oblasti jsi našel ukrytou truhlu se zlatem.  Mùeš si zlato nechat, nebo ho rozdìlit mezi rolníky, a tak získat zkušenosti.  Co si vybereš?"
+"{Strom znalostí }
+
+Kdy jsi pøišel blí, strom radostnì otevøel oèi.  ""Rád tì opìt vidím, mùj studente.  Doufám, e ti má vıuka pomohla."""
+"{Strom znalostí }
+
+Kdy jsi pøišel blí, strom radostnì otevøel oèi.  ""Ach, dobrodruh!  Rád tì nauèím nìco málo z toho, co jsem bìhem vìkù pochytil."""
+"{Strom znalostí }
+
+Kdy jsi pøišel blí, strom radostnì otevøel oèi.  ""Ach, dobrodruh! Rád tì nauèím nìco málo z toho, co jsem bìhem vìkù pochytil. A to jen za pouhıch 2000 zlaákù. Zakopej je mezi mé koøeny."""
+"{Strom znalostí }
+
+V oèích stromu se objevily slzy.  ""Potøebuji 2000 zlaákù,"" zašeptal. (fòuk)  ""Vra se zpìt, a mi budeš moci zaplatit."""
+"{Strom znalostí }
+
+Kdy jsi pøišel blí, strom radostnì otevøel oèi.  ""Ach, dobrodruh! Rád tì nauèím nìco málo z toho, co jsem bìhem vìkù pochytil. A to za pouhıch 10 drahokamù.""  (Zakopej je mezi mé koøeny.) "
+"{Strom znalostí }
+
+V oèích stromu se objevily slzy.  ""Potøebuji 10 drahokamù,"" zašeptal. (fòuk)  ""Vra se zpìt, a mi budeš moci zaplatit."""
+Pøesnì uprostøed vchodu je velká hromada sutin, která blokuje tunel. Znechucen odcházíš.
+"{Vagón}
+
+Procházíš kolem starého vagónu, kterı zde obchodník zanechal bez zabezpeèení.  Uvnitø jsi našel neporušenı náklad surovin."
+"{Vagón}
+
+Procházíš kolem starého vagónu, kterı zde obchodník zanechal bez zabezpeèení.  Uvnitø jsi našel '%s'."
+"{Vagón}
+
+Procházíš kolem starého vagónu, kterı zde obchodník zanechal bez zabezpeèení.  Bohuel,  nìkdo ho u asi našel døív a vagón je prázdnı."
+"{Továrna na bojové stroje}
+
+Chceš si koupit nìjakı bojovı stroj?"
+"{ Škola války}
+
+Zjizvenı instruktor školy války zavrèel, kdy jsi pøišel blí.  Navrhuje ti, e za 1000 zlaákù ti mùe vylepšit tvé útoèné nebo obranné schopnosti. Co si vybereš?"
+"{ Škola války}
+
+Hlavní instruktor se hlasitì rozesmál, kdy jsi po nìm chtìl další vıcvik.  ""Vdy ses u u nás uèil!"" zahulákal."
+"{ Škola války}
+
+Zjizvenı instruktor školy války zavrèel, kdy jsi pøišel blí.  Za 1000 zlaákù by ti mohl vylepšit tvé útoèné nebo obranné schopnosti, ale momentálnì nemáš dost zlata."
+Našel jsi místo posledního odpoèinku bezejmenného váleèníka.  Chceš prohledat jeho hrobku?
+"Tvoji bojovníci neochotnì vstoupili do hrobky, našli tam sice %s, ale tento odpornı skutek zcela demoralizoval tvoji armádu."
+"Tvoji bojovníci neochotnì vstoupili do hrobky, ale nenašli tam nic cenného.  Tento odpornı skutek zcela demoralizoval tvoji armádu."
+"{Vodní mlın}
+
+Mlynáø ti oznámil: ""Mùj pane, celı tıden jsem tvrdì pracoval, abych vydìlal nìjaké zlato.  Vezmi si toto a pro další pøijï opìt za tıden."""
+"{Vodní mlın}
+
+Mlynáø ti oznámil: ""Mùj pane, je mi líto, ale u nic nemám, tento tıden jsem u svoje danì zaplatil.  Pøijï znova pøíští tıden."""
+"{Jezírko}
+
+Voda z jezírka naplnila tvé oddíly silou a pozvedla jejich bojového ducha.  Nyní mùeš urazit ještì další kus cesty."
+"{Jezírko}
+
+Voda z jezírka byla osvìující, ale nic zvláštního se nestalo. Vìtší osvìení ti pøinese, kdy jezírko navštívíš po nìjaké bitvì."
+"{Vodní vír}
+
+Vodní vír pohltil tvoji loï.  Nìkteøí slabší bojovníci pøepadli pøes palubu."
+"{Vìtrnı mlın}
+
+Mlynáø ti oznámil: ""Mùj pane, je mi líto, ale u ádné další suroviny nemám.  Pøijï znova pøíští tıden."""
+"{Vìtrnı mlın}
+
+Mlynáø ti oznámil: ""Mùj pane, celı tıden jsem tvrdì pracoval, abych pro tebe opatøil nìjaké suroviny.  Vezmi si tyto a pro další pøijï znovu za tıden."""
+"{Chata vìdmy}
+
+Stará vìdma, která ije v této podivné chatì, tì pøivítala a nauèila tì schopnosti  %s. Kdo ví, jaké cíle tím sleduje..."
+"{Chata vìdmy}
+
+Vstoupil jsi do podivné chaty a pozoruješ starou vìdmu, jak studuje letitı svazek o schopnosti %s.  Kdy tì zahlédla, otoèila se a øíká:  ""U znáš vše, co bych tì mohla nauèit.  Víc ti nepomohu."""
+"{Chata vìdmy}
+
+Vstoupil jsi do podivné chaty a pozoruješ starou vìdmu, jak studuje letitı svazek o schopnosti %s.  Kdy tì zahlédla, otoèila se a zaostøila na tebe svoje sklenìné oko.  ""HA!"" zaskøehotala, ""Ani se nebudu pokoušet uèit novım trikùm nìkoho tak moudrého, jako jsi ty.""  Odcházíš, ale nemùeš se zbavit dojmu, e tì vìdma urazila."
+"  Toto kouzlo u bohuel znáš, a tak tu není nic nového, co by ses mohl nauèit."
+%s se uèí nìco nového.
+%s ztrácí magickou energii.
+%s získává magickou energii.
+Hrdinovi %s klesá morálka.
+Hrdinovi %s se zvyšuje morálka.
+Hrdinovi %s pokleslo štìstí.
+Hrdinovi %s se zvyšuje štìstí.
+%s ztrácí poklad.
+%s nachází poklad.
+%s se uèí kouzlo.
+%s se pøidává k armádì %s.
+%s se pøidávají k armádì %s.
+"Bohuel, vlastník zde nechal nìjakou hlídku.  Chceš s ní bojovat?"
+%s se uèí kouzla.
+"Toto je opuštìnı pøístav.  Bohuel, cesty k moøi jsou zablokované, tak tu není moné postavit loï."
+"{Chata vìdmy}
+
+Pøiblíil ses k chatì vìdmy, ale vidíš, e chatrè je zcela opuštìná."

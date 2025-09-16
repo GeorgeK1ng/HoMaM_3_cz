@@ -1,0 +1,375 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+gStatDesc
+"{ Útok}
+
+ Útoèná síla hrdiny je bonus, který se pøidá k útoèné síle všech bojovníkù v armádì hrdiny. Útoèná síla zvyšuje škody zpùsobené nepøíteli v boji."
+"{Obrana}
+
+Obranná síla hrdiny je bonus, který se pøidá k obranné síle všech bojovníkù v armádì hrdiny. Obranná síla snižuje škody, které ti zpùsobí nepøítel v boji."
+"{Síla kouzel}
+
+Síla kouzel urèuje sílu a délku trvání seslaného zaklínadla."
+"{Znalosti}
+
+Znalosti urèují maximum magické energie, kterou mùže hrdina mít. Za každý bod znalostí dostane hrdina 10 jednotek magické energie, pokud si tento poèet nezvýší jinou schopností."
+gLuckText
+Prokleté 
+Hrozné 
+ Špatné 
+Normální 
+Dobré 
+Skvìlé 
+Vynikající 
+gMoraleText
+Zrádci!
+Hrozná 
+Nízká 
+Normální 
+Dobrá 
+Výborná 
+Do útoku!
+gOwnedByColor
+Obsazeno èerveným hráèem
+Obsazeno modrým hráèem
+Obsazeno hnìdým hráèem
+Obsazeno zeleným hráèem
+Obsazeno oranžovým hráèem
+Obsazeno fialovým hráèem
+Obsazeno tyrkysovým hráèem
+Obsazeno rùžovým hráèem
+gMonthNames
+Kobylka
+Mravenec
+Sluníèko
+Pavouk
+Motýl
+ Èmelák
+Cvrèek
+ Žížala
+Sršeò 
+Brouk
+gWeekNames
+Veverka
+Králík
+Bažant
+Jezevec
+Krysa
+Orel
+Lasièka
+Havran
+Husa
+Pes
+Liška
+Ještìrka
+ Želva
+Ježek
+Kondor
+cLuckInfo
+"{Velké štìstí }
+
+Velké štìstí dává šanci, že tví bojovníci èas od èasu zpùsobí nepøíteli dvojnásobné škody."
+"{Neutrální štìstí }
+
+Neutrální štìstí znamená, že tvá armáda nebude mít pøi útoku ani smùlu, ani štìstí."
+"{Smùla }
+
+Smùla nìkdy zpùsobí, že se oddílu útok nevyvede (zpùsobí nepøíteli jen polovièní škody)."
+"%s
+
+
+{Aktuální štìstí upravuje:}"
+"
+Klidné oko draka +1"
+"
+ Ètyølístek +1"
+"
+Vìštecké karty +1"
+"
+Soška ptáka +1"
+"
+Návštìva labutího jezírka +2"
+"
+Návštìva sošky štìstí +1"
+"
+Návštìva fontány štìstí %s"
+"
+Návštìva pyramidy -2"
+"
+Návštìva kouzelného kruhu +1"
+"
+Návštìva moøské panny +1"
+"
+Návštìva oslavy +1"
+"
+Základní štìstí +1"
+"
+Lepší štìstí +2"
+"
+Expert štìstí +3"
+"
+Nic"
+"
+-%d doèasnì do následující bitvy"
+"
++%d doèasnì do následující bitvy"
+"
+Pøívìsek odvahy +3"
+"
+Na prokleté zemi se úèinek štìstí neprojeví"
+"
+%s potlaèuje veškeré štìstí "
+"
+Bojovníci neutrálního mìsta na Poli ètyølístkù +2"
+cMoraleInfo
+"{Vysoká morálka}
+
+Vysoká morálka mùže znamenat jeden útok navíc."
+"{Normální morálka}
+
+Normální morálka znamená, že oddíly tvé armády nemají šanci dostat útok navíc, ale ani je bìhem boje neochromí strach."
+"{Nízká morálka}
+
+Nízká morálka mùže zpùsobit, že oddíl bìhem boje ochromí strach, takže vùbec nezaútoèí."
+"%s
+
+
+{Aktuální morálku upravuje:}"
+"
+Klidné oko draka +1"
+"
+Medaile za stateènost +1"
+"
+Erb udatnosti +1"
+"
+Znamení chrabrosti +1"
+"
+Návštìva sošky štìstí +1"
+"
+Návštìva bóje +1"
+"
+Návštìva oázy +1"
+"
+Návštìva chrámu +1"
+"
+Návštìva chrámu v nedìli +2"
+"
+Návštìva hrobky -1"
+"
+Návštìva vraku -1"
+"
+Návštìva jezírka +1"
+"
+Návštìva opuštìné lodi -1"
+"
+Návštìva oslavy +1"
+"
+Návštìva fontány mládí +1"
+"
+Návštìva hrobky váleèníka -3"
+"
+Základní vedení +1"
+"
+Lepší vedení +2"
+"
+Expert vedení +3"
+"
+Nic"
+"
+-%d doèasnì do následující bitvy"
+"
++%d doèasnì do následující bitvy"
+"
+Pøívìsek odvahy +3"
+"
+Na prokleté zemi se úèinek morálky neprojeví"
+"
+Neovlivnìný morálkou"
+"
+Bojovníci z %d typù mìst dostávají %d"
+"
+Všechny oddíly z 1 typu mìsta +1"
+"
+Nemrtví v armádì -1"
+"
+%s v armádì +1"
+"
+Spatøení %s -1"
+"
+%s potlaèuje vysokou morálku"
+"
+%s má vždy kladnou morálku"
+"
+Kouzla %+d"
+"
+Na domácí pùdì +1"
+"
+Bojovníci z mìst dobra na svaté zemi +1"
+"
+Bojovníci z mìst zla na svaté zemi -1"
+"
+Bojovníci z mìst zla v mlze zla +1"
+"
+Bojovníci z mìst dobra v mlze zla -1"
+cNewTurn
+"%s, zbývá ti pouze %d dní na dobytí nìjakého mìsta, jinak budeš vyhozen ze hry."
+"%s, dnes máš poslední den na dobytí nìjakého mìsta, jinak budeš vyhozen ze hry."
+"Podle astrologù bude tento mìsíc vládnout %s.
+
+Všechna obydlí zvyšují svoji populaci."
+"Podle astrologù bude tento mìsíc vládnout %s.
+
+%s populace se zdvojnásobuje!
+
+Všechna obydlí zvyšují svoji populaci."
+"Podle astrologù bude tento mìsíc vládnout MOR!
+
+Všechna obydlí snižují svoji populaci na polovinu."
+"Podle astrologù bude tento týden vládnout %s.
+
+Všechna obydlí zvyšují svoji populaci."
+"Podle astrologù bude tento týden vládnout %s.
+
+%s nárùst +5.
+
+Všechna obydlí zvyšují svoji populaci."
+"Podle astrologù bude tento týden vládnout %s.
+
+%s nárùst %+d.
+%s nárùst %+d.
+
+Všechna obydlí zvyšují svoji populaci."
+cMapSize
+Malá (S)
+Støední (M)
+Velká (L)
+Obrovská (XL)
+cDifficulty
+Lehká 
+Normální 
+Tìžká 
+Expertní
+Nehratelná 
+cDirections
+v severní 
+v severovýchodní 
+ve východní 
+v jihovýchodní 
+v jižní 
+v jihozápadní 
+v západní 
+v severozápadní 
+ve støední 
+cRumourTerrainDescriptions
+ve hlínì.
+pod pouštní dunou.
+na travnaté pláni.
+v snìžné závìjí.
+v temné bažinì.
+na vyprahlé pustinì.
+v podzemní jeskyni.
+pohøben v žhavé lávì.
+v temných hlubinách oceánu.
+pod skálou.
+cPersonality
+Váleèník
+Stavitel
+Prùzkumník
+ Èlovìk
+gArmySizeNames
+Málo
+Málo
+málo
+Nìkolik
+Nìkolik
+nìkolik
+Skup.
+Skupinka
+skupinka
+Houf
+Houf
+houf
+Horda
+Horda
+horda
+Zástup
+Zástup
+zástup
+Dav
+Dav
+dav
+Mraèna
+Mraèna
+mraèna
+Legie
+Legie
+legie
+const_wise_tree_price_text
+ (+1 úroveò)
+ (+1 úroveò za 2000 zlata)
+ (+1 úroveò - 10 drahokamù)
+HumanCPU
+" Èlovìk
+nebo PC"
+ Èlovìk
+PC
+HandiText
+Bez postihu
+Slabý postih
+Silný postih
+AGRText
+Artefakt
+Zlato
+Suroviny
+gTownTypeNames
+Neutrální 
+Hrad
+Bašta
+Vìž 
+Peklo
+Nekropolis
+Kobka
+Tvrz
+Pevnost
+Soutok
+NewLoadSave
+Vyber si scénáø:
+Obnov uloženou pozici:
+Ulož aktuální pozici:
+Army Speed Names
+Nepohyblivý 
+Super pomalý 
+Ultra pomalý 
+Velmi pomalý 
+Extra pomalý 
+Pomalý 
+Èiperný 
+Extra èiperný 
+Velmi èiperný 
+Ultra èiperný 
+Super èiperný 
+Hbitý 
+Extra hbitý 
+Velmi hbitý 
+Ultra hbitý 
+Super hbitý 
+Rychlý 
+Extra rychlý 
+Velmi rychlý 
+Ultra rychlý 
+Super rychlý 
+Town Size Names
+Vesnice
+Mìsteèko
+Mìsto
+Hlavní mìsto
+Moat Names
+Vodní pøíkop
+Trnitý zátaras
+Zemní miny
+Láva
+Høbitov kostí 
+Vroucí olej
+Døevìné kùly
+Vaøící smùla
+Vodní pøíkop
+Insert all data before this line. Do not alter or delete this line.

@@ -1,0 +1,232 @@
+Nic	
+	
+Obìtní oltáø 	
+Kotvištì 	
+Aréna	
+Artefakt	
+Pandoøina skøíòka	
+ Èerný trh	
+Loï 	
+Strážní vìž 	
+Klíèníkùv stan	
+Bóje	
+Táborák	
+Kartograf	
+Labutí jezírko	
+Závoj temnoty	
+Banka bojovníkù 
+Generátor bojovníkù 1
+Generátor bojovníkù 2
+Generátor bojovníkù 3
+Generátor bojovníkù 4
+Prokletá zemì 
+Kostra
+Obranná vìž 
+Opuštìná loï 
+Draèí utopie
+Událost
+Oko mága
+Kouzelný kruh
+Plovoucí trosky
+Fontána štìstí 
+Fontána mládí 
+Zahrada objevù 
+Posádka
+Hrdina
+Pevnost
+Grál
+Bouda mága
+Soška štìstí 
+Kùlna
+
+Knihovna
+Maják
+Jednosmìrný monolit - vstup
+Jednosmìrný monolit - výstup
+Obousmìrný monolit
+Magické plánì 
+ Škola magie
+Magický pramen
+Magická studna
+Sezónní trh
+Tábor žoldákù 
+Moøská panna
+Dùl
+Bojovník
+Mystická zahrada
+Oáza
+Obelisk
+Rozhledna
+Láhev
+Pilíø ohnì 
+Hvìzdice
+Vìzení 
+Pyramida
+Shromaždištì 
+Náhodný artefakt
+Náhodný bìžný artefakt
+Náhodný cenný artefakt
+Náhodný vzácný artefakt
+Náhodná relikvie
+Náhodný hrdina
+Náhodný bojovník
+Náhodný bojovník 1
+Náhodný bojovník 2
+Náhodný bojovník 3
+Náhodný bojovník 4
+Náhodné suroviny
+Náhodné mìsto
+Uprchlický tábor
+Suroviny
+Svatynì 
+Uèenec
+Truhla
+Chata vìštce
+Krypta
+Vrak
+Troseèník
+Pøístav
+Kaple èarovného zaøíkávání 
+Kaple èarovných posunkù 
+Kaple èarovné myšlenky
+Ukazatel
+Sirény
+Kouzelný svitek
+Stáje
+Putyka
+Chrám
+Skrýš špionù 
+Mìsto
+Tržištì 
+Kámen poznání 
+Truhla s pokladem
+Strom znalostí 
+Brána do podzemí 
+Univerzita
+Vagón
+Továrna na bojové stroje
+ Škola války
+Hrobka váleèníka
+Vodní mlýn
+Jezírko
+Vodní vír
+Vìtrný mlýn
+Chata vìdmy
+Mlází 
+Køoví 
+Kaktus
+Kaòon
+Kráter
+Mrtvá vegetace
+Kvìtiny
+Zamrzlé jezero
+ Živý plot
+Kopec
+Díra
+Moøské øasy
+Jezero
+Tekoucí láva
+Jezero lávy	
+Houby	
+Kláda	
+Køoví	
+Mech	
+Násyp	
+Hory	
+Duby	
+Odkryv horniny	
+Borovice	
+Bylina	
+	
+	
+	
+	
+ Ústí øeky	
+	
+	
+	
+Skála	
+Píseèná duna	
+Píseèná jáma	
+Køoví	
+Lebka	
+Krápník	
+Paøez	
+Jáma dehtu	
+Stromy	
+Réva	
+Sopeèný jícen	
+Sopka	
+Vrby	
+Stromy
+ Útes
+Náhodný bojovník 5
+Náhodný bojovník 6
+Náhodný bojovník 7
+Mlází 
+Køoví 
+Kaktus
+Kaòon
+Kráter
+Mrtvá vegetace
+Kvìtiny
+Zamrzlé jezero
+ Živý plot
+Kopec
+Díra
+Moøské øasy
+Jezero
+Tekoucí láva
+Jezero lávy
+Houby
+Kláda
+Køoví
+Mech
+Násyp
+Hory
+Duby
+Odkryv horniny
+Borovice
+Bylina
+ Ústí øeky
+Skála
+Píseèná duna
+Píseèná jáma
+Køoví 
+Lebka
+Krápník
+Paøez
+Jáma dehtu
+Stromy
+Réva
+Sopeèný jícen
+Sopka
+Vrby
+Stromy
+ Útes
+Písèité kopeèky
+Jílové kopeèky
+Travnaté kopeèky
+Zarostlé kopeèky
+Podzemní kameny
+Bažinné listí 
+Strážní brána
+Cech otrokáøù 
+Cestující hrdina
+Strážce úkolu
+Náhodné obydlí 
+
+
+Posádka
+Dùl
+Tržištì 
+Pole ètyølístkù 
+Prokletá zemì 
+Mlha zla
+Pøíznivý vítr
+Ohnivá pole
+Svatá zemì 
+Prùzraèné louže
+Mraky magie
+Magické plánì 
+Skalnatá zemì

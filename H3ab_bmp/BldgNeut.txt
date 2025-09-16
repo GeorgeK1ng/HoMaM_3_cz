@@ -1,0 +1,29 @@
+Vì kouzel 1. stupeò 	Po prohlídce vìe kouzel se hrdina mùe nauèit kouzla, která se tam nacházejí.
+Vì kouzel 2. stupeò 	Po prohlídce vìe kouzel se hrdina mùe nauèit kouzla, která se tam nacházejí.
+Vì kouzel 3. stupeò 	Po prohlídce vìe kouzel se hrdina mùe nauèit kouzla, která se tam nacházejí.
+Vì kouzel 4. stupeò 	Po prohlídce vìe kouzel se hrdina mùe nauèit kouzla, která se tam nacházejí.
+Vì kouzel 5. stupeò 	Po prohlídce vìe kouzel se hrdina mùe nauèit kouzla, která se tam nacházejí.
+Putyka	Putyka zvyšuje morálku armády bránící mìsto.
+Pøístav	V pøístavu si mùeš zakoupit loï.
+Tvrz	Tvrz poskytuje tvému mìstu ochranné hradby.
+Citadela	"Citadela zvyšuje o 50% nárùst bojovníkù v obydlích a zvyšuje ochranu hradu o pøíkop a strání vì."
+Hrad	"Hrad zdvojnásobí nárùst bojovníkù v obydlích a zvyšuje ochranu hradu o další dvì strání vìe a posílení hradeb."
+Radnice vesnice	Radnice vesnice umoòuje stavìt ve mìstì další budovy a vydìlává tvému království 500 zlaákù dennì.
+Radnice mìsteèka	Radnice mìsteèka umoòuje stavìt ve mìstì další budovy a vydìlává tvému království 1000 zlaákù dennì.
+Radnice mìsta	Radnice mìsta umoòuje stavìt ve mìstì další budovy a vydìlává tvému království 2000 zlaákù dennì.
+Hlavní mìsto	Hlavní mìsto vydìlává tvému království 4000 zlaákù dennì.
+Trnice	"V trnici mùeš kupovat a prodávat suroviny (smìnnı kurs se zlepšuje s vlastnictvím kadé další trnice)."
+	
+Kovárna	V kovárnì si mùeš zakoupit %s.
+Pøíkop	Hradební pøíkop zpomaluje útoèící armádu. Kadı oddíl, kterı vstoupí do pøíkopu, musí ukonèit tah a je mnohem zranitelnìjší.
+Pøístav s lodí 	V pøístavu si mùeš zakoupit loï.
+Kovárna	V kovárnì si mùeš zakoupit balistu.
+Kovárna	V kovárnì si mùeš zakoupit stan první pomoci.
+Kovárna	V kovárnì si mùeš zakoupit vozík se støelivem.
+Kovárna	V kovárnì si mùeš zakoupit vozík se støelivem.
+Kovárna	V kovárnì si mùeš zakoupit stan první pomoci.
+Kovárna	V kovárnì si mùeš zakoupit balistu.
+Kovárna	V kovárnì si mùeš zakoupit vozík se støelivem.
+Kovárna	V kovárnì si mùeš zakoupit stan první pomoci.
+Kovárna	V kovárnì si mùeš zakoupit balistu.
+Kovárna	V kovárnì si mùeš zakoupit bojové stroje.

@@ -1,0 +1,172 @@
+//Campaign Map Names
+A ije královna
+Osvobození 
+Píseò pro otce
+Jeskynì a ïáblové 
+A ije král
+Váleèná koøist
+Sémì nespokojenosti
+Bracada
+Ostrovy
+Krewlod
+Nighon
+Tatalia
+Armageddon
+Sekni a rozsekej
+Zrození barbara
+Novı poèátek
+Elixír ivota
+Vzestup nekromanta
+Bezboná aliance
+Vláda moci
+
+
+//Good 1 Map Region Names
+Jiní pøístav
+Andìlská brána
+Skála gryfù 
+
+
+//Good 2 Map Region Names
+Místo bitvy
+Zamrzlá zemì 
+Bainy a prùsmyk
+Obilnice a Ohnivé pobøeí 
+
+
+//Good 3 Map Region Names
+Okraj lesa
+"Od Smaragdovıch kopcù k Lesíkùm"
+Mramorová zahrada
+
+
+//Evil 1 Map Region Names
+Bod Riona
+Obilnice
+Místo bitvy
+Ohnivé pobøeí 
+Jiní pøístav
+Andìlská brána
+Skála gryfù 
+
+
+//Evil 2 Map Region Names
+Mramorová zahrada
+Smaragdové kopce
+Odolné vesnice a Lesíky
+"Pohøebištì "
+
+
+//Neutral 1 Map Region Names
+Bainy
+Dùlní oblast
+Prùsmyk
+
+
+//Secret 1 Map Region Names
+Pole ètyølístkù 
+Rašeliništì 
+Zalesnìné údolí 
+
+
+// Bracada Map Region Names
+Bracada A
+Bracada B
+Bracada C
+Bracada D
+
+
+// Islands Map Region Names
+Islands A
+Islands B
+Islands C
+Islands D
+
+
+// Krewlod Map Region Names
+Krewlod A
+Krewlod B
+Krewlod C
+Krewlod D
+
+
+// Nighon Map Region Names
+Nighon A
+Nighon B
+Nighon C
+Nighon D
+
+
+// Tatalia Map Region Names
+Tatalia A
+Tatalia B
+Tatalia C
+
+
+// Armageddon Map Region Names
+Armageddon A
+Armageddon B
+Armageddon C
+Armageddon D
+Armageddon E
+Armageddon F
+Armageddon G
+Armageddon H
+
+
+// Hack and Slash Region Names
+Sekni a rozsekej A
+Sekni a rozsekej B
+Sekni a rozsekej C
+Sekni a rozsekej D
+
+
+// Birth of a Barbarian Region Names
+Zrození barbara A
+Zrození barbara B
+Zrození barbara C
+Zrození barbara D
+Zrození barbara E
+
+
+// New Beginning Region Names
+Novı poèátek A
+Novı poèátek B
+Novı poèátek C
+Novı poèátek D
+
+
+// Elixir of Life Region Names
+Elixír ivota A
+Elixír ivota B
+Elixír ivota C
+Elixír ivota D
+
+
+// Rise of the Necromancer Region Names
+Vzestup nekromanta A
+Vzestup nekromanta B
+Vzestup nekromanta C
+Vzestup nekromanta D
+
+
+// Unholy Alliance Region Names
+Bezboná aliance A
+Bezboná aliance B
+Bezboná aliance C
+Bezboná aliance D
+Bezboná aliance E
+Bezboná aliance F
+Bezboná aliance G
+Bezboná aliance H
+Bezboná aliance I
+Bezboná aliance J
+Bezboná aliance K
+Bezboná aliance L
+
+
+// Specter of Power Region Names
+Vláda moci A
+Vláda moci B
+Vláda moci C
+Vláda moci D

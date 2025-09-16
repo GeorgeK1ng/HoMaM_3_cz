@@ -1,0 +1,36 @@
+Rozdìlit oddíl %s
+Nelze spojit poslední oddíl hrdiny
+Spojit oddíly %s
+Rozdìlit oddíl
+Ukaž %s
+Nelze pøesunout poslední oddíl do posádky
+Pøesuò %s
+Vymìò %s za %s
+Opustit mìsto
+Hrdiny aliance nelze pøesunout do posádky.
+Prohlídka království 
+Prázdný 
+Vyber %s (v posádce)
+Ukaž hrdinu
+Vìž kouzel
+Cech zlodìjù 
+Putyka
+Pøístav
+Hrad
+Kovárna
+Radnice vesnice
+Najmout %s
+Radnice mìsteèka
+Radnice mìsta
+Hlavní mìsto
+
+Tržnice
+Skladištì surovin
+Tvrz
+Citadela
+Abys mohl najmout bojovníka pøes bránu, musí být obsazeno nìjaké externí obydlí bojovníkù.
+Zakoupil sis %s.
+Vyber %s (na návštìvì)
+Vyber %s (propustit bojovníky)
+Vyber %s (hrdinova armáda)
+%s (nelze odebrat)

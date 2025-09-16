@@ -1,0 +1,46 @@
+Okno hrdiny
+ Útok
+Obrana
+Síla kouzel
+Znalosti
+{Specializace}
+{Zkušenosti}
+{Mag. energie}
+"Seznam
+ úkolù "
+"Propustit
+hrdinu"
+Celkovı pohled
+Zlata za den:
+Okno pøístavu
+Postav novou loï 
+Cena lodì:
+Okno cechu zlodìjù 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Poèet mìst
+Poèet hrdinù 
+Zlato
+Døevo a kámen
+"Rtu, síra, kryst., drahok."
+Nalezeno obeliskù 
+Artefakty
+Celková síla armády
+Pøíjem
+Nejlepší hrdina
+Charakter
+Nejlepší bojovník
+Okno putyky
+Putyka
+Vyber si hrdinu:
+Okno mìstské brány
+Mìstská brána
+Vyber cílové mìsto.
+Okno kovárny 
+Cena vırobku:

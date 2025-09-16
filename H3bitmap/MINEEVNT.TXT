@@ -1,0 +1,24 @@
+"{Pila}
+
+Získal jsi kontrolu nad pilou. Bude ti dennì poskytovat 2 ks døeva."
+"{Laboratoø }
+
+Získal jsi kontrolu nad laboratoøí. Bude ti dennì poskytovat 1 jednotku rtuti."
+"{Kamenolom}
+
+Získal jsi kontrolu nad kamenolomem. Bude ti dennì poskytovat 2 ks kamení."
+"{Sirná duna}
+
+Získal jsi kontrolu nad sirnou dunou. Bude ti dennì poskytovat 1 jednotku síry."
+"{Krystalová jeskynì }
+
+Získal jsi kontrolu nad krystalovou jeskyní. Bude ti dennì poskytovat 1 krystal."
+"{Jezírko drahokamù }
+
+Získal jsi kontrolu nad jezírkem drahokamù. Bude ti dennì poskytovat 1 drahokam."
+"{Zlatý dùl}
+
+Získal jsi kontrolu nad zlatým dolem. Bude ti dennì poskytovat 1000 zlatých."
+"{Opuštìný dùl}
+
+Získal jsi kontrolu nad opuštìným zlatým dolem. Bude ti dennì poskytovat 1000 zlatých."

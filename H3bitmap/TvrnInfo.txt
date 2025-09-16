@@ -1,0 +1,8 @@
+Nemáš dost penìz.
+Nelze najmout. U máš %d hrdinù.
+Nelze najmout. U v tomto mìstì hrdinu máš.
+Najmout %s %s
+Vyber %s
+Cech zlodìjù 
+Cena nájmu
+Opus putyku

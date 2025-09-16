@@ -1,0 +1,856 @@
+Rollover Text	Right-Click Text																						
+"Note: Do not change the headings in this file, they are used to detect problems"																							
+Main Menu																							
+	"{Nová hra}
+
+Start nové hry."																						
+	"{Nahrát hru}
+
+Nahraje døíve uloenou pozici."																						
+	"{Nejlepší skóre}
+
+Ukáe legendární 
+Hrdiny síly a magie."																						
+	"{Autoøi}
+
+Ukáe autory hry."																						
+	"{Konec}
+
+Návrat do Windows."																						
+																							
+New Game	Nová hra																						
+	"{Samostatnı scénáø }
+
+Hrát samostatnı scénáø."																						
+	"{Kampaò }
+
+Hrát kampaò."																						
+	"{Hra více hráèù }
+
+Hrát samostatnı scénáø ve více hráèích."																						
+	"{Vıuka}
+
+Hrát vıukovı scénáø, kde se lze nauèit základy hry Heroes III."																						
+	"{Zpìt}
+
+Zpìt k pøedchozím volbám."																						
+																							
+Single Scenario Selection	Vıbìr samostatného scénáøe																						
+																							
+SCENARIO_BACKGROUND 	Vıbìr scénáøe																						
+ADVANCED_BACKGROUND 	Nastavení podrobnìjších voleb																						
+Background for random map menu	Vytvoøení náhodné mapy																						
+SCENARIO_NAME 	Název scénáøe																						
+Description Title	Zobrazuje popis scénáøe																						
+Description text	Zobrazuje popis scénáøe																						
+EASY 	"{Lehká obtínost}
+
+Hráè zaèíná s velkım mnostvím surovin, poèítaè hraje mizernì."																						
+NORMAL 	"{Normální obtínost}
+
+Hráè zaèíná se støedním mnostvím surovin, poèítaè hraje relativnì dobøe."																						
+HARD 	"{Tìká obtínost}
+
+Hráè a poèítaè zaèínají se shodnım mnostvím surovin, poèítaè hraje nejlépe, jak umí."																						
+EXPERT 	"{Expertní obtínost}
+
+Hráè zaèíná s omezenım mnostvím surovin, poèítaè hraje nejlépe, jak umí."																						
+IMPOSSIBLE 	"{Nehratelná obtínost}
+
+Hráè zaèíná bez surovin, poèítaè hraje nejlépe, jak umí."																						
+ALLY_FLAG1 	To je tvoje barva																						
+ALLY_FLAG2 	To je barva tvého spojence																						
+ALLY_FLAG3 	To je barva tvého spojence																						
+ALLY_FLAG4 	To je barva tvého spojence
+ALLY_FLAG5 	To je barva tvého spojence
+ALLY_FLAG6 	To je barva tvého spojence
+ALLY_FLAG7 	To je barva tvého spojence
+ALLY_FLAG8 	To je barva tvého spojence
+ENEMY_FLAG1 	To je barva tvého nepøítele
+ENEMY_FLAG2 	To je barva tvého nepøítele
+ENEMY_FLAG3 	To je barva tvého nepøítele
+ENEMY_FLAG4 	To je barva tvého nepøítele
+ENEMY_FLAG5 	To je barva tvého nepøítele
+ENEMY_FLAG6 	To je barva tvého nepøítele
+ENEMY_FLAG7 	To je barva tvého nepøítele
+ENEMY_FLAG8 	To je barva tvého nepøítele
+SCENARIO_OPTIONS 	Uka/skryj pøehled scénáøù 
+ADVANCED_OPTIONS 	Uka/skryj podrobnìjší volby
+random map button	Hraj náhodnì vygenerovanou mapu
+CHAT_DESC 	Pøepínaè mezi popisem scénáøe a oknem hovoru
+MAP_DIFFICULTY 	Umoní ti upravit celkovou obtínost scénáøe
+RATING 	Zobrazuje celkovou obtínost podle nastavení obtínosti mapy a hráèe
+MAP_SIZE 	"Obtínost mapy mùe bıt lehká, normální, tìká, expertní nebo nehratelná."
+VICTORY_CONDITION 	Podmínky vítìzství daného scénáøe
+LOSS_CONDITION 	Podmínky prohry daného scénáøe
+SMALL_FILTER 	Uka všechny malé mapy (S)
+MEDIUM_FILTER 	Uka všechny støední mapy (M)
+LARGE_FILTER 	Uka všechny velké mapy (L)
+EXTRALARGE_FILTER 	Uka všechny obrovské mapy (XL)
+ALL_FILTER 	Uka všechny mapy
+SCENARIO_NAME_1 	SCENARIO_NAME_1 
+SCENARIO_NAME_2 	SCENARIO_NAME_2 
+SCENARIO_NAME_3 	SCENARIO_NAME_3 
+SCENARIO_NAME_4 	SCENARIO_NAME_4 
+SCENARIO_NAME_5 	SCENARIO_NAME_5 
+SCENARIO_NAME_6 	SCENARIO_NAME_6 
+SCENARIO_NAME_7 	SCENARIO_NAME_7 
+SCENARIO_NAME_8 	SCENARIO_NAME_8 
+SCENARIO_NAME_9 	SCENARIO_NAME_9 
+SCENARIO_NAME_10 	SCENARIO_NAME_10 
+SCENARIO_NAME_11 	SCENARIO_NAME_11 
+SCENARIO_NAME_12 	SCENARIO_NAME_12 
+SCENARIO_NAME_13 	SCENARIO_NAME_13 
+SCENARIO_NAME_14 	SCENARIO_NAME_14 
+SCENARIO_NAME_15 	SCENARIO_NAME_15 
+SCENARIO_NAME_16 	SCENARIO_NAME_16 
+SCENARIO_NAME_17 	SCENARIO_NAME_17 
+SCENARIO_NAME_18 	SCENARIO_NAME_18 
+ENTRY_SCENARIO_NAME_1 	ENTRY_SCENARIO_NAME_1 
+ENTRY_SCENARIO_NAME_2 	ENTRY_SCENARIO_NAME_2 
+ENTRY_SCENARIO_NAME_3 	ENTRY_SCENARIO_NAME_3 
+ENTRY_SCENARIO_NAME_4 	ENTRY_SCENARIO_NAME_4 
+ENTRY_SCENARIO_NAME_5 	ENTRY_SCENARIO_NAME_5 
+ENTRY_SCENARIO_NAME_6 	ENTRY_SCENARIO_NAME_6 
+ENTRY_SCENARIO_NAME_7 	ENTRY_SCENARIO_NAME_7 
+ENTRY_SCENARIO_NAME_8 	ENTRY_SCENARIO_NAME_8 
+ENTRY_SCENARIO_NAME_9 	ENTRY_SCENARIO_NAME_9 
+ENTRY_SCENARIO_NAME_10 	ENTRY_SCENARIO_NAME_10 
+ENTRY_SCENARIO_NAME_11 	ENTRY_SCENARIO_NAME_11 
+ENTRY_SCENARIO_NAME_12 	ENTRY_SCENARIO_NAME_12 
+ENTRY_SCENARIO_NAME_13 	ENTRY_SCENARIO_NAME_13 
+ENTRY_SCENARIO_NAME_14 	ENTRY_SCENARIO_NAME_14 
+ENTRY_SCENARIO_NAME_15 	ENTRY_SCENARIO_NAME_15 
+ENTRY_SCENARIO_NAME_16 	ENTRY_SCENARIO_NAME_16 
+ENTRY_SCENARIO_NAME_17 	ENTRY_SCENARIO_NAME_17 
+ENTRY_SCENARIO_NAME_18 	ENTRY_SCENARIO_NAME_18 
+TURN_DURATION 	Délka trvání kola
+CHAT_TEXT 	Zprávy od hráèù 						
+CHAT_ENTRY 	Textovı øádek 						
+CHAT_PLUG 	CHAT_PLUG 						
+CHAT_PLAYER 	Hráèi						
+"CHAT_PLAYER_SLIDER,"	"CHAT_PLAYER_SLIDER,"						
+ROLLOVER 	ROLLOVER 						
+NEXT 	Uloí aktuální vybranou hru						
+BEGIN 	Spustí vybranou akci						
+BACK 	BACK 						
+SSEXIT 	"Uzavøe okno
+(bez ádné akce)"						
+WHICHMAP 	"Aktuální velikost mapy
+(S-malá, M-støední, L-velká, XL-obrovská)"						
+SORT_NUMBER 	Seøadí mapy podle poètu hráèù 						
+SORT_SIZE 	Seøadí mapy podle jejich velikosti						
+k_sort_version	Seøadí mapy podle jejich verze						
+SORT_ALPHA 	Seøadí mapy abecednì podle názvu						
+SORT_VICTORY 	Seøadí mapy podle podmínek vítìzství 						
+SORT_LOSS 	Seøadí mapy podle podmínek prohry
+BRIEFING 	BRIEFING 
+SSHERO 	SSHERO 
+GOLDPIC 	GOLDPIC 
+HUMAN_CPU1 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HUMAN_CPU2 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HUMAN_CPU3 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HUMAN_CPU4 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HUMAN_CPU5 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HUMAN_CPU6 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HUMAN_CPU7 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HUMAN_CPU8 	 Èlovìk nebo PC znamená, e za tuto barvu mùe hrát èlovìk i poèítaè. PC znamená, e za tuto barvu mùe hrát pouze poèítaè.
+HANDICAP1 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+HANDICAP2 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+HANDICAP3 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+HANDICAP4 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+HANDICAP5 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+HANDICAP6 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+HANDICAP7 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+HANDICAP8 	Umoòuje nastavit postih pro daného hráèe (zmenšení startovního mnoství surovin)
+TOWN_LEFT1 	Umoòuje vybrat typ startovního mìsta
+TOWN_LEFT2 	Umoòuje vybrat typ startovního mìsta
+TOWN_LEFT3 	Umoòuje vybrat typ startovního mìsta
+TOWN_LEFT4 	Umoòuje vybrat typ startovního mìsta
+TOWN_LEFT5 	Umoòuje vybrat typ startovního mìsta
+TOWN_LEFT6 	Umoòuje vybrat typ startovního mìsta
+TOWN_LEFT7 	Umoòuje vybrat typ startovního mìsta
+TOWN_LEFT8 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE1 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE2 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE3 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE4 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE5 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE6 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE7 	Umoòuje vybrat typ startovního mìsta
+TOWN_RITE8 	Umoòuje vybrat typ startovního mìsta
+HERO_LEFT1 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_LEFT2 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_LEFT3 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_LEFT4 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_LEFT5 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_LEFT6 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_LEFT7 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_LEFT8 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE1 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE2 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE3 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE4 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE5 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE6 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE7 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+HERO_RITE8 	Umoòuje vybrat startovního hrdinu (podle typu mìsta)
+RES_LEFT1 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_LEFT2 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_LEFT3 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_LEFT4 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_LEFT5 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_LEFT6 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_LEFT7 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_LEFT8 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE1 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE2 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE3 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE4 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE5 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE6 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE7 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+RES_RITE8 	Umoòuje vybrat startovní bonus pro tvého hrdinu
+HERO_SETTING_1 	Klikni sem pro hru za tuto barvu
+HERO_SETTING_2 	Klikni sem pro hru za tuto barvu
+HERO_SETTING_3 	Klikni sem pro hru za tuto barvu
+HERO_SETTING_4 	Klikni sem pro hru za tuto barvu
+HERO_SETTING_5 	Klikni sem pro hru za tuto barvu
+HERO_SETTING_6 	Klikni sem pro hru za tuto barvu
+HERO_SETTING_7 	Klikni sem pro hru za tuto barvu
+HERO_SETTING_8 	Klikni sem pro hru za tuto barvu
+TOWN_SETTING_1 	TOWN_SETTING_1 
+TOWN_SETTING_2 	TOWN_SETTING_2 
+TOWN_SETTING_3 	TOWN_SETTING_3 
+TOWN_SETTING_4 	TOWN_SETTING_4 
+TOWN_SETTING_5 	TOWN_SETTING_5 	
+TOWN_SETTING_6 	TOWN_SETTING_6 	
+TOWN_SETTING_7 	TOWN_SETTING_7 	
+TOWN_SETTING_8 	TOWN_SETTING_8 	
+"const_create_map,"		
+"const_map_size_label,"	Vıbìr velikosti mapy	
+"const_small_map,"	Vytvoøit malou mapu	
+"const_medium_map,"	Vytvoøit støední mapu	
+"const_large_map,"	Vytvoøit velkou mapu	
+"const_huge_map,"	Vytvoøit obrovskou mapu	
+"const_map_levels,"	Vıbìr mapy s podzemím nebo bez	
+"const_human_positions_label,"	Vıbìr poètu hráèù, za které mùe hrát èlovìk nebo poèítaè 	
+"const_1_human,"	Vytvoøit 1 lidského hráèe	
+"const_2_humans,"	Vytvoøit 2 lidské hráèe	
+"const_3_humans,"	Vytvoøit 3 lidské hráèe	
+"const_4_humans,"	Vytvoøit 4 lidské hráèe	
+"const_5_humans,"	Vytvoøit 5 lidskıch hráèù 	
+"const_6_humans,"	Vytvoøit 6 lidskıch hráèù 	
+"const_7_humans,"	Vytvoøit 7 lidskıch hráèù 	
+"const_8_humans,"	Vytvoøit 8 lidskıch hráèù 	
+"const_random_humans,"	Vytvoøit 1-8 lidskıch hráèù 	
+"const_human_teams_label,"	Vıbìr poètu tımù, za které mùe hrát èlovìk nebo poèítaè 	
+"const_no_human_teams,"	Bez tımù 	
+"const_1_human_team,"	Vytvoøit 1 tım lidí 	
+"const_2_human_teams,"	Vytvoøit 2 tımy lidí 	
+"const_3_human_teams,"	Vytvoøit 3 tımy lidí 	
+"const_4_human_teams,"	Vytvoøit 4 tımy lidí 	
+"const_5_human_teams,"	Vytvoøit 5 tımù lidí  	
+"const_6_human_teams,"	Vytvoøit 6 tımù lidí  	
+"const_7_human_teams,"	Vytvoøit 7 tımù lidí 	
+"const_random_human_teams,"	Vytvoøit náhodnı poèet tımù lidí 	
+"const_computer_positions_label,"	Vıbìr poètu hráèù, za které mùe hrát pouze poèítaè 	
+"const_no_computers,"	Vytvoøit mapu bez poèítaèovıch hráèù 	
+"const_1_computer,"	Vytvoøit 1 poèítaèového hráèe	
+"const_2_computers,"	Vytvoøit 2 poèítaèové hráèe	
+"const_3_computers,"	Vytvoøit 3 poèítaèové hráèe	
+"const_4_computers,"	Vytvoøit 4 poèítaèové hráèe	
+"const_5_computers,"	Vytvoøit 5 poèítaèovıch hráèù 	
+"const_6_computers,"	Vytvoøit 6 poèítaèovıch hráèù 	
+"const_7_computers,"	Vytvoøit 7 poèítaèovıch hráèù 	
+"const_random_computers,"	Vytvoøit náhodnı poèet poèítaèovıch hráèù 	
+"const_computer_teams_label,"	Vıbìr poètu tımù, za které mùe hrát pouze poèítaè 	
+"const_no_computer_teams,"	Bez poèítaèovıch tımù 	
+"const_1_computer_team,"	Vytvoøit 1 poèítaèovı tım	
+"const_2_computer_teams,"	Vytvoøit 2 poèítaèové tımy	
+"const_3_computer_teams,"	Vytvoøit 3 poèítaèové tımy	
+"const_4_computer_teams,"	Vytvoøit 4 poèítaèové tımy	
+"const_5_computer_teams,"	Vytvoøit 5 poèítaèovıch tımù 	
+"const_6_computer_teams,"	Vytvoøit 6 poèítaèovıch tımù 	
+"const_random_computer_teams,"	Vytvoøit náhodnı poèet poèítaèovıch tımù 	
+"const_water_label,"	Vıbìr velikosti vodní plochy na mapì 	
+"const_no_water,"	Minimální nebo bez vody	
+"const_normal_water,"	Vytvoøit kontinent obklopenı vodou	
+"const_islands,"	Vytvoøit hodnì malıch ostrovù v oceánu	
+"const_random_water,"	Vloit náhodné mnoství vody	
+"const_monster_strength_label,"	Vıbìr prùmìrné síly neutrálních bojovníkù 	
+"const_weak_monsters,"	Vytvoøit hlídky slabší ne normálnì 	
+"const_normal_monsters,"	Normální síla hlídek	
+"const_strong_monsters,"	Vytvoøit silné hlídky	
+"const_random_monsters,"	Vygenerovat náhodnou sílu hlídek 	
+"const_show_saved_random_maps,"	Uka vygenerované náhodné mapy	
+SLIDER_CHATWINDOW 	Posunout zapsanı text hovoru	
+SLIDER_FILEMENU 	Posunout seznam scénáøù nebo uloenıch pozic	
+SLIDER_DURATION 	Umoòuje zmìnit délku trvání kola hráèe	
+"PLAYER_HANDICAP_HEADER_ID,"	"{Jméno hráèe / Typ postihu}
+
+Kadı dostupnı slot pro lidského hráèe je zleva oznaèen vlajkou. Kliknutím na jinou vlajku lze zmìnit barvu hráèe. Kliknutí do pole s jménem umoní zvolit si jiné jméno.
+
+Kadı hráè mùe bıt na zaèátku hry penalizován po kliknutí na tlaèítko Postih. Tlaèítko lze nastavit do 3 pozic: bez postihu, slabı postih, silnı postih. Volby slabého nebo silného postihu sniují poèet startovních surovin pro daného hráèe.
+"																						
+"TURN_DURATION_HEADER_ID,"	"{Délka trvání kola hráèe}
+
+Touto volbou lze nastavit poèitadlo, které omezí hráèi èas na odehrání tahu. Po dobu probíhajícího boje je poèitadlo zastaveno.
+
+Délku trvání kola lze nastavit od 1 minuty do 30 minut.
+Pøednastavená volba je 'bez limitu'.
+"																						
+"STARTING_TOWN_HEADER_ID,"	"{Startovní mìsto}
+
+Kadı hráè mùe (ale nemusí) startovat s nìjakım mìstem. Lze zvolit mìsto náhodné, hrad, baštu, vì, peklo, nekropoli, kobku, tvrz nebo pevnost.
+
+Kdy hráè startuje bez mìsta, tato volba umoní vybrat si startovního hrdinu.
+"																						
+"STARTING_TOWN_HEADER_W_CONFLUX_ID,"	"{Startovní mìsto}
+
+Kadı hráè mùe (ale nemusí) startovat s nìjakım mìstem. Lze zvolit mìsto náhodné, hrad, baštu, vì, peklo, nekropoli, kobku, tvrz, pevnost nebo soutok.
+
+Kdy hráè startuje bez mìsta, tato volba umoní vybrat si startovního hrdinu.
+"																						
+"STARTING_HERO_HEADER_ID,"	"{Startovní hrdina}
+
+Kadı hráè mùe (ale nemusí) startovat s hrdinou. Obèas tato volba mùe bıt nedostupná nebo chybìt, jindy dovolí vıbìr z 16 hrdinù. Pokud je nastaveno startovní mìsto, mùeš si vybrat urèitého hrdinu, kterı patøí k danému mìstu.
+
+Chceš-li vidìt bliší údaje o vybraném hrdinovi, klikni pravım tlaèítkem na jeho portrét.
+"																						
+"STARTING_BONUS_HEADER_ID,"	"{Startovní bonus}
+
+Pøi volbì startovního bonusu si mùeš vybrat náhodnı artefakt, 500-1000 jednotek zlata, nebo suroviny dle typu hradu (5-10 ks. døeva a kamení nebo 3-6 jinıch surovin).
+"																						
+																							
+Multiplayer Selection	Vıbìr z nabídky hry více hráèù 																						
+																							
+Online sluby	"{Online sluby}
+
+Umoní hrát prostøednictvím nnline slueb na internetu (MPlayer, Gaming Zone, EarthLink apod.)"																						
+Horké køeslo	"{Horké køeslo}
+
+Umoní hrát více hráèùm na stejném poèítaèi"																						
+IPX	"{IPX}
+
+Umoní hrát více hráèùm na poèítaèích propojenıch do místní sítì"																						
+TCP/IP	"{TCP/IP}
+
+Umoní hrát více hráèùm na poèítaèích propojenıch do místní sítì nebo pøes internet"																						
+Modem	"{Modem}
+
+Umoní hrát dvìma hráèùm po modemu"																						
+Pøímé spojení 	"{Pøímé spojení }
+
+Umoní hrát dvìma hráèùm na poèítaèích propojenıch pøes sériovı port"																						
+Hostitel	"{Hostitel}
+
+Umoní ti nastavit parametry a vytvoøit hru, do které se pøipojí další hráèi"																						
+Pøipojit se	"{Pøipojit se}
+
+Ukáe pøehled dostupnıch her, do kterıch se mùeš pøipojit"
+Vyhledat hru	"{Vyhledat hru}
+
+Umoní vloit specifickou IP adresu k pøipojení ke høe"
+GAMENAME 1	GAMENAME 1
+GAMENAME 2	GAMENAME 2
+GAMENAME 3	GAMENAME 3
+GAMENAME 4	GAMENAME 4
+GAMENAME 5	GAMENAME 5
+GAMENAME 6	GAMENAME 6
+GAMENAME 7	GAMENAME 7
+GAMENAME 8	GAMENAME 8
+GAMENAME 9	GAMENAME 9
+GAMENAME 10	GAMENAME 10
+GAMENAME 11	GAMENAME 11
+GAMENAME 12	GAMENAME 12
+Scroll po dostupnıch hrách	Scroll po dostupnıch hrách
+	
+Zrušit	Návrat do pøedchozího menu																						
+																							
+Okno Mapy dobrodruství																							
+Mapa svìta	"Zde je zmenšená mapa svìta. Kliknutím kdekoli v tomto oknì lze vycentrovat mapu dobrodruství do okolí vybraného místa. Taením kurzoru lze posouvat oblast zobrazenou na mapì."																						
+Stavové okno	SELECTION WINDOW																						
+Prohlídka království 	"{Prohlídka království }
+
+Ukáe pøehled tvıch mìst a hrdinù."																						
+Uka povrch zemì/podzemí 	"{Uka povrch zemì/podzemí }
+
+Pøepíná mezi zobrazením mapy povrchu zemì a podzemím."																						
+Seznam úkolù 	"{Seznam úkolù }
+
+Ukáe seznam všech úkolù."																						
+Uspi/Probuï hrdinu	"{Uspi/Probuï hrdinu}
+
+Umoní uspat hrdinu nebo ho probudit. Spící hrdina nebude rušen pøi vıbìru dalších hrdinù na tahu."																						
+Pøesun hrdiny	"{Pøesun hrdiny}
+
+Pøesune aktuálního hrdinu po pøedem zvolené cestì."																						
+Sešli kouzlo	"{Sešli kouzlo}
+
+Umoní pouít kouzla na mapì."																						
+Volby dobrodruství 	"{Volby dobrodruství }
+
+Umoní vykopat Grál, zobrazit mapu svìta, skládanou mapu nebo informace o scénáøi. Dále umoòuje zopakovat zobrazení posledního tahu nepøítele."																						
+Systémové volby	"{Systémové volby}
+
+Umoní zobrazit a zmìnit aktuální nastavení systémovıch parametrù hry."																						
+Další hrdina	"{Další hrdina}
+
+Vybere dalšího hrdinu na øadì, kterı se ještì mùe hıbat. Spící hrdinové jsou ignorováni."																						
+Konec kola	"{Konec kola}
+
+Ukonèí aktuální tah hráèe."																						
+Posun seznamu hrdinù 	"{Posun seznamu hrdinù }
+
+Pøetáèí seznam dostupnıch hrdinù nahoru."																						
+Posun seznamu hrdinù 	"{Posun  seznamu hrdinù }
+
+Pøetáèí seznam dostupnıch hrdinù dolù."																						
+Portrét hrdiny	"{Portrét hrdiny}
+
+Po prvním kliknutí vybereš daného hrdinu a vycentruješ mapu kolem nìj. Druhım kliknutím dostaneš podrobnìjší informace o hrdinovi."																						
+Posun seznamu mìst	"{Posun seznamu mìst}
+
+Pøetáèí seznam dostupnıch mìst nahoru."																						
+Posun seznamu mìst	"{Posun seznamu mìst}
+
+Pøetáèí seznam dostupnıch mìst dolù."																						
+Obraz mìsta	"{Obraz mìsta}
+
+Po prvním kliknutí vybereš dané mìsto a vycentruješ mapu kolem nìj. Druhım kliknutím dostaneš podrobnìjší informace o mìstì."																						
+Zlato	Mnoství zlata ve tvé pokladnici																						
+Døevo	Tvá zásoba døeva																						
+Rtu 	Tvá zásoba rtuti																						
+Kámen	Tvá zásoba kamení 																						
+Síra	Tvá zásoba síry																						
+Krystaly	Tvá zásoba krystalù 																						
+Drahokamy	Tvá zásoba drahokamù 																						
+Datum	"{Datum}
+
+Aktuální mìsíc, tıden a den"																						
+ROLLOVER	ROLLOVER																						
+																							
+Systémové volby	Systémové volby																						
+Hlavní nabídka	"{Hlavní nabídka}
+
+Ukonèení rozehrané hry a návrat do hlavního menu."
+Nahrát hru	"{Nahrát hru}
+
+Nahrání døíve uloené pozice."
+Uloit hru	"{Uloit hru}
+
+Uloení aktuální pozice hry."
+Restartovat scénáø	"{Restartovat scénáø}
+
+Opìtovnı start tohoto scénáøe."
+Odejít na plochu	"{Odejít na plochu}
+
+Ukonèení hry Heroes of Might and Magic III."
+Návrat do hry	"{Návrat do hry}
+
+Návrat zpìt na mapu dobrodruství."
+"MUSIC_VOLUME_0_ID,"	Vypnout hudbu
+"MUSIC_VOLUME_1_ID,"	Nastavit hlasitost hudby na 1
+"MUSIC_VOLUME_2_ID,"	Nastavit hlasitost hudby na 2
+"MUSIC_VOLUME_3_ID,"	Nastavit hlasitost hudby na 3
+"MUSIC_VOLUME_4_ID,"	Nastavit hlasitost hudby na 4
+"MUSIC_VOLUME_5_ID,"	Nastavit hlasitost hudby na 5
+"MUSIC_VOLUME_6_ID,"	Nastavit hlasitost hudby na 6
+"MUSIC_VOLUME_7_ID,"	Nastavit hlasitost hudby na 7
+"MUSIC_VOLUME_8_ID,"	Nastavit hlasitost hudby na 8
+"MUSIC_VOLUME_9_ID,"	Nastavit hlasitost hudby na 9
+"EFFECTS_VOLUME_0_ID,"	Vypnout zvukové efekty
+"EFFECTS_VOLUME_1_ID,"	Nastavit hlasitost efektù na 1
+"EFFECTS_VOLUME_2_ID,"	Nastavit hlasitost efektù na 2
+"EFFECTS_VOLUME_3_ID,"	Nastavit hlasitost efektù na 3
+"EFFECTS_VOLUME_4_ID,"	Nastavit hlasitost efektù na 4
+"EFFECTS_VOLUME_5_ID,"	Nastavit hlasitost efektù na 5
+"EFFECTS_VOLUME_6_ID,"	Nastavit hlasitost efektù na 6
+"EFFECTS_VOLUME_7_ID,"	Nastavit hlasitost efektù na 7
+"EFFECTS_VOLUME_8_ID,"	Nastavit hlasitost efektù na 8
+"EFFECTS_VOLUME_9_ID,"	Nastavit hlasitost efektù na 9
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
+"HERO_SPEED_WALK_ID,"	"Nastavit rychlost hrdiny na chùzi
+(nejpomalejší)"
+"HERO_SPEED_CANTER_ID,"	Nastavit rychlost hrdiny na cval
+"HERO_SPEED_GALLOP_ID,"	Nastavit rychlost hrdiny na trysk
+"HERO_SPEED_JUMP_ID,"	"Nastavit rychlost hrdiny na skok
+(bez animace - nejrychlejší)"
+"AI_SPEED_CANTER_ID,"	"Nastavit rychlost hrdiny nepøítele na cval
+(nejpomalejší)"
+"AI_SPEED_GALLOP_ID,"	Nastavit rychlost hrdiny nepøítele na trysk
+"AI_SPEED_JUMP_ID,"	"Nastavit rychlost hrdiny nepøítele na skok
+(bez animace - nejrychlejší)"
+"AI_SPEED_NONE_ID,"	Nezobrazovat pohyb nepøítele
+"WINDOW_SCROLL_SLOW,"	Nastavit pomalé pøetáèení mapy
+"WINDOW_SCROLL_MEDIUM,"	Nastavit støední pøetáèení mapy
+"WINDOW_SCROLL_FAST,"	Nastavit rychlé pøetáèení mapy
+"SHOW_PATH_ID,"	"{Uka cestu pohybu}
+
+Kdy je zatreno, ukáe cestu pohybu hrdiny, ani by se hrdina rovnou rozbìhl."
+"MOVE_REMINDER_ID,"	"{Pøipomeò tah hrdiny}
+
+Pokud má hráè ještì hrdinu, kterı nevyèerpal svùj pohyb v daném kole, bude vyadovat potvrzení ukonèení tahu."
+"QUICK_COMBAT_ID,"	"{Rychlı boj}
+
+Tato volba dovolí poèítaèi rovnou propoèítat vısledky boje a hráè uvidí pouze vısledek bitvy."
+"VIDEO_SUBTITLES_ID,"	"{Titulky u videa}
+
+Tato volba zapíná zobrazování titulkù bìhem pøehrávání animace prologu/epilogu."
+VIDEO_QUALITY_LOW	"{Nízká kvalita videa}
+
+Tato volba je doporuèena pro pomalejší poèítaèe, které mají problémy se zobrazováním videa na celé obrazovce."
+VIDEO_QUALITY_HIGH	"{Vysoká kvalita videa}
+
+Tato volba je doporuèena pro rychlejší poèítaèe pro získání nejvyšší kvality pøehrávanıch animací."
+"TOWN_OUTLINES_ID,"	"{Obrysy staveb v mìstì }
+
+V oknì mìsta bude obrys všech postavenıch staveb obtahován linkou, kdy se na ni umístí kurzor."
+"ANIMATE_SPELLBOOK_ID,"	"{Animace knihy kouzel}
+
+Ukazuje animaci otáèení stránek v knize kouzel."
+																							
+Volby dobrodruství 																							
+Uka mapu	"{Uka mapu}
+
+Uvidíš pohled na svìt z ptaèí perspektivy."																						
+Uka skládanou mapu	"{Uka skládanou mapu}
+
+Uvidíš mapu zakopaného pokladu."																						
+Uka informace o scénáøi	"{Uka informace o scénáøi}
+
+Ukáe základní informace o aktuálním scénáøi."																						
+Kopat	"{Kopat}
+
+Na daném místì vykopeš díru a zkusíš najít Grál."																						
+Zopakuj protivníkùv tah 	"{Zopakuj protivníkùv tah}
+
+Zopakuje události od tvého posledního tahu."																						
+ROLLOVER	ROLLOVER																						
+OK	"{OK}
+
+Návrat na mapu dobrodruství."																						
+																							
+Okno boje	Okno boje																						
+Kapitulace	"{Kapitulace}
+
+Nabídneš nepøíteli kapitulaci. Za bezpeènı odchod z bojištì musíš zaplatit poadovanou èástku ve zlatì, ale pak si mùeš svého hrdinu opìt najmout v putyce vèetnì všech jeho artefaktù a zbylıch bojovníkù."																						
+ Útìk	"{ Útìk}
+
+Tvùj hrdina zbabìle uteèe z bitevního pole. Svého hrdinu si pak mùeš opìt najmout v putyce vèetnì všech jeho artefaktù, ale bez bojovníkù."																						
+Volby boje	"{Volby boje}
+
+Umoní zobrazit a zmìnit nastavení parametrù boje."																						
+Automatickı boj	"{Automatickı boj}
+
+Umoní poèítaèi provést tahy s tvımi bojovníky místo tebe. Opìtovnım kliknutím na toto tlaèítko lze kdykoli automatickı boj opìt zastavit a mùeš opìt pokraèovat sám."																						
+	V tomto oknì se objevují informace o probíhajícím boji																						
+	Umoòuje listovat v textu, kterı se zobrazoval bìhem boje																						
+Sešli kouzlo	"{Sešli kouzlo}
+
+Otevøe knihu kouzel hrdiny a umoní mu seslat bojové kouzlo."																						
+ Èekání 	"{ Èekání }
+
+Odloí tah oddílu do doby, dokud neprovedou své tahy všechny ostatní oddíly."																						
+Obrana	"{Obrana}
+
+Zvıší obrannou sílu oddílu vımìnou za ztrátu pohybu v daném kole."																						
+ Èekací fáze	 Èekací fáze																						
+Konec taktické fáze	"{Konec taktické fáze}
+
+Ukonèí taktickou fázi pøed bojem a zahájí bitvu."																						
+																							
+Volby boje	Volby boje																						
+Návrat do hry	"{Návrat do hry}
+
+Ukonèí nastavování voleb boje."																						
+Obnovit standardní nastavení 	"{Standard}
+
+Obnoví standardní nastavení voleb boje."																						
+"MUSIC_VOLUME_0_ID,"	Vypnout hudbu																						
+"MUSIC_VOLUME_1_ID,"	Nastavit hlasitost hudby na 1																						
+"MUSIC_VOLUME_2_ID,"	Nastavit hlasitost hudby na 2																						
+"MUSIC_VOLUME_3_ID,"	Nastavit hlasitost hudby na 3																						
+"MUSIC_VOLUME_4_ID,"	Nastavit hlasitost hudby na 4																						
+"MUSIC_VOLUME_5_ID,"	Nastavit hlasitost hudby na 5																						
+"MUSIC_VOLUME_6_ID,"	Nastavit hlasitost hudby na 6
+"MUSIC_VOLUME_7_ID,"	Nastavit hlasitost hudby na 7
+"MUSIC_VOLUME_8_ID,"	Nastavit hlasitost hudby na 8
+"MUSIC_VOLUME_9_ID,"	Nastavit hlasitost hudby na 9
+"EFFECTS_VOLUME_0_ID,"	Vypnout zvukové efekty
+"EFFECTS_VOLUME_1_ID,"	Nastavit hlasitost efektù na 1
+"EFFECTS_VOLUME_2_ID,"	Nastavit hlasitost efektù na 2
+"EFFECTS_VOLUME_3_ID,"	Nastavit hlasitost efektù na 3
+"EFFECTS_VOLUME_4_ID,"	Nastavit hlasitost efektù na 4
+"EFFECTS_VOLUME_5_ID,"	Nastavit hlasitost efektù na 5
+"EFFECTS_VOLUME_6_ID,"	Nastavit hlasitost efektù na 6
+"EFFECTS_VOLUME_7_ID,"	Nastavit hlasitost efektù na 7
+"EFFECTS_VOLUME_8_ID,"	Nastavit hlasitost efektù na 8
+"EFFECTS_VOLUME_9_ID,"	Nastavit hlasitost efektù na 9
+"MUSIC_TYPE_NONE_ID,"	"MUSIC_TYPE_NONE_ID,"
+"MUSIC_TYPE_CD_ID,"	"MUSIC_TYPE_CD_ID,"
+"MUSIC_TYPE_MIDI_ID,"	"MUSIC_TYPE_MIDI_ID,"
+"AUTO_CREATURES_ID,"	"{Bojovníci}
+
+Poèítaè pøevezme kontrolu na tvımi bojovníky po dobu autom. boje."
+"AUTO_SPELLS_ID,"	"{Kouzla}
+
+Bìhem autom. boje bude tvùj hrdina moci kouzlit."
+"AUTO_CATAPULT_ID,"	"{Katapult}
+
+Bìhem dobıvání hradu se tvá obsluha katapultu sama rozhoduje, na kterou èást hradeb zaútoèí. Pokud máš schopnost balistiky, toto rozhodování je na tobì.
+
+Pokud má tvùj hrdina schopnost balistiky, tato volba umoní bìhem autom. boje pøevzít poèítaèi kontrolu nad tvım katapultem."
+"AUTO_BALLISTA_ID,"	"{Balista}
+
+Bìhem boje se tvá obsluha balisty sama rozhoduje, na kterı oddíl nepøítele zaútoèí. Pokud máš schopnost artilerie, toto rozhodování je na tobì.
+
+Pokud má tvùj hrdina schopnost artilerie, tato volba umoní bìhem autom. boje pøevzít poèítaèi kontrolu nad tvou balistou."
+"AUTO_FIRST_AID_TENT_ID,"	"{Stan první pomoci}
+
+Bìhem boje se tvá obsluha stanu první pomoci sama rozhoduje, kterı tvùj oddíl má léèit. Pokud máš schopnost první pomoc, toto je rozhodování na tobì.
+
+Pokud má tvùj hrdina schopnost první pomoc, tato volba umoní bìhem autom. boje pøevzít poèítaèi kontrolu nad tvım stanem první pomoci."
+"ANIMATION_SPEED_0_ID,"	Nastav pomalou rychlost animace
+"ANIMATION_SPEED_1_ID,"	Nastav støední rychlost animace
+"ANIMATION_SPEED_2_ID,"	Nastav rychlou rychlost animace
+"CREATURE_INFO_STATS_ID,"	"{Všechny statistiky}
+
+Pravım kliknutím na oddíl bude zobrazena kompletní informace o bojovnících, vèetnì kouzel, která na nì momentálnì pùsobí."
+"CREATURE_INFO_SPELLS_ID,"	"{Jen kouzla}
+
+Pravım kliknutím na oddíl bude zobrazena informace o kouzlech, která momentálnì na oddíl pùsobí."
+"VIEW_HEX_ID,"	"{Uka rastr}
+
+Zobrazí na bojišti rastrovou møíku."
+"MOVEMENT_SHADOW_ID,"	"{Stín pohybu}
+
+Zobrazí na bojišti stín, kam a se mùe aktivní oddíl pohnout."
+"SHADOW_CURSOR_ID,"	"{Stín kurzoru}
+
+Umístí stín na pole, kam ukazuje kurzor."
+"ANIMATE_SPELLBOOK_ID,"	"{Animace knihy kouzel}
+
+Ukazuje animaci otáèení stránek v knize kouzel."
+	
+Uka oddíl	Uka oddíl																						
+Rasa oddílu	Rasa oddílu																						
+Poèet bojovníkù 	Poèet bojovníkù v oddílu																						
+ Útoèná síla	 Útoèná síla																						
+Obranná síla	Obranná síla																						
+Poèet støel	Poèet zbıvajících støel																						
+ Škody v útoku	 Škody z útoku																						
+Energie	Energie																						
+Zbıvá energie	Zbıvá energie																						
+Rychlost	Rychlost																						
+Morálka	Morálka																						
+ Štìstí		 Štìstí																							
+Kouzla pùsobící na oddíl	Kouzla pùsobící na oddíl																						
+Propustit oddíl	"{Propustit oddíl}
+
+Propustí danı oddíl z armády hrdiny."																						
+Vytrénovat oddíl	"{Vytrénovat oddíl}
+
+Vytrénuje danı oddíl na silnìjší typ."																						
+OK	"{OK}
+
+Návrat do pøedchozího okna"																						
+																							
+Kniha kouzel	Kniha kouzel																						
+Pøedchozí stránka	Nalistuj pøedchozí stránku																						
+Další stránka	Nalistuj další stránku																						
+Cestovní kouzla	Pøepne na zobrazování cestovních kouzel																						
+Bojová kouzla	Pøepne na zobrazování bojovıch kouzel																						
+Kouzla vzdušné magie	Pøepne na zobrazování kouzel vzdušné magie																						
+Kouzla ohnivé magie	Pøepne na zobrazování kouzel ohnivé magie																						
+Kouzla vodní magie	Pøepne na zobrazování kouzel vodní magie																						
+Kouzla zemské magie	Pøepne na zobrazování kouzel zemské magie																						
+Všechna kouzla	Uka všechna kouzla všech škol																						
+Magická energie	Zbıvající magická energie hrdiny																						
+Zavøít 	Zavøi knihu kouzel																						
+																							
+CampaignBrief	CampaignBrief																						
+																							
+CAMPAIGN_NAME	CAMPAIGN_NAME
+CAMPAIGN_DESCRIPTION	CAMPAIGN_DESCRIPTION
+MAP_NAME	MAP_NAME
+MAP_DESCRIPTION	MAP_DESCRIPTION
+HERO_FACE	HERO_FACE
+Change Hero	Kliknutím zmìníš svého startovního hrdinu
+Change Hero	Kliknutím zmìníš svého startovního hrdinu
+Artifact Bonus	Vyber start s nìjakım artefaktem
+Gold Bonus	Vyber start se zlatem navíc
+Resource Bonus	Vyber start se surovinou navíc
+Restart	"{Restart}
+
+Opìtovné spuštìní aktuální kampanì."
+Uka intro kampanì 	"{Uka intro kampanì }
+
+Pøehraje úvodní animaci této kampanì."
+ALLY_FLAG1_ID	To je tvá barva
+ALLY_FLAG2_ID	To je barva tvého spojence
+ALLY_FLAG3_ID	To je barva tvého spojence
+ALLY_FLAG4_ID	To je barva tvého spojence
+ALLY_FLAG5_ID	To je barva tvého spojence
+ALLY_FLAG6_ID	To je barva tvého spojence
+ALLY_FLAG7_ID	To je barva tvého spojence
+ALLY_FLAG8_ID	To je barva tvého spojence
+ENEMY_FLAG1_ID	To je barva tvého nepøítele
+ENEMY_FLAG2_ID	To je barva tvého nepøítele
+ENEMY_FLAG3_ID	To je barva tvého nepøítele
+ENEMY_FLAG4_ID	To je barva tvého nepøítele
+ENEMY_FLAG5_ID	To je barva tvého nepøítele
+ENEMY_FLAG6_ID	To je barva tvého nepøítele
+ENEMY_FLAG7_ID	To je barva tvého nepøítele
+ENEMY_FLAG8_ID	To je barva tvého nepøítele
+WHICHMAP_ID	To je velikost mapy, kterou hraješ.
+MAP_AREA_1	MAP_AREA_1
+MAP_AREA_2	MAP_AREA_2
+MAP_AREA_3	MAP_AREA_3
+MAP_AREA_4	MAP_AREA_4
+MAP_AREA_5	MAP_AREA_5
+MAP_AREA_6	MAP_AREA_6
+MAP_AREA_7	MAP_AREA_7
+MAP_AREA_8	MAP_AREA_8
+MAP_AREA_9	MAP_AREA_9
+MAP_AREA_10	MAP_AREA_10
+MAP_AREA_11	MAP_AREA_11
+MAP_AREA_12	MAP_AREA_12
+MAP_AREA_13	MAP_AREA_13
+MAP_AREA_14	MAP_AREA_14
+MAP_AREA_15	MAP_AREA_15
+MAP_AREA_16	MAP_AREA_16
+MAP_AREA_17	MAP_AREA_17
+MAP_AREA_18	MAP_AREA_18
+MAP_AREA_19	MAP_AREA_19
+MAP_AREA_20	MAP_AREA_20																						
+MAP_AREA_21	MAP_AREA_21																						
+MAP_AREA_22	MAP_AREA_22																						
+MAP_AREA_23	MAP_AREA_23																						
+MAP_AREA_24	MAP_AREA_24																						
+MAP_AREA_25	MAP_AREA_25																						
+MAP_AREA_26	MAP_AREA_26																						
+MAP_AREA_27	MAP_AREA_27																						
+MAP_AREA_28	MAP_AREA_28																						
+MAP_AREA_29	MAP_AREA_29																						
+MAP_AREA_30	MAP_AREA_30																						
+MAP_AREA_31	MAP_AREA_31																						
+MAP_AREA_32	MAP_AREA_32																						
+																							
+CampaignWindow	Okno kampaní 																						
+																							
+A ije královna	A ije královna		
+Osvobození 	Osvobození 		
+Váleèná koøist	Váleèná koøist		
+Píseò pro otce	Píseò pro otce		
+Jeskynì a ïáblové 	Jeskynì a ïáblové 		
+A ije král	A ije král		
+Sémì nespokojenosti	Sémì nespokojenosti		
+Meè zkázy	Meè zkázy		
+Draèí krev	Draèí krev		
+Drakobijce	Drakobijce		
+Slavnosti ivota	Slavnosti ivota		
+Nevyzpytatelnost osudu	Nevyzpytatelnost osudu		
+Hra s ohnìm	Hra s ohnìm		
+Sekni a rozsekej	Sekni a rozsekej		
+Zrození barbara	Zrození barbara		
+Novı poèátek	Novı poèátek		
+Elixír ivota	Elixír ivota																						
+Vzestup nekromanta	Vzestup nekromanta																						
+Bezboná aliance	Bezboná aliance																						
+Vláda moci	Vláda moci																						
+																							
+																							
+ROLLOVER	ROLLOVER																						
+																							
+Najmout	Najmout																						
+Maximum																							
+Najmout																							
+Zrušit																							
+																							
+Hra více hráèù 	Hra více hráèù 																						
+Ovìøení 	Klikni sem, chceš-li povolit/zablokovat jméno																						
+Vlo jméno hráèe	Vlo jméno hráèe																						
+OK																							
+Zpìt																							
+Vlo název relace																							
+Vlo heslo																							
+Název relace																							
+Vlo IP adresu																							
+																							
+Okno obìtování 	Okno obìtování 																						
+Opus (nic nebude obìtováno).	Opus oltáø.  Všechny pøedmìty, které jsou momentálnì na oltáøi, ti budou vráceny.																						
+Aktuálnì drenı artefakt																							
+Polo všechny artefakty ze zavazadla na oltáø 	Pøesune všechny pøedmìty ze zavazadla hrdiny na oltáø.																						
+Polo všechny artefakty na oltáø 	"Pøesune všechny pøedmìty (jak ze zavazadla hrdiny, tak i z vızbroje) na oltáø."																						
+Obìtovat bojovníky	Pøepne na obìtování bojovníkù. Dostupné pouze pro zlé a neutrální hrdiny.																						
+Poèet bojovníkù / Mnoství zkušeností 																							
+Aktuálnì vybrání bojovníci																							
+Poèet bojovníkù / Mnoství zkušeností 																							
+Poèet bojovníkù k obìtování 																							
+Nastav poèet bojovníkù k obìtování 																							
+Obìtuj maximální poèet bojovníkù 	Pøesune maximální poèet bojovníkù na oltáø.																						
+Obìtuj všechny bojovníky z hrdinovy armády	Pøesune všechny vyjma jednoho bojovníky na oltáø.																						
+Obìtuj artefakty	Pøepne na obìtování artefaktù. Dostupné pouze pro dobré a neutrální hrdiny.																						
+Poèet bojovníkù / Mnoství zkušeností 																							
+Sem polo artefakt k obìtování 																							
+Mnoství zkušeností za artefakt																							
+Obìtuj artefakty umístìné na oltáøi	"Obìtuje vše, co je momentálnì na oltáøi, a hrdina získá zkušenosti."																						
+Obìtuj bojovníky umístìné na oltáøi	"Obìtuje vše, co je momentálnì na oltáøi, a hrdina získá zkušenosti."																						
+	Prohledej zavazadlo																						
+	Prohledej zavazadlo																						
+																							
+Mìniè na kostlivce	Mìniè na kostlivce																						
+Umístí všechny bojovníky do mìnièe	Pøesune všechny bojovníky do mìnièe.																						
+Pøemìò bojovníky v mìnièi na nemrtvé 	Pøemìní bojovníky v mìnièi na nemrtvé.																						
+Opus mìniè 	Opustí mìniè.  ádní další bojovníci nebudou pøemìnìni na nemrtvé.																						
+																							
+Okno obchodu	Okno obchodu																						
+Proveï obchod																							
+Maximum																							
+Daruj suroviny jinému hráèi																							
+Kup artefakty																							
+Prodej bojovníky																							
+Opus 																							
+																							
+Okno darování surovin	Okno darování surovin																						
+Proveï obchod																							
+Maximum																							
+Vymìò suroviny																							
+Kup artefakty																							
+Opus 																							
+																							
+Okno koupì artefaktù 	Okno koupì artefaktù 																						
+Proveï obchod																							
+Vymìò suroviny																							
+Daruj suroviny jinému hráèi																							
+Prodej artefakty																							
+Opus																							
+																							
+Okno prodeje artefaktu	Okno prodeje artefaktu																						
+Proveï obchod																							
+Vymìò suroviny																							
+Daruj suroviny jinému hráèi																							
+Kup artefakty																							
+Opus 																							
+																							
+Okno prodeje bojovníkù 	Okno prodeje bojovníkù 																						
+Proveï obchod																							
+Maximum																							
+Vymìò suroviny																							
+Daruj suroviny jinému hráèi																							
+Opus 																							
+																							
+Okno univerzity	Okno univerzity																						
+Zrušit	Zpìt do vıbìru schopností 																						
+Opustit univerzitu	Opustit univerzitu																						
+	Nauèit se %s %s za %d zlatıch.																						
+Not used...  filthy bug.																							
+Insert all data before this line. Do not alter or delete this line.																							
+
+
+
+																							

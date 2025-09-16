@@ -1,0 +1,7 @@
+ Útoèná síla
+Obranná síla
+ Škody
+Energie
+Rychlost
+Nárùst (týdnì)
+Opustit %s

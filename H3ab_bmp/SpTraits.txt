@@ -1,0 +1,1126 @@
+			 Škola				Cena				Efekt					% šance úspìchu									AI hodnota				Pravı klik text				
+Název	Zkrácenı název	Stupeò 	Zemì 	Voda	Oheò 	Vzduch	Nic	Základní 	Lepší 	Expert	Síla kouzel 	Nic	Základní 	Lepší 	Expert	Hrad	Bašta	Vì 	Peklo	Nekropolis	Kobka	Tvrz	Pevnost	Soutok	Nic	Základní 	Lepší 	Expert	Normální 	Základní 	Lepší 	Expert	"Attributes (reference only, do not change)"
+																																	
+Cestovní kouzla																																	
+																																	
+Zavolej loï 	Zavolej loï 	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Zavolej loï }
+
+Pøivolá nejbliší volnou loï. Hrdina musí stát na bøehu a musí existovat nìjaká neobsazená loï.
+
+Tvá šance na úspìch je 50%.
+"	"{Základní Zavolej loï }
+
+Pøivolá nejbliší volnou loï. Hrdina musí stát na bøehu a musí existovat nìjaká neobsazená loï.
+
+Tvá šance na úspìch je 50%.
+"	"{Lepší zavolej loï }
+
+Pøivolá nejbliší volnou loï, hrdina musí stát na bøehu. Pokud ádná loï neexistuje, je postavena nová.
+
+Tvá šance na úspìch je 75%.
+"	"{Expert zavolej loï }
+
+Pøivolá nejbliší volnou loï, hrdina musí stát na bøehu. Pokud ádná loï neexistuje, je postavena nová.
+"	 ADV_SPELL
+Potop loï 	Potop loï 	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Potop loï }
+
+Trvale znièí jednu prázdnou vybranou loï.
+
+Tvá šance na úspìch je 50%.
+"	"{Základní Potop loï }
+
+Trvale znièí jednu prázdnou vybranou loï.
+
+Tvá šance na úspìch je 50%.
+"	"{Lepší Potop loï }
+
+Trvale znièí jednu prázdnou vybranou loï.
+
+Tvá šance na úspìch je 75%.
+"	"{Expert Potop loï }
+
+Trvale znièí jednu prázdnou vybranou loï.
+"	 ADV_SPELL
+Vidiny	Vidiny	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Vidiny}
+
+Dává základní informace o síle potulnıch bojovníkù, nepøátelskıch hrdinù a posádek.
+"	"{Základní vidiny}
+
+Dává základní informace o síle nepøátelskıch hrdinù a posádek.  Pokud jsou poblí potulné oddíly, dává informace o poètu a náladì bojovníkù.
+"	"{Lepší vidiny}
+
+Dává základní informace o síle nepøátelskıch posádek.  Pokud jsou poblí potulné oddíly, dává informace o poètu a náladì bojovníkù.  Umoòuje zobrazit informace o blízkém nepøátelském hrdinovi - jeho základní schopnosti a poèet a typ oddílù.
+"	"{Expert vidiny}
+
+Pokud jsou poblí potulné oddíly, dává informace o poètu a náladì bojovníkù.  Umoòuje zobrazit informace o blízkém nepøátelském hrdinovi - jeho základní schopnosti a poèet a typ oddílù. Dále poskytuje informaci o blízkém mìstì - udává poèet a typy oddílù v posádce.
+"	 ADV_SPELL
+Pohled zemì 	Pohled zemì 	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Pohled zemì }
+
+Ukáe všechny suroviny na mapì i v neprozkoumané oblasti.
+"	"{Základní pohled zemì }
+
+Ukáe všechny suroviny na mapì i v neprozkoumané oblasti.
+"	"Lepší pohled zemì }
+
+Ukáe všechny suroviny a doly na mapì i v neprozkoumané oblasti.
+"	"{Expert pohled zemì }
+
+Ukáe všechny suroviny, doly a typ terénu na mapì i v neprozkoumané oblasti.
+"	 ADV_SPELL
+Maskování 	Maskování 	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Maskování }
+
+Dodává nepøíteli falešné informace o oddílech tvého hrdiny.
+"	"{Základní maskování }
+
+Dodává nepøíteli falešné informace o oddílech tvého hrdiny. Všechny oddíly vypadají jako nejsilnìjší oddíl bojovníkù hrdiny, poèty bojovníkù zùstávají nezmìnìny.
+"	"{Lepší maskování }
+
+Dodává nepøíteli falešné informace o oddílech tvého hrdiny. Všechny oddíly vypadají jako nejsilnìjší oddíl bojovníkù hrdiny, poèty bojovníkù jsou nastaveny na nulu.
+"	"{Expert maskování }
+
+Dodává nepøíteli falešné informace o oddílech tvého hrdiny. Všechny oddíly vypadají jako nejsilnìjší oddíl bojovníkù, kterı hrdina je schopen postavit, poèty bojovníkù jsou nastavené na nulu.
+"	 ADV_SPELL
+Pohled Vzduchu	Pohled Vzduchu	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{Pohled vzduchu}
+
+Ukáe všechny artefakty na mapì i v neprozkoumané oblasti.
+"	"{Základní pohled vzduchu}
+
+Ukáe všechny artefakty na mapì i v neprozkoumané oblasti.
+"	"{Lepší pohled vzduchu}
+
+Ukáe všechny artefakty a nepøátelské hrdiny na mapì i v neprozkoumané oblasti.
+"	"{Expert pohled vzduchu}
+
+Ukáe všechny artefakty, nepøátelské hrdiny a mìsta na mapì i v neprozkoumané oblasti.
+"	 ADV_SPELL
+Let	Let	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Let}
+
+Umoní hrdinovi pøeletìt nad pøekákami v terénu na vzdálenost 60% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	"{Základní let}
+
+Umoní hrdinovi pøeletìt nad pøekákami v terénu na vzdálenost 60% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	"{Lepší let}
+
+Umoní hrdinovi pøeletìt nad pøekákami v terénu na vzdálenost 80% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	"{Expert let}
+
+Umoní hrdinovi pøeletìt nad pøekákami v terénu na vzdálenost 100% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	 ADV_SPELL
+Chùze po vodì 	Chùze po vodì 	4	 	x	 	 	12	8	8	8	0	60	60	80	100	10	10	10	10	10	10	0	0	10	15	15	20	25	"{Chùze po vodì }
+
+Umoní hrdinovi pøejít pøes vodu na vzdálenost 60% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	"{Základní chùze po vodì }
+
+Umoní hrdinovi pøejít pøes vodu na vzdálenost 60% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	"{Lepší chùze po vodì }
+
+Umoní hrdinovi pøejít pøes vodu na vzdálenost 80% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	"{Expert chùze po vodì }
+
+Umoní hrdinovi pøejít pøes vodu na vzdálenost 100% normální chùze.  Konec pohybu musí bıt na dostupné zemi.
+"	 ADV_SPELL
+Dimenzní brána	Dimenzní brána	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimenzní brána}
+
+Jednou dennì mùeš pøenést svého hrdinu na jiné neobsazené místo na mapì dobrodruství.
+"	"{Základní dimenzní brána}
+
+Dvakrát dennì mùeš pøenést svého hrdinu na jiné neobsazené místo na mapì dobrodruství.
+"	"{Lepší dimenzní brána}
+
+Tøikrát dennì mùeš pøenést svého hrdinu na jiné neobsazené místo na mapì dobrodruství.
+"	"{Expert dimenzní brána}
+
+A ètyøikrát dennì mùeš pøenést svého hrdinu na jiné neobsazené místo na mapì dobrodruství.
+"	 ADV_SPELL
+Mìstská brána	Mìstská brána	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Mìstská brána}
+
+Pøenese tvého hrdinu do nejblišího vlastního mìsta. Toto mìsto nesmí bıt obsazeno jinım hrdinou.
+"	"{Základní mìstská brána}
+
+Pøenese tvého hrdinu do nejblišího vlastního mìsta. Toto mìsto nesmí bıt obsazeno jinım hrdinou.
+"	"{Lepší mìstská brána}
+
+Pøenese tvého hrdinu do vlastního mìsta dle vıbìru. Toto mìsto nesmí bıt obsazeno jinım hrdinou.
+"	"{Expert mìstská brána}
+
+Pøenese tvého hrdinu do vlastního mìsta dle vıbìru, spotøebuje pøitom ménì pohybu. Toto mìsto nesmí bıt obsazeno jinım hrdinou.
+"	 ADV_SPELL
+																																	
+Bojová kouzla																																	
+																																	
+Tekutı písek	Tekutı písek	2	x	 	 	 	8	6	6	6	0	0	0	0	0	4	4	6	4	4	4	6	6	4	1	1	1	1	"{Tekutı písek}
+
+Náhodnì umístí na bojištì 4 pole s tekutım pískem, která uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, u se nemùe toto kolo pohybovat.
+"	"{Základní tekutı písek}
+
+Náhodnì umístí na bojištì 4 pole s tekutım pískem, tato pole uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, u se nemùe toto kolo pohybovat.
+"	"{Lepší tekutı písek}
+
+Náhodnì umístí na bojištì 6 polí s tekutım pískem, tato pole uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, u se nemùe toto kolo pohybovat.
+"	"{Expert tekutı písek}
+
+Náhodnì umístí na bojištì 8 polí s tekutım pískem, tato pole uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, u se nemùe toto kolo pohybovat.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Miny	Miny	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Miny}
+
+Náhodnì umístí na bojištì 4 pole s minami, která uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, bude poškozen.
+"	"{Základní miny}
+
+Náhodnì umístí na bojištì 4 pole s minami, která uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, bude poškozen.
+"	"{Lepší miny}
+
+Náhodnì umístí na bojištì 6 polí s minami, která uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, bude poškozen.
+
+Zpùsobené škody jsou o 25 bodù vìtší oproti kouzlu základní miny.
+"	"{Expert miny}
+
+Náhodnì umístí na bojištì 8 polí s minami, která uvidí pouze sesilatel kouzla a bojovníci pocházející z daného terénu. Oddíl, kterı na uvedené pole vstoupí, bude poškozen.
+
+Zpùsobené škody jsou o 75 bodù vìtší oproti kouzlu základní miny.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Silové pole	Silové pole	3	x	 	 	 	12	9	9	9	0	0	0	0	0	4	4	8	2	8	8	4	4	8	1	1	1	1	"{Silové pole}
+
+Umístí na bojištì malé neprùchozí silové pole v místì, které si vybere sesilatel kouzla. 
+"	"{Základní silové pole}
+
+Umístí na bojištì malé neprùchozí silové pole v místì, které si vybere sesilatel kouzla. 
+"	"{Lepší silové pole}
+
+Umístí na bojištì støednì velké neprùchozí silové pole v místì, které si vybere sesilatel kouzla.
+"	"{Expert silové pole}
+
+Umístí na bojištì støednì velké neprùchozí silové pole v místì, které si vybere sesilatel kouzla.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Ohnivá zeï 	Ohnivá zeï 	2	 	 	x	 	8	6	6	6	10	10	10	20	50	4	4	4	12	4	4	4	4	8	1	1	1	1	"{Ohnivá zeï }
+
+Umístí na bojištì malou ohnivou zeï v místì, které si vybere sesilatel kouzla.  Kadı oddíl, kterı projde ohnìm, bude poškozen.
+"	"{Základní ohnivá zeï }
+
+Umístí na bojištì malou ohnivou zeï v místì, které si vybere sesilatel kouzla.  Kadı oddíl, kterı projde ohnìm, bude poškozen.
+"	"{Lepší ohnivá zeï }
+
+Umístí na bojištì ohnivou zeï støední velikosti v místì, které si vybere sesilatel kouzla.  Kadı oddíl, kterı projde ohnìm, bude poškozen.
+"	"{Expert ohnivá zeï }
+
+Umístí na bojištì ohnivou zeï støední velikosti v místì, které si vybere sesilatel kouzla.  Kadı oddíl, kterı projde ohnìm, bude poškozen.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Zemìtøesení 	Zemìtøesení 	3	x	 	 	 	20	17	17	17	1	2	2	3	4	4	8	4	6	4	4	4	50	4	1	1	1	1	"{Zemìtøesení }
+
+Bìhem boje náhodnì poškodí na dvou místech protivníkovy hradby.
+"	"{Základní zemìtøesení }
+
+Bìhem boje náhodnì poškodí na dvou místech protivníkovy hradby.
+"	"{Lepší zemìtøesení }
+
+Bìhem boje náhodnì poškodí na tøech místech protivníkovy hradby.
+"	"{Expert zemìtøesení }
+
+Bìhem boje náhodnì poškodí na ètyøech místech protivníkovy hradby.
+"	 COMBAT_SPELL
+Magickı šíp	Magickı šíp	1	x	x	x	x	5	4	4	4	10	10	10	20	30	30	30	30	30	30	30	30	30	30	10	10	10	10	"{Magickı šíp}
+
+Magickı šíp naplnìnı magickou energií zasáhne vybranı oddíl.
+"	"{Základní magickı šíp}
+
+Magickı šíp naplnìnı magickou energií zasáhne vybranı oddíl.
+"	"{Lepší magickı šíp}
+
+Magickı šíp naplnìnı magickou energií zasáhne vybranı oddíl.
+
+Zpùsobené škody jsou o 10 bodù vìtší oproti kouzlu základní magickı šíp.
+"	"{Expert magickı šíp}
+
+Magickı šíp naplnìnı magickou energií zasáhne vybranı oddíl.
+
+Zpùsobené škody jsou o 20 bodù vìtší oproti kouzlu základní magickı šíp.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Ledovı šíp	Ledovı šíp	2	 	x	 	 	8	6	6	6	20	10	10	20	50	50	50	6	0	6	6	4	50	25	20	20	20	20	"{Ledovı šíp}
+
+Ledovı paprsek zasáhne vybranı oddíl nepøítele.
+"	"{Základní ledovı šíp}
+
+Ledovı paprsek zasáhne vybranı oddíl nepøítele.
+"	"{Lepší ledovı šíp}
+
+Ledovı paprsek zasáhne vybranı oddíl nepøítele.
+
+Zpùsobené škody jsou o 10 bodù vìtší oproti kouzlu základní Ledovı šíp.
+"	"{Expert ledovı šíp}
+
+Ledovı paprsek zasáhne vybranı oddíl nepøítele.
+
+Zpùsobené škody jsou o 40 bodù vìtší oproti kouzlu základní ledovı šíp.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Blesk	Blesk	2	 	 	 	x	10	8	8	8	25	10	10	20	50	4	4	50	20	6	50	50	4	25	25	25	25	25	"{Blesk}
+
+Mocnı úder blesku zasáhne vybranı oddíl nepøítele.
+"	"{Základní blesk}
+
+Mocnı úder blesku zasáhne vybranı oddíl nepøítele.
+"	"{Lepší blesk}
+
+Mocnı úder blesku zasáhne vybranı oddíl nepøítele.
+
+Zpùsobené škody jsou o 10 bodù vìtší oproti kouzlu základní blesk.
+"	"{Expert blesk}
+
+Mocnı úder blesku zasáhne vybranı oddíl nepøítele.
+
+Zpùsobené škody jsou o 40 bodù vìtší oproti kouzlu základní blesk.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Imploze	Imploze	5	x	 	 	 	30	25	25	25	75	100	100	200	300	0	16	14	16	20	12	0	0	13	75	75	75	75	"{Imploze}
+
+Zpùsobí znièující škody vybranému oddílu nepøítele.
+"	"{Základní imploze}
+
+Zpùsobí znièující škody vybranému oddílu nepøítele.
+"	"{Lepší imploze}
+
+Zpùsobí znièující škody vybranému oddílu nepøítele.
+
+Zpùsobené škody jsou o 100 bodù vìtší oproti kouzlu základní imploze.
+"	"{Expert imploze}
+
+Zpùsobí znièující škody vybranému oddílu nepøítele.
+
+Zpùsobené škody jsou o 200 bodù vìtší oproti kouzlu základní imploze.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Kulovı blesk	Kulovı blesk	4	 	 	 	x	24	20	20	20	40	25	25	50	100	10	10	10	10	10	10	0	0	10	75	75	75	75	"{Kulovı blesk}
+
+Kulovı blesk zasáhne plnou silou vybranı oddíl, pak s polovièní silou nejbliší oddíl na bojišti, další nejbliší oddíl opìt se silou sníenou na polovinu atd.  Celkem zasáhne 4 oddíly.
+"	"{Základní kulovı blesk}
+
+Kulovı blesk zasáhne plnou silou vybranı oddíl, pak s polovièní silou nejbliší oddíl na bojišti, další nejbliší oddíl opìt se silou sníenou na polovinu atd.  Celkem zasáhne 4 oddíly.
+"	"{Lepší kulovı blesk}
+
+Kulovı blesk zasáhne plnou silou vybranı oddíl, pak s polovièní silou nejbliší oddíl na bojišti, další nejbliší oddíl opìt se silou sníenou na polovinu atd.  Celkem zasáhne 5 oddílù.
+
+Základní zpùsobené škody jsou o 25 bodù vìtší oproti kouzlu základní kulovı blesk.
+"	"{Expert kulovı blesk}
+
+Kulovı blesk zasáhne plnou silou vybranı oddíl, pak s polovièní silou nejbliší oddíl na bojišti, další nejbliší oddíl opìt se silou sníenou na polovinu atd.  Celkem zasáhne 5 oddílù.
+
+Základní zpùsobené škody jsou o 75 bodù vìtší oproti kouzlu základní kulovı blesk.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Mrazící kruh	Mrazící kruh	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Mrazící kruh}
+
+Kruh mrazu poškodí všechny oddíly kolem vybraného oddílu, kterı sám zùstane nepoškozen.
+"	"{Základní mrazící kruh}
+
+Kruh mrazu poškodí všechny oddíly kolem vybraného oddílu, kterı sám zùstane nepoškozen.
+"	"{Lepší mrazící kruh}
+
+Kruh mrazu poškodí všechny oddíly kolem vybraného oddílu,  kterı sám zùstane nepoškozen.
+
+Zpùsobené škody jsou o 15 bodù vìtší oproti kouzlu základní mrazící kruh.
+"	"{Expert mrazící kruh}
+
+Kruh mrazu poškodí všechny oddíly kolem vybraného oddílu uprostøed, kterı zùstane nepoškozen.
+
+Zpùsobené škody jsou o 45 bodù vìtší oproti kouzlu základní mrazící kruh.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Ohnivá koule	Ohnivá koule	3	 	 	x	 	15	12	12	12	10	15	15	30	60	8	8	8	50	12	16	12	2	12	15	15	15	15	"{Ohnivá koule}
+
+Zásah ohnivou koulí poškodí vybranı oddíl a všechny jeho nejbliší sousedy v okolí 1 pole.
+"	"{Základní ohnivá koule}
+
+Zásah ohnivou koulí poškodí vybranı oddíl a všechny jeho nejbliší sousedy v okolí 1 pole.
+"	"{Lepší ohnivá koule}
+
+Zásah ohnivou koulí poškodí vybranı oddíl a všechny jeho nejbliší sousedy v okolí 1 pole.
+
+Zpùsobené škody jsou o 15 bodù vìtší oproti kouzlu základní ohnivá koule.
+"	"{Expert ohnivá koule}
+
+Zásah ohnivou koulí poškodí vybranı oddíl a všechny jeho nejbliší sousedy v okolí 1 pole.
+
+Zpùsobené škody jsou o 45 bodù vìtší oproti kouzlu základní ohnivá koule.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Peklo	Peklo	4	 	 	x	 	16	12	12	12	10	20	20	40	80	5	5	5	10	5	5	0	0	10	20	20	20	20	"{Peklo}
+
+Silnı vıbuch zpùsobí doslova peklo a poškodí vybranı oddíl a všechny jeho sousedy v okolí 2 polí!
+"	"{Základní peklo}
+
+Silnı vıbuch zpùsobí doslova peklo a poškodí vybranı oddíl a všechny jeho sousedy v okolí 2 polí!
+"	"{Lepší peklo}
+
+Silnı vıbuch zpùsobí doslova peklo a poškodí vybranı oddíl a všechny jeho sousedy v okolí 2 polí!
+
+Zpùsobené škody jsou o 20 bodù vìtší oproti kouzlu základní peklo.
+"	"{Expert peklo}
+
+Silnı vıbuch zpùsobí doslova peklo a poškodí vybranı oddíl a všechny jeho sousedy v okolí 2 polí!
+
+Zpùsobené škody jsou o 60 bodù vìtší oproti kouzlu základní peklo.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Pád meteoritù 	Pád meteoritù 	4	x	 	 	 	16	12	12	12	25	25	25	50	100	10	10	10	10	10	10	0	0	10	37	37	37	37	"{Pád meteoritù }
+
+Vybranou oblast zasáhne sprška meteoritù a poškodí vybranı oddíl a všechny jeho sousedy v okolí 1 pole.
+"	"{Základní pád meteoritù }
+
+Vybranou oblast zasáhne sprška meteoritù a poškodí vybranı oddíl a všechny jeho sousedy v okolí 1 pole.
+"	"{Lepší pád meteoritù }
+
+Vybranou oblast zasáhne sprška meteoritù a poškodí vybranı oddíl a všechny jeho sousedy v okolí 1 pole.
+
+Zpùsobené škody jsou o 25 bodù vìtší oproti kouzlu základní pád meteoritù.
+"	"{Expert pád meteoritù }
+
+Vybranou oblast zasáhne sprška meteoritù a poškodí vybranı oddíl a všechny jeho sousedy v okolí 1 pole.
+
+Zpùsobené škody jsou o 75 bodù vìtší oproti kouzlu základní pád meteoritù.
+"	 COMBAT_SPELL|LOCATION_TARGET
+Vlna smrti	Vlna smrti	2	x	 	 	 	10	8	8	8	5	10	10	20	30	0	0	0	0	50	0	0	0	0	20	20	20	20	"{Vlna smrti}
+
+Vyšle pøes bojištì vlnu smrti. Ta zpùsobí škody všem oddílùm, ve kterıch jsou iví bojovníci.
+"	"{Základní vlna smrti}
+
+Vyšle pøes bojištì vlnu smrti. Ta zpùsobí škody všem oddílùm, ve kterıch jsou iví bojovníci.
+"	"{Lepší vlna smrti}
+
+Vyšle pøes bojištì vlnu smrti. Ta zpùsobí škody všem oddílùm, ve kterıch jsou iví bojovníci.
+
+Zpùsobené škody jsou o 10 bodù vìtší oproti kouzlu základní vlna smrti.
+"	"{Expert vlna smrti}
+
+Pošle pøes bojištì vlnu smrti. Ta zpùsobí škody všem oddílùm, ve kterıch jsou iví bojovníci.
+
+Zpùsobené škody jsou o 20 bodù vìtší oproti kouzlu základní vlna smrti.
+"	 COMBAT_SPELL
+Zniè nemrtvé 	Zniè nemrtvé 	3	 	 	 	x	15	12	12	12	10	10	10	20	50	12	8	8	2	0	4	4	2	4	40	40	40	40	"{Zniè nemrtvé }
+
+Poškodí na bojišti všechny oddíly s nemrtvımi bojovníky.
+"	"{Základní zniè nemrtvé }
+
+Poškodí na bojišti všechny oddíly s nemrtvımi bojovníky.
+"	"{Lepší zniè nemrtvé }
+
+Poškodí na bojišti všechny oddíly s nemrtvımi bojovníky.
+
+Zpùsobené škody jsou o 10 bodù vìtší oproti kouzlu základní zniè nemrtvé.
+"	"{Expert zniè nemrtvé }
+
+Poškodí na bojišti všechny oddíly s nemrtvımi bojovníky.
+
+Zpùsobené škody jsou o 40 bodù vìtší oproti kouzlu základní zniè nemrtvé.
+"	 COMBAT_SPELL
+Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+
+Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
+"	"{Základní armageddon}
+
+Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
+"	"{Lepší armageddon}
+
+Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
+
+Zpùsobené škody jsou o 30 bodù vìtší oproti kouzlu základní armageddon.
+"	"{Expert armageddon}
+
+Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
+
+Zpùsobené škody jsou o 90 bodù vìtší oproti kouzlu základní armageddon.
+"	 COMBAT_SPELL
+ Štít	 Štít	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{ Štít}
+
+Chrání tebou vybranı oddíl a sniuje tak škody, které mu mùe zpùsobit nepøítel pøi boji mue proti mui.
+"	"{Základní štít}
+
+Chrání tebou vybranı oddíl a sniuje tak škody, které mu mùe zpùsobit nepøítel pøi boji mue proti mui.
+"	"{Lepší štít}
+
+Chrání tebou vybranı oddíl a sniuje tak škody, které mu mùe zpùsobit nepøítel pøi boji mue proti mui.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní štít.
+"	"{Expert štít}
+
+Chrání tebou vybranı oddíl a sniuje tak škody, které mu mùe zpùsobit nepøítel pøi boji mue proti mui.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní štít.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Vzdušnı štít	Vzdušnı štít	3	 	 	 	x	12	9	9	9	0	75	75	50	50	4	8	8	2	4	4	8	4	4	20	20	50	50	"{Vzdušnı štít}
+
+Chrání tebou vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit nepøátelské støelecké oddíly.
+"	"{Základní vzdušnı štít}
+
+Chrání tebou vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit nepøátelské støelecké oddíly.
+"	"{Lepší vzdušnı štít}
+
+Chrání tebou vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit nepøátelské støelecké oddíly.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní vzdušnı štít.
+"	"{Expert vzdušnı štít}
+
+Chrání všechny tvoje oddíly a sniuje tak škody, které jim mohou zpùsobit nepøátelské støelecké oddíly.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní vzdušnı štít.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Ohnivı štít	Ohnivı štít	4	 	 	x	 	16	12	12	12	0	20	20	25	30	5	5	5	5	5	5	0	0	5	10	10	12	15	"{Ohnivı štít}
+
+Vybranı oddíl zahalí ohnivım štítem. Ten sice danou jednotku nechrání, ale všechny nepøátelské oddíly, které na ni zaútoèí v boji mue proti mui, utrpí poškození ve vıši 20% škod, které zpùsobily.
+"	"{Základní ohnivı štít}
+
+Vybranı oddíl zahalí ohnivım štítem. Ten sice danou jednotku nechrání, ale všechny nepøátelské oddíly, které na ni zaútoèí v boji mue proti mui, utrpí poškození ve vıši 20% škod, které zpùsobily.
+"	"{Lepší ohnivı štít}
+
+Vybranı oddíl zahalí ohnivım štítem. Ten sice danou jednotku nechrání, ale všechny nepøátelské oddíly, které na ni zaútoèí v boji mue proti mui, utrpí poškození ve vıši 25% škod, které zpùsobily.
+
+Poškození je o 5% vìtší ne u základního ohnivého štítu.
+"	"{Expert ohnivı štít}
+
+Vybranı oddíl zahalí ohnivım štítem. Ten sice danou jednotku nechrání, ale všechny nepøátelské oddíly, které na ni zaútoèí v boji mue proti mui, utrpí poškození ve vıši 30% škod, které zpùsobily.
+
+Poškození je o 10% vìtší ne u základního ohnivého štítu.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Vzdušná ochrana	Vzdušná ochrana	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Ochrana pøed kouzly vzduchu}
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vzduchu.
+"	"{Základní ochrana pøed kouzly {vzduchu}
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vzduchu.
+"	"{Lepší ochrana pøed kouzly vzduchu}
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vzduchu.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly vzduchu.
+"	"{Expert ochrana pøed kouzly vzduchu}
+
+Ochraòuje všechny tvé oddíly a sniuje tak škody, které jim mohou zpùsobit kouzla vzduchu.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly vzduchu.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Ohnivá ochrana	Ohnivá ochrana	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Ochrana pøed kouzly ohnì }
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla ohnì.
+"	"{Základní ochrana pøed kouzly {ohnì }
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla ohnì.
+"	"{Lepší ochrana pøed kouzly ohnì }
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla ohnì.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly ohnì.
+"	"{Expert ochrana pøed kouzly ohnì }
+
+Ochraòuje všechny tvé oddíly a sniuje tak škody, které jim mohou zpùsobit kouzla ohnì.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly ohnì.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Vodní ochrana	Vodní ochrana	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Ochrana pøed kouzly vody}
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vody.
+"	"{Základní ochrana pøed kouzly {vody}
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vody.
+"	"{Lepší ochrana pøed kouzly vody}
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vody.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly vody.
+"	"{Expert ochrana pøed kouzly vody}
+
+Ochraòuje všechny tvé oddíly a sniuje tak škody, které jim mohou zpùsobit kouzla vody.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly vody.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Zemská ochrana	Zemská ochrana	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Ochrana pøed kouzly zemì }
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla zemì.
+"	"{Základní ochrana pøed kouzly {zemì }
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla zemì.
+"	"{Lepší ochrana pøed kouzly zemì }
+
+Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla zemì.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly zemì.
+"	"{Expert ochrana pøed kouzly zemì }
+
+Ochraòuje všechny tvé oddíly a sniuje tak škody, které jim mohou zpùsobit kouzla zemì.
+
+Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly zemì.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Protimagie	Protimagie	3	x	 	 	 	15	12	12	12	0	4	4	5	6	12	8	8	4	8	8	12	10	12	10	10	15	20	"{Protimagie}
+
+Vybranı oddíl chrání pøed všemi kouzly do 3. stupnì.
+"	"{Základní protimagie}
+
+Vybranı oddíl chrání pøed všemi kouzly do 3. stupnì.
+"	"{Lepší protimagie}
+
+Vybranı oddíl chrání pøed všemi kouzly do 4. stupnì.
+"	"{Expert protimagie}
+
+Vybranı oddíl chrání pøed všemi kouzly všech stupòù.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Zrušit kouzla	Zrušit kouzla	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Zrušit kouzla}
+
+Odstraní všechna aktivní kouzla na tvém vybraném oddílu.
+"	"{Základní zrušit kouzla}
+
+Odstraní všechna aktivní kouzla na tvém vybraném oddílu.
+"	"{Lepší zrušit kouzla}
+
+Odstraní všechna aktivní kouzla na tvém nebo nepøítelovì vybraném oddílu.
+"	"{Expert zrušit kouzla}
+
+Odstraní všechna aktivní kouzla na všech oddílech na bojišti.
+"	 COMBAT_SPELL|CREATURE_TARGET_1
+Magické zrcadlo	magické zrcadlo	5	 	 	 	x	25	20	20	20	0	20	20	30	40	0	16	14	0	0	12	0	0	13	12	12	18	24	"{Magické zrcadlo}
+
+Vybranı oddíl má 20% šanci, e odrazí kouzlo, které na nìj sešle nepøítel.
+"	"{Základní magické zrcadlo}
+
+Vybranı oddíl má 20% šanci, e odrazí kouzlo, které na nìj sešle nepøítel.
+"	"{Lepší magické zrcadlo}
+
+Vybranı oddíl má 30% šanci, e odrazí kouzlo, které na nìj sešle nepøítel.
+"	"{Expert magické zrcadlo}
+
+Vybranı oddíl má 40% šanci, e odrazí kouzlo, které na nìj sešle nepøítel.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Léèba	Léèba	1	 	x	 	 	6	5	5	5	5	10	10	20	30	10	10	5	5	0	5	5	10	5	4	4	4	4	"{Léèba}
+
+Odstraní všechna záporná kouzla na vybraném oddílu a èásteènì ho vyléèí.
+"	"{Základní léèba}
+
+Odstraní všechna záporná kouzla na vybraném oddílu a èásteènì ho vyléèí.
+"	"{Lepší léèba}
+
+Odstraní všechna záporná kouzla na vybraném oddílu a èásteènì ho vyléèí.
+
+Vyléèené škody jsou o 10 bodù vìtší oproti kouzlu základní léèba.
+"	"{Expert léèba}
+
+Odstraní všechna záporná kouzla na všech tvıch oddílech a èásteènì je vyléèí.
+
+Vyléèené škody jsou o 20 bodù vìtší oproti kouzlu základní léèba.
+"	 COMBAT_SPELL|CREATURE_TARGET_1
+Vzkøíšení 	Vzkøíšení 	4	x	 	 	 	20	16	16	16	50	40	40	80	160	10	10	10	10	10	10	0	0	5	50	50	60	120	"{Vzkøíšení }
+
+Toto kouzlo doèasnì vzkøísí bojovníky z tvého poškozeného nebo zabitého oddílu ivıch tvorù (ne nemrtvıch).
+"	"{Základní Vzkøíšení }
+
+Toto kouzlo doèasnì vzkøísí bojovníky z tvého poškozeného nebo zabitého oddílu ivıch tvorù (ne nemrtvıch).
+"	"{Lepší vzkøíšení }
+
+Trvale vzkøísí bojovníky z tvého poškozeného nebo zabitého oddílu ivıch tvorù (ne nemrtvıch).
+
+Celková energie vzkøíšenıch je o 40 bodù vìtší oproti kouzlu základní vzkøíšení.
+"	"{Expert vzkøíšení }
+
+Trvale vzkøísí bojovníky z tvého poškozeného nebo zabitého oddílu ivıch tvorù (ne nemrtvıch). 
+
+Celková energie vzkøíšenıch je o 120 bodù vìtší oproti kouzlu základní vzkøíšení.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Oiv mrtvé 	Oiv mrtvé 	3	x	 	 	 	15	12	12	12	50	30	30	60	160	0	0	0	0	16	0	0	0	0	60	60	60	120	"{Oiv mrtvé }
+
+Trvale oiví bojovníky z tvého poškozeného nebo zabitého oddílu nemrtvıch.
+"	"{Základní oiv mrtvé }
+
+Trvale oiví bojovníky z tvého poškozeného nebo zabitého oddílu nemrtvıch.
+"	"{Lepší oiv mrtvé }
+
+Trvale oiví bojovníky z tvého poškozeného nebo zabitého oddílu nemrtvıch.
+
+Celková energie oivenıch je o 30 bodù vìtší oproti kouzlu základní oiv mrtvé.
+"	"{Expert oiv mrtvé }
+
+Trvale oiví bojovníky z tvého poškozeného nebo zabitého oddílu nemrtvıch.
+
+Celková energie oivenıch je o 130 bodù vìtší oproti kouzlu základní oiv mrtvé.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Obìtování 	Obìtování 	5	 	 	x	 	25	20	20	20	1	3	3	6	10	0	0	0	20	16	12	0	0	0	1	1	1	1	"{Obìtování }
+
+Obìtováním celého tvého oddílu dojde k trvalému vzkøíšení jiné poškozené èi zabité jednotky.  Poèet vzkøíšenıch bojovníkù v oddílu závisí na energii a poètu obìtovanıch bojovníkù a síle kouzel hrdiny.
+"	"{Základní obìtování }
+
+Obìtováním celého tvého oddílu dojde k trvalému vzkøíšení jiné poškozené èi zabité jednotky.  Poèet vzkøíšenıch bojovníkù v oddílu závisí na energii a poètu obìtovanıch bojovníkù a síle kouzel hrdiny.
+"	"{Lepší obìtování }
+
+Obìtováním celého tvého oddílu dojde k trvalému vzkøíšení jiné poškozené èi zabité jednotky.  Poèet vzkøíšenıch bojovníkù v oddílu závisí na energii a poètu obìtovanıch bojovníkù a síle kouzel hrdiny.
+
+Vzkøísí více bojovníkù ne základní obìtování.
+"	"{Expert obìtování }
+
+Obìtováním celého tvého oddílu dojde k trvalému vzkøíšení jiné poškozené èi zabité jednotky.  Poèet vzkøíšenıch bojovníkù v oddílu závisí na energii a poètu obìtovanıch bojovníkù a síle kouzel hrdiny.
+
+Vzkøísí více bojovníkù ne lepší obìtování.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Poehnání 	Poehnání 	1	 	x	 	 	5	4	4	4	0	0	0	1	1	10	5	5	0	0	3	3	5	5	10	10	11	11	"{Poehnání }
+
+Zvıší škody zpùsobené vybranım oddílem na maximum.
+"	"{Základní poehnání }
+
+Zvıší škody zpùsobené vybranım oddílem na maximum.
+"	"{Lepší poehnání }
+
+ Škody zpùsobené vybranım oddílem jsou vìtší, ne je jeho normální maximum.
+"	"{Expert poehnání }
+
+ Škody zpùsobené všemi tvımi oddíly jsou vìtší, ne je jejich normální maximum.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Prokletí 	Prokletí 	1	 		x	 	6	5	5	5	0	0	0	1	1	0	0	3	5	10	5	0	0	0	10	10	11	11	"{Prokletí }
+
+Sníí škody zpùsobené vybranım oddílem na minimum.
+"	"{Základní prokletí }
+
+Sníí škody zpùsobené vybranım oddílem na minimum.
+"	"{Lepší prokletí }
+
+ Škody zpùsobené vybranım oddílem jsou menší, ne je jeho normální minimum.
+"	"{Expert prokletí }
+
+ Škody zpùsobené všemi nepøátelskımi oddíly jsou menší, ne je jejich normální minimum.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Krveíznivost	Krveíznivost	1	 	 	x	 	5	4	4	4	0	3	3	6	6	0	0	0	10	5	5	10	5	5	7	7	15	15	"{Krveíznivost}
+
+Zvıší u vybraného oddílu útoènou sílu pøi boji mue proti mui.
+"	"{Základní krveíznivost}
+
+Zvıší u vybraného oddílu útoènou sílu pøi boji mue proti mui.
+"	"{Lepší krveíznivost}
+
+Zvıší u vybraného oddílu útoènou sílu pøi boji mue proti mui.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní krveíznivost.
+"	"{Expert krveíznivost}
+
+Zvıší u všech tvıch oddílù útoènou sílu pøi boji mue proti mui.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní krveíznivost.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Pøesnost	Pøesnost	2	 	 	 	x	8	6	6	6	0	3	3	6	6	6	6	4	8	2	6	4	4	2	7	7	15	15	"{Pøesnost}
+
+Zvıší u vybraného støeleckého oddílu útoènou sílu pøi støelbì.
+"	"{Základní pøesnost}
+
+Zvıší u vybraného støeleckého oddílu útoènou sílu pøi støelbì.
+"	"{Lepší pøesnost}
+
+Zvıší u vybraného støeleckého oddílu útoènou sílu pøi støelbì.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní pøesnost.
+"	"{Expert pøesnost}
+
+Zvıší u všech tvıch støeleckıch oddílù útoènou sílu pøi støelbì.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní pøesnost.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Slabost	Slabost	2	 	x	 	 	8	6	6	6	0	3	3	6	6	2	2	2	8	4	4	4	4	4	7	7	15	15	"{Slabost}
+
+Sníí u vybraného oddílu nepøítele jeho útoènou sílu.
+"	"{Základní slabost}
+
+Sníí u vybraného oddílu nepøítele jeho útoènou sílu.
+"	"{Lepší slabost}
+
+Sníí u vybraného oddílu nepøítele jeho útoènou sílu.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní slabost.
+"	"{Expert slabost}
+
+Sníí všem nepøátelskım oddílùm jejich útoènou sílu.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní slabost.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Kamenná kùe	Kamenná kùe	1	x	 	 	 	5	4	4	4	0	3	3	6	6	5	5	10	5	10	5	10	5	5	7	7	15	15	"{Kamenná kùe}
+
+Zvıší u vybraného oddílu obrannou sílu.
+"	"{Základní kamenná kùe}
+
+Zvıší u vybraného oddílu obrannou sílu.
+"	"{Lepší kamenná kùe}
+
+Zvıší u vybraného oddílu obrannou sílu.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní kamenná kùe.
+"	"{Expert kamenná kùe}
+
+Zvıší u všech tvıch oddílù obrannou sílu.
+
+ Úèinek je dvakrát vìtší oproti kouzlu základní kamenná kùe.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Rušící paprsek	Rušící paprsek	2	 	 	 	x	10	8	8	8	0	3	3	4	5	6	4	6	12	4	6	6	6	8	7	7	15	15	"{Rušící paprsek}
+
+Sníí u vybraného oddílu nepøítele a do konce boje obrannou sílu.  Kouzlo nejde zrušit!
+"	"{Základní rušící paprsek}
+
+Sníí u vybraného oddílu nepøítele a do konce boje obrannou sílu.  Kouzlo nejde zrušit!
+"	"{Lepší rušící paprsek}
+
+Sníí u vybraného oddílu nepøítele a do konce boje obrannou sílu.  Kouzlo nejde zrušit!
+
+ Úèinek kouzla je silnìjší ne u kouzla základní rušící paprsek.
+"	"{Expert rušící paprsek}
+
+Sníí u vybraného oddílu nepøítele a do konce boje obrannou sílu.  Kouzlo nejde zrušit!
+
+ Úèinek kouzla je silnìjší ne u kouzla lepší rušící paprsek.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Modlitba	Modlitba	4	 	x	 	 	16	12	12	12	0	2	2	4	4	10	5	5	0	0	0	0	0	5	8	8	16	16	"{Modlitba}
+
+Zvıší vybranému oddílu o 2 body útoènou sílu, obrannou sílu a rychlost.
+"	"{Základní modlitba}
+
+Zvıší vybranému oddílu o 2 body útoènou sílu, obrannou sílu a rychlost.
+"	"{Lepší modlitba}
+
+Zvıší vybranému oddílu o 4 body útoènou sílu, obrannou sílu a rychlost.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní modlitba.
+"	"{Expert modlitba}
+
+Zvıší všem tvım oddílùm o 4 body útoènou sílu, obrannou sílu a rychlost.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní modlitba.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Radost	Radost	3	 	x	 	 	12	9	9	9	0	1	1	2	2	4	4	4	2	4	4	12	2	4	1	1	2	2	"{Radost}
+
+Zvıší morálku vybraného oddílu.
+"	"{Základní radost}
+
+Zvıší morálku vybraného oddílu.
+"	"{Lepší radost}
+
+Zvıší morálku vybraného oddílu.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní radost.
+"	"{Expert radost}
+
+Zvıší morálku všech tvıch oddílù.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní radost.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+Smutek	Smutek	4	x	 	 	 	16	12	12	12	0	1	1	2	2	5	5	5	5	5	5	0	0	5	1	1	2	2	"{Smutek}
+
+Sníí morálku vybraného oddílu.
+"	"{Základní smutek}
+
+Sníí morálku vybraného oddílu.
+"	"{Lepší smutek}
+
+Sníí morálku vybraného oddílu.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní smutek.
+"	"{Expert smutek}
+
+Sníí morálku všech nepøátelskıch oddílù.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní smutek.
+"	 COMBAT_SPELL|CREATURE_TARGET_2|MIND_SPELL
+ Štìstí 	 Štìstí 	2	 	 	 	x	7	5	5	5	0	1	1	2	2	4	6	4	4	2	2	4	4	2	1	1	2	2	"{ Štìstí }
+
+Zvıší štìstí vybraného oddílu.
+"	"{Základní štìstí }
+
+Zvıší štìstí vybraného oddílu.
+"	"{Lepší štìstí }
+
+Zvıší štìstí vybraného oddílu.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní štìstí.
+"	"{Expert štìstí }
+
+Zvıší štìstí všech tvıch oddílù.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní štìstí.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Smùla 	Smùla 	3	 	 	x	 	12	9	9	9	0	1	1	2	2	4	4	4	6	8	4	4	2	4	1	1	2	2	"{Smùla }
+
+Sníí štìstí vybraného oddílu.
+"	"{Základní smùla }
+
+Sníí štìstí vybraného oddílu.
+
+Cena kouzla je polovièní.
+"	"{Lepší smùla }
+
+Sníí štìstí vybraného oddílu.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní smùla.
+"	"{Expert smùla }
+
+Sníí štìstí všech nepøátelskıch oddílù.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní smùla.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Zrychlení 	Zrychlení 	1		 	 	x	6	5	5	5	0	3	3	5	5	5	10	5	5	5	10	5	10	10	5	5	10	10	"{Zrychlení }
+
+Zvıší rychlost vybraného oddílu.
+"	"{Základní zrychlení }
+
+Zvıší rychlost vybraného oddílu.
+"	"{Lepší zrychlení }
+
+Zvıší rychlost vybraného oddílu.
+
+ Úèinek je skoro dvakrát vìtší ne u kouzla základní zrychlení.
+"	"{Expert zrychlení }
+
+Zvıší rychlost všech tvıch oddílù.
+
+ Úèinek je skoro dvakrát vìtší ne u kouzla základní zrychlení.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Zpomalení 	Zpomalení 	1	x	 	 	 	6	5	5	5	0	75	75	50	50	5	10	10	10	5	5	5	5	10	5	5	15	15	"{Zpomalení 
+
+Sníí rychlost vybraného oddílu nepøítele.
+"	"{Základní zpomalení }
+
+Sníí rychlost vybraného oddílu nepøítele.
+"	"{Lepší zpomalení }
+
+Sníí rychlost vybraného oddílu nepøítele.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní zpomalení.
+"	"{Expert zpomalení }
+
+Sníí rychlost všech oddílù nepøítele.
+
+ Úèinek je dvakrát vìtší ne u kouzla základní zpomalení.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Zabiják	Zabiják	4	 		x	 	16	12	12	12	0	8	8	8	8	5	5	5	5	5	5	0	0	5	1	1	1	1	"{Zabiják}
+
+Zvıší útoènou sílu jednoho tvého oddílu pøi útoku proti drakùm, behemotùm a hydrám o 8 bodù.
+"	"{Základní Zabiják}
+
+Zvıší útoènou sílu jednoho tvého oddílu pøi útoku proti drakùm, behemotùm a hydrám o 8 bodù.
+"	"{Lepší zabiják}
+
+Zvıší útoènou sílu jednoho tvého oddílu pøi útoku proti drakùm, behemotùm, hydrám, andìlùm a ïáblùm o 8 bodù.
+"	"{Expert zabiják}
+
+Zvıší útoènou sílu jednoho tvého oddílu pøi útoku proti drakùm, behemotùm, hydrám, ïáblùm, andìlùm a titánùm o 8 bodù.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Zuøivost	Zuøivost	4	 	 	x	 	16	12	12	12	0	100	100	150	200	5	5	5	5	5	5	0	0	5	10	10	20	30	"{Zuøivost}
+
+Tvému vybranému oddílu klesne obrana na 0 a o 100% této obrany se mu zvıší na dané kolo útok.
+"	"{Základní zuøivost}
+
+Tvému vybranému oddílu klesne obrana na 0 a o 100% této obrany se mu zvıší na dané kolo útok.
+"	"{Lepší zuøivost}
+
+Tvému vybranému oddílu klesne obrana na 0 a o 150% této obrany se mu zvıší na dané kolo útok.
+
+Bonus k útoku je o 50% vìtší ne u kouzla základní zuøivost.
+"	"{Expert zuøivost}
+
+Tvému vybranému oddílu klesne na 0 a o 200% této obrany se mu zvıší na dané kolo útok.
+
+Bonus k útoku je dvakrát vìtší ne u kouzla základní zuøivost.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Titánùv blesk	Titánùv blesk	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Titánùv blesk}
+
+Zpùsobí 600 škod a sesilatele nestojí ádnou magickou energii."	"{Titánùv blesk}
+
+Zpùsobí 600 škod a sesilatele nestojí ádnou magickou energii."	"{Titánùv blesk}
+
+Zpùsobí 600 škod a sesilatele nestojí ádnou magickou energii."	"{Titánùv blesk}
+
+Zpùsobí 600 škod a sesilatele nestojí ádnou magickou energii."	
+Protiútok	Protiútok	4	 	 	 	x	24	20	20	20	0	1	1	2	2	5	10	5	5	5	5	0	0	5	20	20	30	30	"{Protiútok}
+
+Vybranı oddíl mùe pøi obranì vrátit v kadém kole jeden úder navíc.
+"	"{Základní protiútok}
+
+Vybranı oddíl mùe pøi obranì vrátit v kadém kole jeden úder navíc.
+"	"{Lepší protiútok}
+
+Vybranı oddíl mùe pøi obranì vrátit v kadém kole dva údery navíc.
+"	"{Expert protiútok}
+
+Všechny tvé oddíly mohou pøi obranì vrátit v kadém kole dva údery navíc.
+"	 COMBAT_SPELL|CREATURE_TARGET_2
+Berserk	Berserk	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Berserk}
+
+Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
+"	"{Základní berserk}
+
+Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
+"	"{Lepší berserk}
+
+Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
+
+Oddíl mùe útoèit do vzdálenosti o 6 polí vìtší oproti kouzlu základní berserk.
+"	"{Expert berserk}
+
+Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
+
+Oddíl mùe útoèit do vzdálenosti o 18 polí vìtší oproti kouzlu základní berserk.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Hypnóza	Hypnóza	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnóza}
+
+Mùeš doèasnì ovládat vybranı oddíl nepøítele.
+"	"{Základní hypnóza}
+
+Mùeš doèasnì ovládat vybranı oddíl nepøítele.
+"	"{Lepší hypnóza}
+
+Mùeš doèasnì ovládat vybranı oddíl nepøítele.
+
+Ovládanı oddíl mùe mít o 10 bodù energie více, ne umoòovala základní hypnóza.
+"	"{Expert hypnóza}
+
+Mùeš doèasnì ovládat vybranı oddíl nepøítele.
+
+Ovládanı oddíl mùe mít o 40 bodù energie více, ne umoòovala základní hypnóza.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Zapomnìtlivost	Zapomnìtlivost	3	 	x	 	 	12	9	9	9	0	0	0	0	0	8	8	4	4	4	4	4	4	8	1	1	1	1	"{Zapomnìtlivost}
+
+Polovina bojovníkù z vybraného støeleckého oddílu nepøítele zapomene, e umí støílet.
+"	"{Základní zapomnìtlivost}
+
+Polovina bojovníkù z vybraného støeleckého oddílu nepøítele zapomene, e umí støílet.
+"	"{Lepší zapomnìtlivost}
+
+Všichni bojovníci z vybraného støeleckého oddílu nepøítele zapomenou, e umìjí støílet.
+"	"{Expert zapomnìtlivost}
+
+Všichni bojovníci ze všech støeleckıch oddílù nepøítele zapomenou, e umìjí støílet.
+"	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+Slepota	Slepota	2	 	 	x	 	10	8	8	8	0	50	50	25	0	4	6	2	12	4	4	4	6	8	50	50	50	50	"{Slepota}
+
+Oslepenı oddíl se nemùe pohybovat a úder mùe vrátit pouze s polovièní silou.  Úèinek kouzla zmizí po prvním útoku na oslepenı oddíl.
+"	"{Základní slepota}
+
+Oslepenı oddíl se nemùe pohybovat a úder mùe vrátit pouze s polovièní silou.  Úèinek kouzla zmizí po prvním útoku na oslepenı oddíl.
+"	"{Lepší slepota}
+
+Oslepenı oddíl se nemùe pohybovat a úder mùe vrátit pouze s ètvrtinovou silou.  Úèinek kouzla zmizí po prvním útoku na oslepenı oddíl.
+"	"{Expert slepota}
+
+Oslepenı oddíl se nemùe pohybovat a nemùe vrátit první úder.  Úèinek kouzla zmizí po prvním útoku na oslepenı oddíl.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Teleport	Teleport	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleport}
+
+Pøenese vybranı oddíl na jiné volné místo na bojišti.
+"	"{Základní teleport}
+
+Pøenese vybranı oddíl na jiné volné místo na bojišti.
+
+Oddíl nelze pøenášet pøes hradby nebo pøíkop.
+"	"{Lepší teleport}
+
+Pøenese vybranı oddíl na jiné volné místo na bojišti.
+
+Oddíl nelze pøenášet pøes hradby.
+"	"{Expert teleport}
+
+Pøenese vybranı oddíl na jakékoliv jiné volné místo na bojišti.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Odstraò pøekáku	Odstraò pøekáku	2	 	x	 	 	7	5	5	5	0	0	0	0	0	4	4	6	4	4	4	4	4	4	1	1	1	1	"{Odstraò pøekáku}
+
+Odstraní z bojištì jednu vybranou nemagickou pøekáku (kámen, strom, puklinu apod.).
+"	"{Základní odstraò pøekáku}
+
+Odstraní z bojištì jednu vybranou nemagickou pøekáku (kámen, strom, puklinu apod.).
+"	"{Lepší odstraò pøekáku}
+
+Odstraní z bojištì jednu vybranou nemagickou pøekáku (kámen, strom, puklinu apod.) nebo ohnivou zeï.
+"	"{Expert odstraò pøekáku}
+
+Odstraní z bojištì jednu vybranou nemagickou nebo magickou pøekáku (kámen, strom, puklinu, ohnivou zeï, silové pole apod.).
+"	 COMBAT_SPELL|OBSTACLE_TARGET
+Klonování 	Klonování 	4	 	x	 	 	24	20	20	20	0	5	5	6	7	5	5	10	5	5	5	0	0	10	20	20	40	50	"{Klonování }
+
+Vytvoøí duplikát existujícího oddílu.  Tato kopie pùsobí stejné škody jako originál, ale lze ji zrušit jedinou ránou.
+
+Klonovat lze pouze bojovníky stupòù 1-5.
+"	"{Základní klonování }
+
+Vytvoøí duplikát existujícího oddílu.  Tato kopie pùsobí stejné škody jako originál, ale lze ji zrušit jedinou ránou.
+
+Klonovat lze pouze bojovníky stupòù 1-5.
+"	"{Lepší klonování }
+
+Vytvoøí duplikát existujícího oddílu.  Tato kopie pùsobí stejné škody jako originál, ale lze ji zrušit jedinou ránou.
+
+Klonovat lze pouze bojovníky stupòù 1-6.
+"	"{Expert klonování }
+
+Vytvoøí duplikát existujícího oddílu.  Tato kopie pùsobí stejné škody jako originál, ale lze ji zrušit jedinou ránou.
+
+Klonovat lze bojovníky všech 7 stupòù.
+"	 COMBAT_SPELL|CREATURE_TARGET
+Ohnivé elem.	Ohnivé elem.	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Pøivolej ohnivé elementály}
+
+Pøivolá na pomoc ohnivé elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Základní pøivolej ohnivé {elementály}
+
+Pøivolá na pomoc ohnivé elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Lepší pøivolej ohnivé elementály}
+
+Pøivolá na pomoc ohnivé elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá 1,5krát více bojovníkù ne základní zavolej ohnivé elementály.
+"	"{Expert pøivolej ohnivé elementály}
+
+Pøivolá na pomoc ohnivé elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá dvakrát více bojovníkù ne základní pøivolej ohnivé elementály.
+"	 COMBAT_SPELL
+Zemské elem.	Zemské elem.	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Pøivolej zemské elementály}
+
+Pøivolá na pomoc zemské elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Základní pøivolej zemské {elementály}
+
+Pøivolá na pomoc zemské elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Lepší pøivolej zemské elementály}
+
+Pøivolá na pomoc zemské elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá 1,5krát více bojovníkù ne základní zavolej zemské elementály.
+"	"{Expert pøivolej zemské elementály}
+
+Pøivolá na pomoc zemské elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá dvakrát více bojovníkù ne základní pøivolej zemské elementály.
+"	 COMBAT_SPELL
+Vodní elem.	Vodní elem.	5		x			25	20	20	20	0	2	2	3	4	0	16	14	0	0	12	0	0	12	50	50	100	150	"{Pøivolej vodní elementály}
+
+Pøivolá na pomoc vodní elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Základní pøivolej vodní elementály}
+
+Pøivolá na pomoc vodní elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Lepší pøivolej vodní elementály}
+
+Pøivolá na pomoc vodní elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá 1,5krát více bojovníkù ne základní pøivolej vodní elementály.
+"	"{Expert pøivolej vodní elementály}
+
+Pøivolá na pomoc vodní elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá dvakrát více bojovníkù ne základní pøivolej vodní elementály.
+"	 COMBAT_SPELL
+Vzdušné elem.	Vzdušné elem.	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Pøivolej vzdušné elementály}
+
+Pøivolá na pomoc vzdušné elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Základní pøivolej vzdušné {elementály}
+
+Pøivolá na pomoc Vzdušné elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+"	"{Lepší pøivolej vzdušné elementály}
+
+Pøivolá na pomoc vzdušné elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá 1,5krát více bojovníkù ne základní zavolej vzdušné elementály.
+"	"{Expert pøivolej vzdušné elementály}
+
+Pøivolá na pomoc vzdušné elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
+
+Zavolá dvakrát více bojovníkù ne základní pøivolej vzdušné elementály.
+"	 COMBAT_SPELL
+																																	
+Schopnosti bojovníkù 																																	
+																																	
+Zkameòující pohled	Zkameòující pohled	3					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Jed	Jed	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Koøeny	Koøeny	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Nákaza	Nákaza	2					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Paralıza	Paralıza	4					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Stáøí 	Stáøí 	5					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Smrtící mrak	Smrtící mrak	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+ Úder blesku	 Úder blesku	0					0	0	0	0	0	0	0	0	0	12	13	12	13	12	13	12	13	13	1	1	1	1					 CREATURE_SPELL
+Ruší kladná kouzla	Ruší kladná kouzla	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Smrtící pohled	Smrtící pohled	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+Kyselina	Kyselina	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					

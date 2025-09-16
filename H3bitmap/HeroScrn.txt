@@ -1,0 +1,33 @@
+Uka seznam úkolù 
+Uka, k èemu slouí %s
+Dodateèná charakteristika hrdiny
+Uka, jakı vliv na oddíly má vysoká morálka
+Uka, jakı vliv na oddíly má normální morálka
+Uka, jakı vliv na oddíly má nízká morálka
+Uka, jakı vliv na oddíly má velké štìstí 
+Uka, jakı vliv na oddíly má neutrální štìstí 
+Uka, jakı vliv na oddíly má smùla 
+Uka informace o zkušenostech
+Vyber %s
+Prázdnı 
+Pøesuò %s
+Vymìò %s za %s
+Uka kouzla
+Uka, jakı úèinek má %s
+Propus %s %s
+Zavøít informace o hrdinovi
+Informace o hrdinovi
+Spojení %s
+Rozdìlení %s
+Uka, jakı úèinek má %s %s
+Uka informace o magické energii
+Nastav formaci armády na 'rozvinutou'
+Nastav formaci armády na 'seskupenou'
+Zablokovat taktické pøeskupení sil
+Povolit taktické pøeskupení sil
+Uka, jakı úèinek má specializace
+Stiskem tlaèítka propustíš hrdinu
+Nastavením formace na 'rozvinutou' se armáda roztáhne odshora dolù podél tvé strany bojištì.
+Nastavením formace na 'seskupenou' se armáda semkne k sobì doprostøed tvé strany bojištì.
+Povolení taktického pøeskupení sil ti umoní zmìnit rozmístìní vlastních jednotek ještì pøed vlastním bojem (hrdina musí ovládat schopnost taktiky)
+Stiskem tlaèítka rozdìlíš tyto bojovníky do dvou oddílù 

@@ -1,0 +1,140 @@
+Strážnice	Strážnice ti umožní najímat kopiníky.
+Støelecká vìž 	Støelecká vìž ti umožní najímat lukostøelce.
+Vìž gryfù 	Vìž gryfù ti umožní najímat gryfy.
+Kasárna	Kasárna ti umožní najímat šermíøe.
+Klášter	Klášter ti umožní najímat mnichy.
+Cvièištì 	Cvièištì ti umožní najímat jezdce.
+Portál slávy	Portál slávy ti umožní najímat andìly.
+Upg. strážnice	Strážnice ti umožní najímat halapartníky.
+Upg. støelecká vìž 	Støelecká vìž ti umožní najímat elitní støelce.
+Upg. vìž gryfù 	Vìž gryfù ti umožní najímat královské gryfy.
+Upg. kasárna	Kasárna ti umožní najímat køižáky.
+Upg. klášter	Klášter ti umožní najímat fanatiky.
+Upg. cvièištì 	Cvièištì ti umožní najímat šampiony.
+Upg. portál slávy	Portál slávy ti umožní najímat archandìly.
+Kentauøí stáje	Kentauøí stáje ti umožní najímat kentaury.
+Trpaslièí chata	Trpaslièí chata ti umožní najímat trpaslíky.
+Usedlost	Usedlost ti umožní najímat lesní elfy.
+Oèarovaný pramen	Oèarovaný pramen ti umožní najímat pegasy.
+Klenba stromù 	Klenba stromù ti umožní najímat stromové strážce.
+Paseka jednorožcù 	Paseka jednorožcù ti umožní najímat jednorožce.
+Draèí útesy	Draèí útesy ti umožní najímat zelené draky.
+Upg. kentauøí stáje	Kentauøí stáje ti umožní najímat kentauøí kapitány.
+Upg. trpaslièí chata	Trpaslièí chata ti umožní najímat bojové trpaslíky.
+Upg. usedlost	Usedlost ti umožní najímat velké elfy.
+Upg. oèarovaný pramen	Oèarovaný pramen ti umožní najímat støíbrné pegasy.
+Upg. klenba stromù 	Klenba stromù ti umožní najímat stromové vojáky.
+Upg. paseka jednorožcù 	Paseka jednorožcù ti umožní najímat bojové jednorožce.
+Upg. draèí útesy	Draèí útesy ti umožní najímat zlaté draky.
+Dílna	Dílna ti umožní najímat gremliny.
+Terasa	Terasa ti umožní najímat kamenné chrlièe.
+Továrna na golemy	Továrna na golemy ti umožní najímat kamenné golemy.
+Vìž mágù 	Vìž mágù ti umožní najímat mágy.
+Oltáø pøání 	Oltáø pøání ti umožní najímat džiny.
+Zlatý pavilon	Zlatý pavilon ti umožní najímat nagy.
+Oblaèný chrám	Oblaèný chrám ti umožní najímat obry.
+Upg. dílna	Dílna ti umožní najímat mistry gremliny.
+Upg. terasa	Terasa ti umožní najímat obsidiánové chrlièe.
+Upg. továrna na golemy	Továrna na golemy ti umožní najímat železné golemy.
+Upg. vìž mágù 	Vìž mágù ti umožní najímat arcimágy.
+Upg. oltáø pøání 	Oltáø pøání ti umožní najímat mistry džiny.
+Upg. zlatý pavilon	Zlatý pavilon ti umožní najímat královny nag.
+Upg. oblaèný chrám	Oblaèný chrám ti umožní najímat titány.
+Sklad ïáblíkù 	Sklad ïáblíkù ti umožní najímat ïáblíky.
+Sál høíchù 	Sál høíchù ti umožní najímat gogy.
+Psinec	Psinec ti umožní najímat pekelné psy.
+Brána démonù 	Brána démonù ti umožní najímat démony.
+Pekelná jáma	Pekelná jáma ti umožní najímat satany.
+Ohnivé jezero	Ohnivé jezero ti umožní najímat efríty.
+Opuštìný palác	Opuštìný palác ti umožní najímat ïábly.
+Upg. sklad ïáblíkù 	Sklad ïáblíkù ti umožní najímat rarášky.
+Upg. sál høíchù 	Sál høíchù ti umožní najímat magogy.
+Upg. psinec	Psinec ti umožní najímat kerbery.
+Upg. brána démonù 	Brána démonù ti umožní najímat rohaté démony.
+Upg. pekelná jáma	Pekelná jáma ti umožní najímat pekelné pány.
+Upg. ohnivé jezero	Ohnivé jezero ti umožní najímat sultány efrítù.
+Upg. opuštìný palác	Opuštìný palác ti umožní najímat arciïábly.
+Prokletý chrám	Prokletý chrám ti umožní najímat kostlivce.
+Høbitov	Høbitov ti umožní najímat chodící mrtvoly.
+Hrobka duší 	Hrobka duší ti umožní najímat duchy.
+Statek	Statek ti umožní najímat upíry.
+Mauzoleum	Mauzoleum ti umožní najímat liche.
+Sál temnoty	Sál temnoty ti umožní najímat èerné rytíøe.
+Draèí hrobka	Draèí hrobka ti umožní najímat kostìné draky.
+Upg. prokletý chrám	Prokletý chrám ti umožní najímat váleèné kostlivce.
+Upg. høbitov	Høbitov ti umožní najímat zombie.
+Upg. hrobka duší 	Hrobka duší ti umožní najímat pøízraky.
+Upg. statek	Statek ti umožní najímat pány upírù.
+Upg. mauzoleum	Mauzoleum ti umožní najímat mocné liche.
+Upg. sál temnoty	Sál temnoty ti umožní najímat hrozivé rytíøe.
+Upg. draèí hrobka	Draèí hrobka ti umožní najímat pøízraèné draky.
+Bludištì 	Bludištì ti umožní najímat troglodyty.
+Patro harpyjí 	Patro harpyjí ti umožní najímat harpyje.
+Pilíø oèí 	Pilíø oèí ti umožní najímat pozorovatele.
+Kaple ztichlých hlasù 	Kaple ztichlých hlasù ti umožní najímat medúzy.
+Labyrint	Labyrint ti umožní najímat minotaury.
+Doupì mantikor	Doupì mantikor ti umožní najímat mantikory.
+Draèí jeskynì 	Draèí jeskynì ti umožní najímat èervené draky.
+Upg. bludištì 	Bludištì ti umožní najímat pekelné troglodyty.
+Upg. patro harpyjí 	Patro harpyjí ti umožní najímat staré harpyje.
+Upg. pilíø oèí 	Pilíø oèí ti umožní najímat oèi zla.
+Upg. kaple tichých hlasù 	Kaple ztichlých hlasù ti umožní najímat královny medúz.
+Upg. labyrint	Labyrint ti umožní najímat krále minotaurù.
+Upg. doupì mantikor	Doupì mantikor ti umožní najímat škorpikory.
+Upg. draèí jeskynì 	Draèí jeskynì ti umožní najímat èerné draky.
+Kasárna goblinù 	Kasárna goblinù ti umožní najímat gobliny.
+Vlèí ohrada	Vlèí ohrada ti umožní najímat vlèí jezdce.
+Vìž skøetù 	Vìž skøetù ti umožní najímat skøety.
+Pevnost zlobrù 	Pevnost zlobrù ti umožní najímat zlobry.
+Skalní hnízdo	Skalní hnízdo ti umožní najímat rochy.
+Jeskynì kyklopù 	Jeskynì kyklopù ti umožní najímat kyklopy.
+Doupì behemotù 	Doupì behemotù ti umožní najímat behemoty.
+Upg. kasárna goblinù 	Kasárna goblinù ti umožní najímat hobgobliny.
+Upg. vlèí ohrada	Vlèí ohrada ti umožní najímat vlèí nájezdníky.
+Upg. vìž skøetù 	Vìž skøetù ti umožní najímat skøetí náèelníky.
+Upg. pevnost zlobrù 	Pevnost zlobrù ti umožní najímat zlobøí mágy.
+Upg. skalní hnízdo	Skalní hnízdo ti umožní najímat hromové ptáky.
+Upg. jeskynì kyklopù 	Jeskynì kyklopù ti umožní najímat krále kyklopù.
+Upg. doupì behemotù 	Doupì behemotù ti umožní najímat starovìké behemoty.
+Chatrè gnolù 	Chatrè gnolù ti umožní najímat gnoly.
+Ještìrèí brloh	Ještìrèí brloh ti umožní najímat ještìrèí muže.
+ Úl vážek	 Úl vážek ti umožní najímat hadí vážky.
+Jáma baziliškù 	Jáma baziliškù ti umožní najímat bazilišky.
+Doupì gorgon	Doupì gorgon ti umožní najímat gorgony.
+Ještìøí hnízdo	Ještìøí hnízdo ti umožní najímat ještìry.
+Rybník hyder	Rybník hyder ti umožní najímat hydry.
+Upg. chatrè gnolù 	Chatrè gnolù ti umožní najímat gnolí nájezdníky.
+Upg. ještìrèí brloh	Ještìrèí brloh ti umožní najímat ještìrèí vojáky.
+Upg. úl vážek	 Úl vážek ti umožní najímat draèí vážky.
+Upg. jáma baziliškù 	Jáma baziliškù ti umožní najímat velké bazilišky.
+Upg. doupì gorgon	Doupì gorgon ti umožní najímat mocné gorgony.
+Upg. ještìøí hnízdo	Ještìøí hnízdo ti umožní najímat ještìøí vládce.
+Upg. rybník hyder	Rybník hyder ti umožní najímat hydry chaosu.
+Magická lucerna	Magická lucerna ti umožní najímat skøítky.
+Oltáø vzduchu	Oltáø vzduchu ti umožní najímat vzdušné elementály.
+Oltáø vody	Oltáø vody ti umožní najímat vodní elementály.
+Oltáø ohnì 	Oltáø ohnì ti umožní najímat ohnivé elementály.
+Oltáø zemì 	Oltáø zemì ti umožní najímat zemské elementály.
+Oltáø myšlenek	Oltáø myšlenek ti umožní najímat psychické elementály.
+Pohøební hranice	Pohøební hranice ti umožní najímat ohniváky.
+Upg. magická lucerna	Magická lucerna ti umožní najímat víly.
+Upg. oltáø vzduchu	Chrám bouøe ti umožní najímat bouøkové elementály.
+Upg. oltáø vody	Chrám ledu ti umožní najímat ledové elementály.
+Upg. oltáø ohnì 	Chrám energie ti umožní najímat energetické elementály.
+Upg. oltáø zemì 	Chrám magmy ti umožní najímat magmatické elementály.
+Upg. oltáø myšlenek	Chrám magie ti umožní najímat magické elementály.
+Upg. pohøební hranice	Pohøební hranice ti umožní najímat fénixy.
+Generátor bojovníkù 1. stupnì 	umožní ti najímat bojovníky 1. stupnì.
+Generátor bojovníkù 2. stupnì 	umožní ti najímat bojovníky 2. stupnì.
+Generátor bojovníkù 3. stupnì 	umožní ti najímat bojovníky 3. stupnì.
+Generátor bojovníkù 4. stupnì 	umožní ti najímat bojovníky 4. stupnì.
+Generátor bojovníkù 5. stupnì 	umožní ti najímat bojovníky 5. stupnì.
+Generátor bojovníkù 6. stupnì 	umožní ti najímat bojovníky 6. stupnì.
+Generátor bojovníkù 7. stupnì 	umožní ti najímat bojovníky 7. stupnì.
+Upg. generátor bojovníkù 1. stupnì 	umožní ti najímat upgr. bojovníky 1. stupnì.
+Upg. generátor bojovníkù 2. stupnì 	umožní ti najímat upgr. bojovníky 2. stupnì.
+Upg. generátor bojovníkù 3. stupnì 	umožní ti najímat upgr. bojovníky 3. stupnì.
+Upg. generátor bojovníkù 4. stupnì 	umožní ti najímat upgr. bojovníky 4. stupnì.
+Upg. generátor bojovníkù 5. stupnì 	umožní ti najímat upgr. bojovníky 5. stupnì.
+Upg. generátor bojovníkù 6. stupnì 	umožní ti najímat upgr. bojovníky 6. stupnì.
+Upg. generátor bojovníkù 7. stupnì 	umožní ti najímat upgr. bojovníky 7. stupnì.

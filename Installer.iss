@@ -1,8 +1,8 @@
-; Heroes 3 Complete - Instal·tor Ëeötiny
+Ôªø; Heroes 3 Complete - Instal√°tor ƒçe≈°tiny
 
 [Setup]
 AppId=H3CzechPatcher
-AppName=Heroes of Might and Magic 3 Complete ñ »eötina
+AppName=ƒåe≈°tina pro Heroes of Might and Magic 3 Complete
 AppVersion=1.0
 DefaultDirName={code:GetDefaultGameDir}
 DisableWelcomePage=no
@@ -21,7 +21,7 @@ WizardImageFile=logo.bmp
 WizardSmallImageFile=smalllogo.bmp
 
 [Files]
-; RozbalÌme vöe z ko¯ene projektu do {tmp}\h3cz\payload
+; Rozbal√≠me v≈°e z ko≈ôene projektu do {tmp}\h3cz\payload
 Source: "*"; DestDir: "{tmp}\h3cz\payload"; Flags: recursesubdirs createallsubdirs ignoreversion
 ; Tyto soubory nebalit
 Source: "Installer.iss"; Flags: dontcopy
@@ -45,10 +45,10 @@ begin
   // GOG
   p := RegistryQueryPath('SOFTWARE\GOG.com\Games\1207658787', 'path');
   if p = '' then p := RegistryQueryPath('SOFTWARE\WOW6432Node\GOG.com\Games\1207658787', 'path');
-  // NWC (Æ varianta)
-  if p = '' then p := RegistryQueryPath('SOFTWARE\New World Computing\Heroes of Might and MagicÆ III\1.0', 'AppPath');
-  if p = '' then p := RegistryQueryPath('SOFTWARE\WOW6432Node\New World Computing\Heroes of Might and MagicÆ III\1.0', 'AppPath');
-  // NWC (bez Æ)
+  // NWC (¬Æ varianta)
+  if p = '' then p := RegistryQueryPath('SOFTWARE\New World Computing\Heroes of Might and Magic¬Æ III\1.0', 'AppPath');
+  if p = '' then p := RegistryQueryPath('SOFTWARE\WOW6432Node\New World Computing\Heroes of Might and Magic¬Æ III\1.0', 'AppPath');
+  // NWC (bez ¬Æ)
   if p = '' then p := RegistryQueryPath('SOFTWARE\New World Computing\Heroes of Might and Magic III\1.0', 'AppPath');
   if p = '' then p := RegistryQueryPath('SOFTWARE\WOW6432Node\New World Computing\Heroes of Might and Magic III\1.0', 'AppPath');
   Result := p;
@@ -112,7 +112,7 @@ begin
   Params := Format('"%s" "%s"', [LodPath, FileToImport]);
   Result := Exec(LodExe, Params, '', SW_HIDE, ewWaitUntilTerminated, ResultCode) and (ResultCode = 0);
   if not Result then
-    Log(Format('WARN: lodimport failed (%d) for %s -> %s', [ResultCode, LodPath, FileToImport]));
+    Log(Format('WARN: lodimport selhal (%d) pro %s -> %s', [ResultCode, LodPath, FileToImport]));
 end;
 
 procedure PatchLods(const PayloadRoot, GameRoot: string);
@@ -127,7 +127,7 @@ begin
   LodsDir := AddBackslash(GameRoot) + 'data';
 
   if not FileExists(LodExe) then begin
-    MsgBox('ChybÌ lodimport.exe v payloadu!', mbError, MB_OK); exit;
+    MsgBox('Chyb√≠ lodimport.exe v payloadu!', mbError, MB_OK); exit;
   end;
 
   Total := 0; Failed := 0; Skipped := 0;
@@ -159,7 +159,7 @@ begin
             finally
               FindClose(FR2);
             end;
-            LogInfo(Format('  Importov·no: %d soubor˘.', [Imported]));
+            LogInfo(Format('  Importov√°no: %d soubor≈Ø.', [Imported]));
           end else begin
             LogInfo('[SKIP] Nenalezen LOD: ' + LodPath);
             Inc(Skipped);
@@ -180,7 +180,7 @@ var
 begin
   SrcMaps := AddBackslash(PayloadRoot) + 'maps';
   if not DirExists(SrcMaps) then begin
-    Log('maps sloûka v payloadu nenalezena ñ p¯eskoËeno.'); exit;
+    Log('slo≈æka maps v payloadu nenalezena ‚Äì p≈ôeskoƒçeno.'); exit;
   end;
 
   GameMaps := AddBackslash(GameRoot) + 'Maps';
@@ -224,9 +224,9 @@ end;
 procedure InitializeWizard();
 begin
   WizardForm.SelectDirLabel.Caption :=
-    'Vyber sloûku, kde m·ö nainstalovanou hru Heroes of Might and Magic III Complete.';
+    'Vyber slo≈æku, kde m√°≈° nainstalovanou hru Heroes of Might and Magic III Complete.';
 
-  // P¯edvyplÚ z autodetekce (kdyû by DefaultDirName nestaËil nap¯. p¯i ruËnÌm n·vratu zpÏt)
+  // P≈ôedvypl≈à z autodetekce (kdy≈æ by DefaultDirName nestaƒçil nap≈ô. p≈ôi ruƒçn√≠m n√°vratu zpƒõt)
   WizardForm.DirEdit.Text := GetDefaultGameDir('');
 end;
 
@@ -239,11 +239,11 @@ begin
     gameRoot := WizardDirValue;
     dataDir := AddBackslash(gameRoot) + 'data';
     if not DirExists(gameRoot) then begin
-      MsgBox('Zvolen· sloûka neexistuje.', mbError, MB_OK);
+      MsgBox('Zvolen√° slo≈æka neexistuje.', mbError, MB_OK);
       Result := False; exit;
     end;
     if not DirExists(dataDir) then begin
-      if MsgBox('Ve zvolenÈ sloûce chybÌ podsloûka "data". Jsi si jist˝, ûe je to ko¯en instalace hry?',
+      if MsgBox('Ve zvolen√© slo≈æce chyb√≠ podslo≈æka "data". Jsi si jist√Ω, ≈æe je to ko≈ôen instalace hry?',
                 mbConfirmation, MB_YESNO) = IDNO then
       begin
         Result := False; exit;
@@ -252,7 +252,7 @@ begin
   end;
 end;
 
-// HlavnÌ pr·ce po rozbalenÌ soubor˘ do {tmp}
+// Hlavn√≠ pr√°ce po rozbalen√≠ soubor≈Ø do {tmp}
 procedure DoPatch(const GameRoot: string);
 var
   PayloadRoot: string;
@@ -265,7 +265,7 @@ begin
   UpdateMaps(PayloadRoot, GameRoot);
   UpdateManualsAndReadme(PayloadRoot, GameRoot);
 
-  Log('Hotovo! Patch byl aplikov·n.');
+  Log('Hotovo! Patch byl aplikov√°n.');
 end;
 
 procedure CurStepChanged(CurStep: TSetupStep);

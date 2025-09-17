@@ -3,7 +3,7 @@
 [Setup]
 AppId=H3CzechPatcher
 AppName=Čeština pro Heroes of Might and Magic 3 Complete
-AppVersion=1.0.1
+AppVersion=1.0.2
 DefaultDirName={code:GetDefaultGameDir}
 DisableWelcomePage=no
 DisableDirPage=no

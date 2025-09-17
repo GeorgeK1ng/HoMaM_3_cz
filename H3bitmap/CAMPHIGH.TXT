@@ -1,4 +1,4 @@
-Poøadí 	Hráè 	Mapa	Dni	Skóre
+Poøadí 	Hráè 	Mapa	Dny	Skóre
 1	Sandro	Dead and Buried	75	200
 2	Astral	All for One	100	190
 3	Oris	Knee Deep in the Dead	125	180
@@ -10,7 +10,7 @@ Poøadí 	Hráè 	Mapa	Dni	Skóre
 9	Iona	The Mandate of Heaven	750	120
 10	Tazar	Myth and Legend	1000	100
 11	Your Name	Just play a Map	2000	1
-Poøadí 	Hráè 	Kampaò 	Dni	
+Poøadí 	Hráè 	Kampaò 	Dny	
 1	Fafner	Song for the Father	500	1000
 2	Gretchin	Long Live the King	550	875
 3	Gundula	Spoils of War	600	750

@@ -4,7 +4,7 @@ Nelze pøidat manager!
 "{ Úroveò %d}
 
 {Další úroveò:} %d
-{Aktuální zkušenost:} %d"
+{Aktuální zkušenosti:} %d"
 %d/den
 nebo
 %s hráè byl rozdrcen!
@@ -145,7 +145,7 @@ Jeden %s zahynul následkem smrtícího pohledu %s.
 a získává +%d k obranné síle"
 " %s zaujímají obrannou pozici 
 a získávají +%d k obranné síle"
-%s zkus
+%s
 Nejbližší mìsto je obsazeno.  Kouzlo se nepovedlo!
  Žádné mìsto není k dispozici.  Kouzlo se nepovedlo!
 Tvùj hrdina je již pøíliš unaven.  Zkus to znova zítra.
@@ -505,7 +505,7 @@ Upgrade všech bojovníkù
 Poøadí 
 Hráè 
 Mapa
-Dni
+Dny
 "
 Podvodník! +maximum"
 "Celkový 
@@ -561,9 +561,9 @@ Hostitelem jsi nyní ty!
 Poèítaèový hráè byl napaden pøipojeným hráèem.  Èekej na bitvu...
  šeptej
  šeptej k
-Zkušenosti nutné k postupu na vyšší úroveò 
+Zkušenosti nutné k postupu na další úroveò 
 Zkušenosti na oltáøi celkem
-Obìtovat artefakty pro zkušenost
+Obìtovat artefakty pro zkušenosti
 Pøesuò artefakty na oltáø 
 Obìtní oltáø 
 "Chceš-li obìtovat bojovníky, pøesuò je na oltáø a klikni na tlaèítko obìtování."
@@ -578,7 +578,7 @@ Zkonvertuj bojovníky v mìnièi na kostlivce
  %s budou %s
  %s už je kostlivec
  %s už jsou kostlivci
-Obtížnost hráèe
+Obtížnost
 "%s už existuje.
 
 Pøepsat?"
@@ -623,8 +623,8 @@ Neznámý hráè opustil hru!
 %s hráè je nyní nový hostitel.
 Nejsou k dispozici žádné mapy.
 Pøed spuštìním hry se musíš sám pøipojit.
-Skryj hovor
-Ukaž hovor
+Skryj chat
+Zobraz chat
 Hostitel pøipravuje spuštìní hry...
 Nelze otevøít soubor - Video.vid
 Chyba v souboru videa!

@@ -58,14 +58,14 @@ Prokletý chrám	Prokletý chrám ti umožní najímat kostlivce.
 Høbitov	Høbitov ti umožní najímat chodící mrtvoly.
 Hrobka duší 	Hrobka duší ti umožní najímat duchy.
 Statek	Statek ti umožní najímat upíry.
-Mauzoleum	Mauzoleum ti umožní najímat liche.
+Mauzoleum	Mauzoleum ti umožní najímat lichy.
 Sál temnoty	Sál temnoty ti umožní najímat èerné rytíøe.
 Draèí hrobka	Draèí hrobka ti umožní najímat kostìné draky.
 Upg. prokletý chrám	Prokletý chrám ti umožní najímat váleèné kostlivce.
 Upg. høbitov	Høbitov ti umožní najímat zombie.
 Upg. hrobka duší 	Hrobka duší ti umožní najímat pøízraky.
 Upg. statek	Statek ti umožní najímat pány upírù.
-Upg. mauzoleum	Mauzoleum ti umožní najímat mocné liche.
+Upg. mauzoleum	Mauzoleum ti umožní najímat mocné lichy.
 Upg. sál temnoty	Sál temnoty ti umožní najímat hrozivé rytíøe.
 Upg. draèí hrobka	Draèí hrobka ti umožní najímat pøízraèné draky.
 Bludištì 	Bludištì ti umožní najímat troglodyty.

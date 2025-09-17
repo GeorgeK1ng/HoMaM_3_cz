@@ -5,13 +5,13 @@ setlocal EnableExtensions EnableDelayedExpansion
 
 echo.
 
-set "LODS_DIR=%~1"
+set "TARGET_DIR=%~1"
 
-if "%LODS_DIR%"=="" (
+if "%TARGET_DIR%"=="" (
 	echo.
 	echo   Zadej cestu k instalaci Heroes of Might and Magic 3 Complete - napriklad C:\GOG Games\HoMM 3 Complete)
-	set /p "LODS_DIR=> "
-	set "LODS_DIR=%LODS_DIR:"=%"
+	set /p "TARGET_DIR=> "
+	set "TARGET_DIR=%TARGET_DIR:"=%"
 )
 
 
@@ -23,7 +23,7 @@ set /a TOTAL=0, FAILED=0, SKIPPED=0
 for /d %%D in ("%SRC_ROOT%*") do (
   set "BASENAME=%%~nxD"
   if not "!BASENAME!" == "maps" (
-	  set "LOD_PATH=%LODS_DIR%\data\!BASENAME!.lod"
+	  set "LOD_PATH=%TARGET_DIR%\data\!BASENAME!.lod"
 		if exist "!LOD_PATH!" (
 			echo.
 			echo  Probiha aktualizace !LOD_PATH!
@@ -48,20 +48,26 @@ for /d %%D in ("%SRC_ROOT%*") do (
 echo.
 echo  Aktualizace map
 
-rd /q /s "%LODS_DIR%\maps" >nul
-md "%LODS_DIR%\Maps\" >nul
-copy /y "%SRC_ROOT%\maps\*" "%LODS_DIR%\maps\" >nul
+rd /q /s "%TARGET_DIR%\maps" >nul
+md "%TARGET_DIR%\Maps\" >nul
+copy /y "%SRC_ROOT%\maps\*" "%TARGET_DIR%\maps\" >nul
 
 echo.
 echo  Aktualizace manualu
 
-del /q "%LODS_DIR%\*.pdf" >nul
-copy /y "%SRC_ROOT%\*.pdf" "%LODS_DIR%\" >nul
+del /q "%TARGET_DIR%\*.pdf" >nul
+copy /y "%SRC_ROOT%\*.pdf" "%TARGET_DIR%\" >nul
 
-del /q "%LODS_DIR%\README.txt" >nul
-copy /y "%SRC_ROOT%\README.txt" "%LODS_DIR%\README.txt" >nul
+del /q "%TARGET_DIR%\README.txt" >nul
+copy /y "%SRC_ROOT%\README.txt" "%TARGET_DIR%\README.txt" >nul
 
-del /q "%LODS_DIR%\gog*" >nul 2>nul
+del /q "%TARGET_DIR%\gog*" >nul 2>nul
+
+if exist "%TARGET_DIR%\_HD3_Data\Lang" (
+	echo.
+	echo  Instalace cestiny pro HD Launcher
+	copy /y "%SRC_ROOT%\#cz.ini" "%TARGET_DIR%\_HD3_Data\Lang\#cz.ini" >nul
+)
 
 echo.
 echo === Hotovo ===

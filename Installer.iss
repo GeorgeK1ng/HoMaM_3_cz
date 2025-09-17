@@ -3,7 +3,7 @@
 [Setup]
 AppId=H3CzechPatcher
 AppName=Čeština pro Heroes of Might and Magic 3 Complete
-AppVersion=1.0
+AppVersion=1.0.1
 DefaultDirName={code:GetDefaultGameDir}
 DisableWelcomePage=no
 DisableDirPage=no
@@ -20,6 +20,7 @@ SetupIconFile=icon.ico
 WizardImageFile=logo.bmp
 WizardSmallImageFile=smalllogo.bmp
 
+
 [Files]
 ; Rozbalíme vše z kořene projektu do {tmp}\h3cz\payload
 Source: "*"; DestDir: "{tmp}\h3cz\payload"; Flags: recursesubdirs createallsubdirs ignoreversion
@@ -27,8 +28,16 @@ Source: "*"; DestDir: "{tmp}\h3cz\payload"; Flags: recursesubdirs createallsubdi
 Source: "Installer.iss"; Flags: dontcopy
 Source: "import.cmd";    Flags: dontcopy
 
+
+[Run]
+Filename: "{app}\Heroes3_HD.exe"; Description: "Spustit Heroes 3"; Flags: postinstall nowait skipifsilent runasoriginaluser; Check: ShouldRunHDExe
+Filename: "{app}\HD_Launcher.exe"; Description: "Spustit HD Launcher"; Flags: postinstall nowait skipifsilent runasoriginaluser; Check: ShouldRunHDLauncher
+Filename: "{app}\heroes3.exe"; Description: "Spustit Heroes 3"; Flags: postinstall nowait skipifsilent runasoriginaluser; Check: ShouldRunClassicExe
+
+
 [Languages]
 Name: "czech"; MessagesFile: "compiler:Languages\Czech.isl"
+
 
 [Code]
 // ---------- Registry lookup ----------
@@ -37,6 +46,7 @@ begin
   if not RegQueryStringValue(HKLM, SubKey, ValueName, Result) then
     Result := '';
 end;
+
 
 function FindHeroes3Install(): string;
 var
@@ -54,17 +64,20 @@ begin
   Result := p;
 end;
 
+
 // ---------- Helpers ----------
 procedure LogInfo(const S: string);
 begin
   Log(S);
 end;
 
+
 function EnsureDir(const Path: string): Boolean;
 begin
   if DirExists(Path) then begin Result := True; exit; end;
   Result := ForceDirectories(Path);
 end;
+
 
 function CopyAllFiles(const SrcMask, DstDir: string): Integer;
 var
@@ -86,6 +99,7 @@ begin
   end;
 end;
 
+
 function DeleteMask(const Mask: string): Integer;
 var
   FindRec: TFindRec; P: string;
@@ -104,6 +118,7 @@ begin
   end;
 end;
 
+
 // ---------- LOD import ----------
 function RunLodImport(const LodExe, LodPath, FileToImport: string): Boolean;
 var
@@ -114,6 +129,7 @@ begin
   if not Result then
     Log(Format('WARN: lodimport selhal (%d) pro %s -> %s', [ResultCode, LodPath, FileToImport]));
 end;
+
 
 procedure PatchLods(const PayloadRoot, GameRoot: string);
 var
@@ -174,6 +190,7 @@ begin
   LogInfo(Format('Souhrn: TOTAL=%d, FAILED=%d, SKIPPED=%d', [Total, Failed, Skipped]));
 end;
 
+
 procedure UpdateMaps(const PayloadRoot, GameRoot: string);
 var
   GameMaps, SrcMaps: string;
@@ -190,6 +207,7 @@ begin
 
   CopyAllFiles(AddBackslash(SrcMaps) + '*', GameMaps);
 end;
+
 
 procedure UpdateManualsAndReadme(const PayloadRoot, GameRoot: string);
 var
@@ -210,6 +228,32 @@ begin
   DeleteMask(AddBackslash(GameRoot) + 'gog*');
 end;
 
+
+// ---------- HD Mod language helper ----------
+procedure CopyHDLanguageIfPresent(const PayloadRoot, GameRoot: string);
+var
+  LangDir, SrcIni, DstIni: string;
+begin
+  LangDir := AddBackslash(GameRoot) + '_HD3_Data\Lang';
+  if not DirExists(LangDir) then begin
+    Log('Složka _HD3_Data\Lang nebyla nalezena.');
+    exit;
+  end;
+
+  SrcIni := AddBackslash(PayloadRoot) + '#cz.ini';
+  if not FileExists(SrcIni) then begin
+    Log('Zdrojový soubor #cz.ini nebyl nalezel v payloadu.');
+    exit;
+  end;
+
+  DstIni := AddBackslash(LangDir) + '#cz.ini';
+  if FileCopy(SrcIni, DstIni, False) then
+    Log('Kopírování #cz.ini do _HD3_Data\Lang.')
+  else
+    Log('Kopírování #cz.ini do _HD3_Data\Lang se nezdařilo.');
+end;
+
+
 // ---------- Wizard plumbing ----------
 function GetDefaultGameDir(Param: string): string;
 var
@@ -221,6 +265,7 @@ begin
   Result := p;
 end;
 
+
 procedure InitializeWizard();
 begin
   WizardForm.SelectDirLabel.Caption :=
@@ -229,6 +274,7 @@ begin
   // Předvyplň z autodetekce (když by DefaultDirName nestačil např. při ručním návratu zpět)
   WizardForm.DirEdit.Text := GetDefaultGameDir('');
 end;
+
 
 function NextButtonClick(CurPageID: Integer): Boolean;
 var
@@ -252,6 +298,7 @@ begin
   end;
 end;
 
+
 // Hlavní práce po rozbalení souborů do {tmp}
 procedure DoPatch(const GameRoot: string);
 var
@@ -264,7 +311,8 @@ begin
   PatchLods(PayloadRoot, GameRoot);
   UpdateMaps(PayloadRoot, GameRoot);
   UpdateManualsAndReadme(PayloadRoot, GameRoot);
-
+  CopyHDLanguageIfPresent(PayloadRoot, GameRoot);
+  
   Log('Hotovo! Patch byl aplikován.');
 end;
 
@@ -272,4 +320,22 @@ procedure CurStepChanged(CurStep: TSetupStep);
 begin
   if CurStep = ssPostInstall then
     DoPatch(WizardDirValue);
+end;
+
+
+function ShouldRunHDExe(): Boolean;
+begin
+  Result := FileExists(AddBackslash(WizardDirValue) + 'Heroes3_HD.exe');
+end;
+
+
+function ShouldRunHDLauncher(): Boolean;
+begin
+  Result := (not ShouldRunHDExe()) and FileExists(AddBackslash(WizardDirValue) + 'HD_Launcher.exe');
+end;
+
+
+function ShouldRunClassicExe(): Boolean;
+begin
+  Result := (not ShouldRunHDExe()) and (not ShouldRunHDLauncher()) and FileExists(AddBackslash(WizardDirValue) + 'heroes3.exe');
 end;

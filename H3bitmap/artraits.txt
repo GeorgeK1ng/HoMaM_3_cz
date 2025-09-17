@@ -302,7 +302,7 @@ Kápì rychlosti	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Kápì rychlosti}
 Zvyšuje rychlost všech tvých oddílù v boji o +2."
 Pøívìsek uklidnìní 	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pøívìsek uklidnìní }
 
-Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu berserk."
+Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu šílenství."
 Pøívìsek druhého zraku	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pøívìsek druhého zraku}
 
 Tento pøívìsek èiní tvé bojovníky imunní vùèi kouzlu slepota."
@@ -386,7 +386,7 @@ Ampulka draèí krve	20000						x	x	x	x	x										R	"{Ampulka draèí krve}
 Všem drakùm ve tvé armádì vzroste útok i obrana o +5."
 Meè zkázy	50000																x				R	"{Meè zkázy}
 
-Zvyšuje hrdinovi útok o + 3, obranu o + 3, znalosti o + 6, sílu kouzel o + 3. Do hrdinovy knihy kouzel pøidá kouzlo armageddon a všichni bojovníci hrdiny získají proti tomuto kouzlu imunitu."
+Zvyšuje hrdinovi útok o + 3, obranu o + 3, znalosti o + 6, sílu kouzel o + 3. Do hrdinovy knihy kouzel pøidá kouzlo armagedon a všichni bojovníci hrdiny získají proti tomuto kouzlu imunitu."
 Andìlská aliance																	x				R	"{Andìlská aliance}
 
 Dovoluje kombinovat armádu z jednotek hradù typu Hrad, Bašta, Vìž, Pevnost a Tvrz bez ztráty morálky. Na zaèátku boje dostávají pak všechny oddíly kouzlo modlitba na expertní úrovni."

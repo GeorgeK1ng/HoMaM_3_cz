@@ -60,7 +60,7 @@ Inteligence	Druhotná schopnost bonus: Inteligence	Obdrží bonus 5% za každou úrov
 Peklo	Kouzlo bonus: Peklo	"Sešle kouzlo peklo se zvýšeným efektem, založeným na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi použití na slabší jednotku)."
 Mystika	Druhotná schopnost bonus: Mystika	Obdrží bonus 5% za každou úroveò ke schopnosti mystika.
 Slabost	Kouzlo bonus: Slabost	"Sešle kouzlo slabost se zvýšeným efektem, založeným na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi použití na slabší jednotku)."
-+1 síra	+1 síra dennì.	Zvyšuje pøíjem království o 1 jednotku síry dennì.
++1 síra	+1 síra dennì.	Zvyšuje pøíjem království o 1 ks síry dennì.
 Krvežíznivost	Kouzlo bonus: Krvežíznivost	"Sešle kouzlo krvežíznivost se zvýšeným efektem, založeným na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi použití na slabší jednotku)."
 Kouzelnictví 	Druhotná schopnost bonus: Kouzelnictví 	Obdrží bonus 5% za každou úroveò ke schopnosti kouzelnictví.
 Ohnivá koule	Kouzlo bonus: Ohnivá koule	"Sešle kouzlo ohnivá koule se zvýšeným efektem, založeným na rozdílu úrovnì hrdiny a úrovnì cíle kouzla (efekt je vyšší pøi použití na slabší jednotku)."

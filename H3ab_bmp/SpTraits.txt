@@ -3,22 +3,22 @@ Název	Zkrácenı název	Stupeò 	Zemì 	Voda	Oheò 	Vzduch	Nic	Základní 	Lepší 	Expert
 																																	
 Cestovní kouzla																																	
 																																	
-Zavolej loï 	Zavolej loï 	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Zavolej loï }
+Pøivolej loï 	Pøivolej loï 	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Pøivolej loï }
 
 Pøivolá nejbliší volnou loï. Hrdina musí stát na bøehu a musí existovat nìjaká neobsazená loï.
 
 Tvá šance na úspìch je 50%.
-"	"{Základní Zavolej loï }
+"	"{Základní pøivolej loï }
 
 Pøivolá nejbliší volnou loï. Hrdina musí stát na bøehu a musí existovat nìjaká neobsazená loï.
 
 Tvá šance na úspìch je 50%.
-"	"{Lepší zavolej loï }
+"	"{Lepší pøivolej loï }
 
 Pøivolá nejbliší volnou loï, hrdina musí stát na bøehu. Pokud ádná loï neexistuje, je postavena nová.
 
 Tvá šance na úspìch je 75%.
-"	"{Expert zavolej loï }
+"	"{Expert pøivolej loï }
 
 Pøivolá nejbliší volnou loï, hrdina musí stát na bøehu. Pokud ádná loï neexistuje, je postavena nová.
 "	 ADV_SPELL
@@ -404,22 +404,22 @@ Poškodí na bojišti všechny oddíly s nemrtvımi bojovníky.
 
 Zpùsobené škody jsou o 40 bodù vìtší oproti kouzlu základní zniè nemrtvé.
 "	 COMBAT_SPELL
-Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+Armagedon	Armagedon	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armagedon}
 
 Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
-"	"{Základní armageddon}
+"	"{Základní armagedon}
 
 Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
-"	"{Lepší armageddon}
-
-Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
-
-Zpùsobené škody jsou o 30 bodù vìtší oproti kouzlu základní armageddon.
-"	"{Expert armageddon}
+"	"{Lepší armagedon}
 
 Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
 
-Zpùsobené škody jsou o 90 bodù vìtší oproti kouzlu základní armageddon.
+Zpùsobené škody jsou o 30 bodù vìtší oproti kouzlu základní armagedon.
+"	"{Expert armagedon}
+
+Den posledního soudu je zde a na bojištì se snese ohnivı déš, kterı poškodí všechny oddíly.
+
+Zpùsobené škody jsou o 90 bodù vìtší oproti kouzlu základní armagedon.
 "	 COMBAT_SPELL
  Štít	 Štít	1	x	 	 	 	5	4	4	4	0	85	85	70	70	10	3	5	3	10	5	5	5	5	10	10	20	20	"{ Štít}
 
@@ -475,7 +475,7 @@ Poškození je o 10% vìtší ne u základního ohnivého štítu.
 Vzdušná ochrana	Vzdušná ochrana	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Ochrana pøed kouzly vzduchu}
 
 Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vzduchu.
-"	"{Základní ochrana pøed kouzly {vzduchu}
+"	"{Základní ochrana pøed kouzly vzduchu}
 
 Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vzduchu.
 "	"{Lepší ochrana pøed kouzly vzduchu}
@@ -492,7 +492,7 @@ Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly vzduchu.
 Ohnivá ochrana	Ohnivá ochrana	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Ochrana pøed kouzly ohnì }
 
 Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla ohnì.
-"	"{Základní ochrana pøed kouzly {ohnì }
+"	"{Základní ochrana pøed kouzly ohnì }
 
 Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla ohnì.
 "	"{Lepší ochrana pøed kouzly ohnì }
@@ -509,7 +509,7 @@ Ochrana je dvakrát vìtší oproti kouzlu základní ochrana pøed kouzly ohnì.
 Vodní ochrana	Vodní ochrana	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Ochrana pøed kouzly vody}
 
 Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vody.
-"	"{Základní ochrana pøed kouzly {vody}
+"	"{Základní ochrana pøed kouzly vody}
 
 Ochraòuje vybranı oddíl a sniuje tak škody, které mu mohou zpùsobit kouzla vody.
 "	"{Lepší ochrana pøed kouzly vody}
@@ -931,22 +931,22 @@ Vybranı oddíl mùe pøi obranì vrátit v kadém kole dva údery navíc.
 
 Všechny tvé oddíly mohou pøi obranì vrátit v kadém kole dva údery navíc.
 "	 COMBAT_SPELL|CREATURE_TARGET_2
-Berserk	Berserk	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Berserk}
+Šílenství	Šílenství	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Šílenství}
 
 Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
-"	"{Základní berserk}
+"	"{Základní šílenství}
 
 Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
-"	"{Lepší berserk}
-
-Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
-
-Oddíl mùe útoèit do vzdálenosti o 6 polí vìtší oproti kouzlu základní berserk.
-"	"{Expert berserk}
+"	"{Lepší šílenství}
 
 Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
 
-Oddíl mùe útoèit do vzdálenosti o 18 polí vìtší oproti kouzlu základní berserk.
+Oddíl mùe útoèit do vzdálenosti o 6 polí vìtší oproti kouzlu základní šílenství.
+"	"{Expert šílenství}
+
+Vybranı oddíl nepøítele zaútoèí na svého nejblišího souseda, a u pøítele nebo nepøítele.
+
+Oddíl mùe útoèit do vzdálenosti o 18 polí vìtší oproti kouzlu základní šílenství.
 "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
 Hypnóza	Hypnóza	3	 	 	 	x	18	15	15	15	25	10	10	20	50	4	4	8	6	0	8	4	4	12	25	25	50	100	"{Hypnóza}
 
@@ -1045,7 +1045,7 @@ Klonovat lze bojovníky všech 7 stupòù.
 Ohnivé elem.	Ohnivé elem.	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Pøivolej ohnivé elementály}
 
 Pøivolá na pomoc ohnivé elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
-"	"{Základní pøivolej ohnivé {elementály}
+"	"{Základní pøivolej ohnivé elementály}
 
 Pøivolá na pomoc ohnivé elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
 "	"{Lepší pøivolej ohnivé elementály}
@@ -1062,7 +1062,7 @@ Zavolá dvakrát více bojovníkù ne základní pøivolej ohnivé elementály.
 Zemské elem.	Zemské elem.	5	x				25	20	20	20	0	2	2	3	4	0	16	14	16	16	12	0	0	12	50	50	100	150	"{Pøivolej zemské elementály}
 
 Pøivolá na pomoc zemské elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
-"	"{Základní pøivolej zemské {elementály}
+"	"{Základní pøivolej zemské elementály}
 
 Pøivolá na pomoc zemské elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
 "	"{Lepší pøivolej zemské elementály}
@@ -1096,7 +1096,7 @@ Zavolá dvakrát více bojovníkù ne základní pøivolej vodní elementály.
 Vzdušné elem.	Vzdušné elem.	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Pøivolej vzdušné elementály}
 
 Pøivolá na pomoc vzdušné elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
-"	"{Základní pøivolej vzdušné {elementály}
+"	"{Základní pøivolej vzdušné elementály}
 
 Pøivolá na pomoc Vzdušné elementály.  Po seslání kouzla u nelze pøivolat jiné druhy elementálù.
 "	"{Lepší pøivolej vzdušné elementály}

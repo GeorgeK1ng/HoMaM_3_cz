@@ -1,0 +1,37 @@
+name: Build Inno Setup installer
+
+on:
+  push:
+    branches: [ main, master, autobuild ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Inno Setup 5.5.9 (Unicode) via Chocolatey
+        shell: pwsh
+        run: |
+          choco install innosetup --version=5.5.9.20161208 -y
+          & "C:\Program Files (x86)\Inno Setup 5\ISCC.exe" /? | Select-Object -First 5
+
+      - name: Compile installer with ISCC
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path dist | Out-Null
+          & "C:\Program Files (x86)\Inno Setup 5\ISCC.exe" `
+            /O"$PWD\dist" `
+            "Installer.iss"
+          if ($LASTEXITCODE -ne 0) { throw "ISCC failed with exit code $LASTEXITCODE" }
+
+      - name: Upload installer artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: homam3-cz-installer
+          path: dist\*.exe
+          if-no-files-found: error
